@@ -1,0 +1,2164 @@
+{
+    "response": {
+        "numFound": 949,
+        "start": 0,
+        "docs": [
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "CLIF Energy Bar Crunchy Peanut Butter - 6-2.4 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960032710",
+                "aisleId": "1_17_2_4",
+                "upc": "0072225266008",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.49,
+                "salesRank": 915,
+                "shelfName": "Sport Nutrition & Energy",
+                "id": "960032710",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 36.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "COUNT",
+                "aisleName": "Cold & Allergy",
+                "name": "Zyrtec Tablets Allergy Reliff 10mg - 70 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960143033",
+                "aisleId": "1_17_3_1",
+                "upc": "300450204703",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.53,
+                "salesRank": 5384,
+                "shelfName": "Allergy - Adult",
+                "id": "960143033",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02OTQtMy05MzRkNzVlZS1iNTM2LTRhYzUtYWRjOS04OGNkNjRkZWY0OGU",
+                "agreementId": 124569,
+                "featuredProductId": 5462
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Ensure Nutrition Shake Original Milk Chocolate - 6-8 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "149100219",
+                "aisleId": "1_17_2_1",
+                "upc": "0007007440701",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 267,
+                "shelfName": "Active Health Management",
+                "id": "149100219",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "COUNT",
+                "aisleName": "Skin Care & Cosmetics",
+                "name": "Neutrogena Makeup Remover Cleansing Towelettes Refill Pack Pre Moistened - 25 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960006798",
+                "aisleId": "1_17_17_8",
+                "upc": "070501051054",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 4930,
+                "shelfName": "Facial Cleansers",
+                "id": "960006798",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02OTQtMy05MzRkNzVlZS1iNTM2LTRhYzUtYWRjOS04OGNkNjRkZWY0OGU",
+                "agreementId": 124289,
+                "featuredProductId": 5451
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Cold & Allergy|1_17_3",
+                "name": "HALLS Cough Suppressant Drops Triple Soothing Action Cherry - 30 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "158500393",
+                "aisleId": "1_17_3_6",
+                "upc": "0031254662749",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 10811,
+                "shelfName": "Cough & Throat Relief",
+                "id": "158500393",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "FL.OZ",
+                "aisleName": "Nutrition Solutions",
+                "name": "Orgain Protein Shake Organic Creamy Chocolate Fudge - 4-11 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960110262",
+                "aisleId": "1_17_2_1",
+                "upc": "860547000057",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 26671,
+                "shelfName": "Active Health Management",
+                "id": "960110262",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02OTQtMy05MzRkNzVlZS1iNTM2LTRhYzUtYWRjOS04OGNkNjRkZWY0OGU",
+                "agreementId": 123400,
+                "featuredProductId": 3421
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Irish Spring Deodorant Soap Bars Original - 8-3.75 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960012287",
+                "aisleId": "1_17_17_2",
+                "upc": "0003500014110",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 9713,
+                "shelfName": "Bar Soap",
+                "id": "960012287",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Oral Hygiene|1_17_13",
+                "name": "ARM & HAMMER Advance White Toothpaste Fluoride Anticavity Fresh Mint Flavor - 6 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "150010332",
+                "aisleId": "1_17_13_17",
+                "upc": "0003320018626",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.67,
+                "salesRank": 8691,
+                "shelfName": "Toothpaste",
+                "id": "150010332",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Ensure Nutrition Shake Original Vanilla - 6-8 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "149100215",
+                "aisleId": "1_17_2_1",
+                "upc": "0007007440711",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 141,
+                "shelfName": "Active Health Management",
+                "id": "149100215",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "OUNCE",
+                "aisleName": "Oral Hygiene",
+                "name": "Colgate Total Clean Mint Toothpaste - 4.8 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960481216",
+                "aisleId": "1_17_13_17",
+                "upc": "035000463777",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 1.25,
+                "salesRank": 99999,
+                "shelfName": "Toothpaste",
+                "id": "960481216",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02OTQtMy05MzRkNzVlZS1iNTM2LTRhYzUtYWRjOS04OGNkNjRkZWY0OGU",
+                "agreementId": 124423,
+                "featuredProductId": 5452
+            },
+            {
+                "price": 2.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Cold & Allergy|1_17_3",
+                "name": "Ricola Throat Drops Herb Lemon Mint Sugar Free - 19 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "158500252",
+                "aisleId": "1_17_3_6",
+                "upc": "0003660219210",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 6789,
+                "shelfName": "Cough & Throat Relief",
+                "id": "158500252",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Larabar Food Bar Apple Pie - 5-1.6 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960062001",
+                "aisleId": "1_17_2_11",
+                "upc": "0002190842314",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.87,
+                "salesRank": 10267,
+                "shelfName": "Lifestyle Nutrition",
+                "id": "960062001",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02OTQtMy05MzRkNzVlZS1iNTM2LTRhYzUtYWRjOS04OGNkNjRkZWY0OGU",
+                "agreementId": 84578,
+                "featuredProductId": 2807
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Mrs. Meyers Clean Day Liquid Hand Soap Lavender 12.5 fl oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960029304",
+                "aisleId": "1_17_17_13",
+                "upc": "0080812411104",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.34,
+                "salesRank": 7402,
+                "shelfName": "Liquid Soap",
+                "id": "960029304",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Dial Silk & Orchid Body Wash - 16 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960494532",
+                "aisleId": "1_17_17_4",
+                "upc": "0001700019087",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.37,
+                "salesRank": 99999,
+                "shelfName": "Body Wash",
+                "id": "960494532",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Larabar Food Bar Apple Pie - 5-1.6 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960062001",
+                "aisleId": "1_17_2_11",
+                "upc": "0002190842314",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.87,
+                "salesRank": 10267,
+                "shelfName": "Lifestyle Nutrition",
+                "id": "960062001",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Dial Body Wash Refreshing Lavender & Twilight Jasmine - 16 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960072602",
+                "aisleId": "1_17_17_4",
+                "upc": "0001700007191",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.37,
+                "salesRank": 18374,
+                "shelfName": "Body Wash",
+                "id": "960072602",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "CLIF Energy Bar Chocolate Chip - 6-2.4 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "960032709",
+                "aisleId": "1_17_2_4",
+                "upc": "0072225266004",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.49,
+                "salesRank": 694,
+                "shelfName": "Sport Nutrition & Energy",
+                "id": "960032709",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Ivory Bar Soap Pure Clean & Simple Original - 10 - 4 Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960069789",
+                "aisleId": "1_17_17_2",
+                "upc": "0003700082758",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 9104,
+                "shelfName": "Bar Soap",
+                "id": "960069789",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 1.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Signature Care Hand Soap Clear Moisturizing - 7.5 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960197766",
+                "aisleId": "1_17_17_13",
+                "upc": "0032113079911",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.17,
+                "salesRank": 35197,
+                "shelfName": "Liquid Soap",
+                "id": "960197766",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.29&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Dial Deodorant Soap Bars White - 8-4 Oz",
+                "departmentName": "Personal Care & Health",
+                "pid": "153010407",
+                "aisleId": "1_17_17_2",
+                "upc": "0001700002411",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 14886,
+                "shelfName": "Bar Soap",
+                "id": "153010407",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 10.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Dove Body Wash Nourishing Sensitive Skin Unscented - 22 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "153100415",
+                "aisleId": "1_17_17_4",
+                "upc": "0001111112224",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 3135,
+                "shelfName": "Body Wash",
+                "id": "153100415",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 15.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Personal & Adult Care|1_17_12",
+                "name": "Poise Pads Long Length Moderate Absorbency - 54 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960071232",
+                "aisleId": "1_17_12_1",
+                "upc": "0003600033590",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.3,
+                "salesRank": 3195,
+                "shelfName": "Adult Care",
+                "id": "960071232",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $15.99&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            },
+            {
+                "price": 15.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Personal & Adult Care|1_17_12",
+                "name": "Depend Underwear For Women Maximum Absorbency Extra Large - 15 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960085772",
+                "aisleId": "1_17_12_1",
+                "upc": "0003600038532",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 16.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.07,
+                "salesRank": 1041,
+                "shelfName": "Adult Care",
+                "id": "960085772",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $15.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 26.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Ensure Nutrition Shake Original Ready To Drink Milk Chocolate - 16-8 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960070996",
+                "aisleId": "1_17_2_1",
+                "upc": "0007007453623",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 26.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 727,
+                "shelfName": "Active Health Management",
+                "id": "960070996",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 22.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "BOOST Nutritional Drink High Protein Very Vanilla - 12-8 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960096540",
+                "aisleId": "1_17_2_1",
+                "upc": "0004167902200",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 22.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 7994,
+                "shelfName": "Active Health Management",
+                "id": "960096540",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 14.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cold & Allergy|1_17_3",
+                "name": "FLONASE Allergy Relief Metered Spray 60 Sprays - 0.34 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960129203",
+                "aisleId": "1_17_3_1",
+                "upc": "0035310020010",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 16.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 44.09,
+                "salesRank": 4897,
+                "shelfName": "Allergy - Adult",
+                "id": "960129203",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $14.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 26.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Cold & Allergy|1_17_3",
+                "name": "Claritin Antihistamine Tablets Indoor & Outdoor Allergies 10mg RediTabs - 30 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "158350031",
+                "aisleId": "1_17_3_1",
+                "upc": "0004110080604",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 26.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.9,
+                "salesRank": 4661,
+                "shelfName": "Allergy - Adult",
+                "id": "158350031",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 13.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Vitamins & Supplements|1_17_18",
+                "name": "Centrum Silver Multivitamin/Multimineral Tablets Men 50+ - 100 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "256010014",
+                "aisleId": "1_17_18_8",
+                "upc": "0030005475850",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.14,
+                "salesRank": 5421,
+                "shelfName": "Multi Vitamins",
+                "id": "256010014",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 21.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Vitamins & Supplements|1_17_18",
+                "name": "Nature Made Vitamin D Supplement Softgels D3 5000 IU - 90 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960038720",
+                "aisleId": "1_17_18_10",
+                "upc": "0003160402621",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 21.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 4293,
+                "shelfName": "Vitamins",
+                "id": "960038720",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 13.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Vitamins & Supplements|1_17_18",
+                "name": "Nature Made Stress B-Complex Tablets With Vitamin C & Zinc - 75 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960056156",
+                "aisleId": "1_17_18_10",
+                "upc": "0003160402725",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 24340,
+                "shelfName": "Vitamins",
+                "id": "960056156",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 23.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "Orgain Organic Protein Plant Based Powder Vanilla Bean - 1.02 Lb",
+                "departmentName": "Personal Care & Health",
+                "pid": "960267339",
+                "aisleId": "1_17_2_11",
+                "upc": "0085177000392",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 23.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.48,
+                "salesRank": 8570,
+                "shelfName": "Lifestyle Nutrition",
+                "id": "960267339",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 22.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Nutrition Solutions|1_17_2",
+                "name": "BOOST Nutritional Drink Original Rich Chocolate - 12-8 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960086974",
+                "aisleId": "1_17_2_1",
+                "upc": "0004167980218",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 22.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 3537,
+                "shelfName": "Active Health Management",
+                "id": "960086974",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 13.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Neutrogena Makeup Remover Cleansing Towelettes Refill Pack - 2-25 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960127836",
+                "aisleId": "1_17_17_8",
+                "upc": "0007050137393",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 14.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 2803,
+                "shelfName": "Facial Cleansers",
+                "id": "960127836",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $13.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 12.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Skin Care & Cosmetics|1_17_17",
+                "name": "Aveeno Active Naturals Lotion Daily Moisturizing - 18 Fl. Oz.",
+                "departmentName": "Personal Care & Health",
+                "pid": "960030966",
+                "aisleId": "1_17_17_15",
+                "upc": "0038137003844",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 12.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.72,
+                "salesRank": 8139,
+                "shelfName": "Hand & Body Lotion",
+                "id": "960030966",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 15.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Personal & Adult Care|1_17_12",
+                "name": "Poise Pads Ultimate Absorbency Long Length - 27 Count",
+                "departmentName": "Personal Care & Health",
+                "pid": "960100863",
+                "aisleId": "1_17_12_1",
+                "upc": "0003600033593",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.59,
+                "salesRank": 1375,
+                "shelfName": "Adult Care",
+                "id": "960100863",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $15.99&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 219,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 412,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 200,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 86,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 32,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "949",
+                    "name": "Personal Care & Health"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "20",
+                    "name": "Ensure"
+                },
+                {
+                    "count": "8",
+                    "name": "Dial"
+                },
+                {
+                    "count": "29",
+                    "name": "CLIF"
+                },
+                {
+                    "count": "20",
+                    "name": "Nature Made"
+                },
+                {
+                    "count": "11",
+                    "name": "BOOST"
+                },
+                {
+                    "count": "7",
+                    "name": "Poise"
+                },
+                {
+                    "count": "79",
+                    "name": "Signature Care"
+                },
+                {
+                    "count": "35",
+                    "name": "Dove"
+                },
+                {
+                    "count": "11",
+                    "name": "Larabar"
+                },
+                {
+                    "count": "9",
+                    "name": "Aveeno"
+                },
+                {
+                    "count": "9",
+                    "name": "Halls"
+                },
+                {
+                    "count": "7",
+                    "name": "Claritin"
+                },
+                {
+                    "count": "7",
+                    "name": "Irish Spring"
+                },
+                {
+                    "count": "6",
+                    "name": "Ricola"
+                },
+                {
+                    "count": "4",
+                    "name": "ARM & HAMMER"
+                },
+                {
+                    "count": "4",
+                    "name": "Centrum"
+                },
+                {
+                    "count": "4",
+                    "name": "Orgain"
+                },
+                {
+                    "count": "3",
+                    "name": "Depend"
+                },
+                {
+                    "count": "3",
+                    "name": "Mrs Meyers"
+                },
+                {
+                    "count": "2",
+                    "name": "Flonase"
+                },
+                {
+                    "count": "2",
+                    "name": "Ivory"
+                },
+                {
+                    "count": "40",
+                    "name": "L'Oreal"
+                },
+                {
+                    "count": "17",
+                    "name": "Atkins"
+                },
+                {
+                    "count": "14",
+                    "name": "Colgate"
+                },
+                {
+                    "count": "13",
+                    "name": "Maybelline"
+                },
+                {
+                    "count": "13",
+                    "name": "Pantene"
+                },
+                {
+                    "count": "12",
+                    "name": "Advil"
+                },
+                {
+                    "count": "12",
+                    "name": "Secret"
+                },
+                {
+                    "count": "11",
+                    "name": "Tampax"
+                },
+                {
+                    "count": "10",
+                    "name": "Always"
+                },
+                {
+                    "count": "10",
+                    "name": "Muscle Milk"
+                },
+                {
+                    "count": "9",
+                    "name": "Garnier"
+                },
+                {
+                    "count": "9",
+                    "name": "Head & Shoulders"
+                },
+                {
+                    "count": "9",
+                    "name": "Just For Men"
+                },
+                {
+                    "count": "9",
+                    "name": "Neutrogena"
+                },
+                {
+                    "count": "9",
+                    "name": "Old Spice"
+                },
+                {
+                    "count": "9",
+                    "name": "Organix"
+                },
+                {
+                    "count": "7",
+                    "name": "ACT"
+                },
+                {
+                    "count": "7",
+                    "name": "Axe"
+                },
+                {
+                    "count": "7",
+                    "name": "LUNA"
+                },
+                {
+                    "count": "7",
+                    "name": "Listerine"
+                },
+                {
+                    "count": "7",
+                    "name": "Power Crunch"
+                },
+                {
+                    "count": "7",
+                    "name": "Revlon"
+                },
+                {
+                    "count": "7",
+                    "name": "SlimFast"
+                },
+                {
+                    "count": "7",
+                    "name": "Summers Eve"
+                },
+                {
+                    "count": "6",
+                    "name": "Crest"
+                },
+                {
+                    "count": "6",
+                    "name": "KIND"
+                },
+                {
+                    "count": "6",
+                    "name": "OGX"
+                },
+                {
+                    "count": "6",
+                    "name": "Oral-B"
+                },
+                {
+                    "count": "6",
+                    "name": "RXBAR"
+                },
+                {
+                    "count": "6",
+                    "name": "Sensodyne"
+                },
+                {
+                    "count": "6",
+                    "name": "VitaFusion"
+                },
+                {
+                    "count": "6",
+                    "name": "Zicam"
+                },
+                {
+                    "count": "5",
+                    "name": "Afrin"
+                },
+                {
+                    "count": "5",
+                    "name": "Aleve"
+                },
+                {
+                    "count": "5",
+                    "name": "Degree"
+                },
+                {
+                    "count": "5",
+                    "name": "Fructis"
+                },
+                {
+                    "count": "5",
+                    "name": "Gillette"
+                },
+                {
+                    "count": "5",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "5",
+                    "name": "Sally Hansen"
+                },
+                {
+                    "count": "5",
+                    "name": "Think Thin"
+                },
+                {
+                    "count": "5",
+                    "name": "Trojan"
+                },
+                {
+                    "count": "5",
+                    "name": "Tums"
+                },
+                {
+                    "count": "4",
+                    "name": "COVERGIRL"
+                },
+                {
+                    "count": "4",
+                    "name": "Diamond Cosmetics"
+                },
+                {
+                    "count": "4",
+                    "name": "Edge"
+                },
+                {
+                    "count": "4",
+                    "name": "John Frieda"
+                },
+                {
+                    "count": "4",
+                    "name": "Nexxus"
+                },
+                {
+                    "count": "4",
+                    "name": "Pepto-Bismol"
+                },
+                {
+                    "count": "4",
+                    "name": "Premier Protein"
+                },
+                {
+                    "count": "4",
+                    "name": "Pure Protein"
+                },
+                {
+                    "count": "4",
+                    "name": "Quest Bar"
+                },
+                {
+                    "count": "4",
+                    "name": "TRESemme"
+                },
+                {
+                    "count": "4",
+                    "name": "U by Kotex"
+                },
+                {
+                    "count": "3",
+                    "name": "5-hour ENERGY"
+                },
+                {
+                    "count": "3",
+                    "name": "Airborne"
+                },
+                {
+                    "count": "3",
+                    "name": "Bayer"
+                },
+                {
+                    "count": "3",
+                    "name": "Biolage"
+                },
+                {
+                    "count": "3",
+                    "name": "Cetaphil"
+                },
+                {
+                    "count": "3",
+                    "name": "Clairol"
+                },
+                {
+                    "count": "3",
+                    "name": "Dr Bronners"
+                },
+                {
+                    "count": "3",
+                    "name": "GUM"
+                },
+                {
+                    "count": "3",
+                    "name": "Gold Bond"
+                },
+                {
+                    "count": "3",
+                    "name": "Herbal Essences"
+                },
+                {
+                    "count": "3",
+                    "name": "Jergens"
+                },
+                {
+                    "count": "3",
+                    "name": "Lubriderm"
+                },
+                {
+                    "count": "3",
+                    "name": "Maui Moisture"
+                },
+                {
+                    "count": "3",
+                    "name": "Mitchum"
+                },
+                {
+                    "count": "3",
+                    "name": "Motrin"
+                },
+                {
+                    "count": "3",
+                    "name": "Natures Truth"
+                },
+                {
+                    "count": "3",
+                    "name": "Olay"
+                },
+                {
+                    "count": "3",
+                    "name": "Playtex"
+                },
+                {
+                    "count": "3",
+                    "name": "Prilosec"
+                },
+                {
+                    "count": "3",
+                    "name": "Speed Stick"
+                },
+                {
+                    "count": "3",
+                    "name": "Suave"
+                },
+                {
+                    "count": "3",
+                    "name": "Vaseline"
+                },
+                {
+                    "count": "3",
+                    "name": "Zarbees"
+                },
+                {
+                    "count": "3",
+                    "name": "Zyrtec"
+                },
+                {
+                    "count": "2",
+                    "name": "Allegra"
+                },
+                {
+                    "count": "2",
+                    "name": "Aquafresh"
+                },
+                {
+                    "count": "2",
+                    "name": "Aussie"
+                },
+                {
+                    "count": "2",
+                    "name": "Batiste"
+                },
+                {
+                    "count": "2",
+                    "name": "Bed Head"
+                },
+                {
+                    "count": "2",
+                    "name": "Biotene"
+                },
+                {
+                    "count": "2",
+                    "name": "Breathe Right"
+                },
+                {
+                    "count": "2",
+                    "name": "Chloraseptic"
+                },
+                {
+                    "count": "2",
+                    "name": "Dulcolax"
+                },
+                {
+                    "count": "2",
+                    "name": "Ecotrin"
+                },
+                {
+                    "count": "2",
+                    "name": "Eucerin"
+                },
+                {
+                    "count": "2",
+                    "name": "Excedrin"
+                },
+                {
+                    "count": "2",
+                    "name": "First Response"
+                },
+                {
+                    "count": "2",
+                    "name": "Fleet"
+                },
+                {
+                    "count": "2",
+                    "name": "Gatorade"
+                },
+                {
+                    "count": "2",
+                    "name": "Glucerna"
+                },
+                {
+                    "count": "2",
+                    "name": "Johnson & Johnson"
+                },
+                {
+                    "count": "2",
+                    "name": "Kiss"
+                },
+                {
+                    "count": "2",
+                    "name": "Kotex"
+                },
+                {
+                    "count": "2",
+                    "name": "Metamucil"
+                },
+                {
+                    "count": "2",
+                    "name": "MiraLAX"
+                },
+                {
+                    "count": "2",
+                    "name": "NeilMed"
+                },
+                {
+                    "count": "2",
+                    "name": "Nexium"
+                },
+                {
+                    "count": "2",
+                    "name": "Nice 'n Easy"
+                },
+                {
+                    "count": "2",
+                    "name": "Nivea"
+                },
+                {
+                    "count": "2",
+                    "name": "One A Day"
+                },
+                {
+                    "count": "2",
+                    "name": "Paul Mitchell"
+                },
+                {
+                    "count": "2",
+                    "name": "Phillips"
+                },
+                {
+                    "count": "2",
+                    "name": "Poligrip"
+                },
+                {
+                    "count": "2",
+                    "name": "Ponds"
+                },
+                {
+                    "count": "2",
+                    "name": "Purely Inspired"
+                },
+                {
+                    "count": "2",
+                    "name": "Right Guard"
+                },
+                {
+                    "count": "2",
+                    "name": "Sebastian"
+                },
+                {
+                    "count": "2",
+                    "name": "Senokot"
+                },
+                {
+                    "count": "2",
+                    "name": "SheaMoisture"
+                },
+                {
+                    "count": "2",
+                    "name": "Simple"
+                },
+                {
+                    "count": "2",
+                    "name": "Skintimate"
+                },
+                {
+                    "count": "2",
+                    "name": "Soaptopia"
+                },
+                {
+                    "count": "2",
+                    "name": "St Joseph"
+                },
+                {
+                    "count": "2",
+                    "name": "Tigers Milk"
+                },
+                {
+                    "count": "2",
+                    "name": "Tom's Of Maine"
+                },
+                {
+                    "count": "2",
+                    "name": "Unisom"
+                },
+                {
+                    "count": "2",
+                    "name": "Vagisil"
+                },
+                {
+                    "count": "2",
+                    "name": "Vicks"
+                },
+                {
+                    "count": "2",
+                    "name": "o.b."
+                },
+                {
+                    "count": "1",
+                    "name": "4 Way"
+                },
+                {
+                    "count": "1",
+                    "name": "Aim"
+                },
+                {
+                    "count": "1",
+                    "name": "Align"
+                },
+                {
+                    "count": "1",
+                    "name": "American Crew"
+                },
+                {
+                    "count": "1",
+                    "name": "Astroglide"
+                },
+                {
+                    "count": "1",
+                    "name": "BENADRYL"
+                },
+                {
+                    "count": "1",
+                    "name": "Balance"
+                },
+                {
+                    "count": "1",
+                    "name": "Ban"
+                },
+                {
+                    "count": "1",
+                    "name": "Banana Boat"
+                },
+                {
+                    "count": "1",
+                    "name": "Bic"
+                },
+                {
+                    "count": "1",
+                    "name": "Big Sexy Hair"
+                },
+                {
+                    "count": "1",
+                    "name": "Body Fortress"
+                },
+                {
+                    "count": "1",
+                    "name": "Boiron"
+                },
+                {
+                    "count": "1",
+                    "name": "Braun"
+                },
+                {
+                    "count": "1",
+                    "name": "Carefree"
+                },
+                {
+                    "count": "1",
+                    "name": "Caress"
+                },
+                {
+                    "count": "1",
+                    "name": "Cepacol"
+                },
+                {
+                    "count": "1",
+                    "name": "Clear Eyes"
+                },
+                {
+                    "count": "1",
+                    "name": "Colace"
+                },
+                {
+                    "count": "1",
+                    "name": "Dr Teals"
+                },
+                {
+                    "count": "1",
+                    "name": "Dry Idea"
+                },
+                {
+                    "count": "1",
+                    "name": "DulcoEase"
+                },
+                {
+                    "count": "1",
+                    "name": "EO"
+                },
+                {
+                    "count": "1",
+                    "name": "Efferdent"
+                },
+                {
+                    "count": "1",
+                    "name": "Every Man Jack"
+                },
+                {
+                    "count": "1",
+                    "name": "Feria"
+                },
+                {
+                    "count": "1",
+                    "name": "Finesse"
+                },
+                {
+                    "count": "1",
+                    "name": "Fishermans Friend"
+                },
+                {
+                    "count": "1",
+                    "name": "Fixodent"
+                },
+                {
+                    "count": "1",
+                    "name": "Flintstones"
+                },
+                {
+                    "count": "1",
+                    "name": "Goody"
+                },
+                {
+                    "count": "1",
+                    "name": "Green Goo"
+                },
+                {
+                    "count": "1",
+                    "name": "Icy Hot"
+                },
+                {
+                    "count": "1",
+                    "name": "Imodium"
+                },
+                {
+                    "count": "1",
+                    "name": "Its A 10"
+                },
+                {
+                    "count": "1",
+                    "name": "Kirks Castile"
+                },
+                {
+                    "count": "1",
+                    "name": "LOreal"
+                },
+                {
+                    "count": "1",
+                    "name": "Lenny & Larrys"
+                },
+                {
+                    "count": "1",
+                    "name": "LifeStyles"
+                },
+                {
+                    "count": "1",
+                    "name": "Liquid IV"
+                },
+                {
+                    "count": "1",
+                    "name": "Midol"
+                },
+                {
+                    "count": "1",
+                    "name": "Mucinex"
+                },
+                {
+                    "count": "1",
+                    "name": "Nature's Bounty"
+                },
+                {
+                    "count": "1",
+                    "name": "Nature's Way"
+                },
+                {
+                    "count": "1",
+                    "name": "Natures Bounty"
+                },
+                {
+                    "count": "1",
+                    "name": "Natures Earthly Choice"
+                },
+                {
+                    "count": "1",
+                    "name": "No Nonsense"
+                },
+                {
+                    "count": "1",
+                    "name": "Not Your Mothers"
+                },
+                {
+                    "count": "1",
+                    "name": "ON"
+                },
+                {
+                    "count": "1",
+                    "name": "Oh Yeah"
+                },
+                {
+                    "count": "1",
+                    "name": "Orajel"
+                },
+                {
+                    "count": "1",
+                    "name": "Pbfit"
+                },
+                {
+                    "count": "1",
+                    "name": "Pert Plus"
+                },
+                {
+                    "count": "1",
+                    "name": "Polident"
+                },
+                {
+                    "count": "1",
+                    "name": "PreserVision"
+                },
+                {
+                    "count": "1",
+                    "name": "Redken"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "150",
+                    "name": "Skin Care & Cosmetics|1_17_17"
+                },
+                {
+                    "count": "174",
+                    "name": "Nutrition Solutions|1_17_2"
+                },
+                {
+                    "count": "78",
+                    "name": "Cold & Allergy|1_17_3"
+                },
+                {
+                    "count": "45",
+                    "name": "Vitamins & Supplements|1_17_18"
+                },
+                {
+                    "count": "23",
+                    "name": "Personal & Adult Care|1_17_12"
+                },
+                {
+                    "count": "79",
+                    "name": "Oral Hygiene|1_17_13"
+                },
+                {
+                    "count": "163",
+                    "name": "Hair Care|1_17_11"
+                },
+                {
+                    "count": "61",
+                    "name": "Deodorants|1_17_4"
+                },
+                {
+                    "count": "55",
+                    "name": "Pain Relief|1_17_14"
+                },
+                {
+                    "count": "43",
+                    "name": "Feminine Care|1_17_8"
+                },
+                {
+                    "count": "41",
+                    "name": "Antacid & Digestive Aids|1_17_1"
+                },
+                {
+                    "count": "13",
+                    "name": "Family Planning|1_17_7"
+                },
+                {
+                    "count": "13",
+                    "name": "Shave Needs|1_17_16"
+                },
+                {
+                    "count": "6",
+                    "name": "First Aid & Medical Care|1_17_19"
+                },
+                {
+                    "count": "3",
+                    "name": "Eye & Ear Care|1_17_6"
+                },
+                {
+                    "count": "1",
+                    "name": "Foot Care|1_17_10"
+                },
+                {
+                    "count": "1",
+                    "name": "Pantyhose & Apparel|1_17_15"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "667",
+                    "name": "N"
+                },
+                {
+                    "count": "282",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "119",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "157",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "34",
+                    "name": "Organic"
+                },
+                {
+                    "count": "18",
+                    "name": "Lactose Free"
+                },
+                {
+                    "count": "10",
+                    "name": "Low Sodium"
+                },
+                {
+                    "count": "25",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "18",
+                    "name": "Sugar Free"
+                },
+                {
+                    "count": "13",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Fat Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "949",
+                    "name": "Personal Care & Health:|1_17"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "29",
+                    "name": "Active Health Management|1_17_2_1"
+                },
+                {
+                    "count": "23",
+                    "name": "Adult Care|1_17_12_1"
+                },
+                {
+                    "count": "20",
+                    "name": "Body Wash|1_17_17_4"
+                },
+                {
+                    "count": "19",
+                    "name": "Bar Soap|1_17_17_2"
+                },
+                {
+                    "count": "66",
+                    "name": "Sport Nutrition & Energy|1_17_2_4"
+                },
+                {
+                    "count": "54",
+                    "name": "Lifestyle Nutrition|1_17_2_11"
+                },
+                {
+                    "count": "23",
+                    "name": "Cough & Throat Relief|1_17_3_6"
+                },
+                {
+                    "count": "19",
+                    "name": "Vitamins|1_17_18_10"
+                },
+                {
+                    "count": "16",
+                    "name": "Allergy - Adult|1_17_3_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Liquid Soap|1_17_17_13"
+                },
+                {
+                    "count": "34",
+                    "name": "Toothpaste|1_17_13_17"
+                },
+                {
+                    "count": "21",
+                    "name": "Hand & Body Lotion|1_17_17_15"
+                },
+                {
+                    "count": "20",
+                    "name": "Facial Cleansers|1_17_17_8"
+                },
+                {
+                    "count": "13",
+                    "name": "Multi Vitamins|1_17_18_8"
+                },
+                {
+                    "count": "53",
+                    "name": "Hair Color & Perms|1_17_11_4"
+                },
+                {
+                    "count": "47",
+                    "name": "Cosmetics|1_17_17_20"
+                },
+                {
+                    "count": "42",
+                    "name": "Pain Relief|1_17_14_1"
+                },
+                {
+                    "count": "36",
+                    "name": "Performance Shampoo Cond|1_17_11_8"
+                },
+                {
+                    "count": "27",
+                    "name": "Womens Deodorant|1_17_4_2"
+                },
+                {
+                    "count": "26",
+                    "name": "Mens Deodorant|1_17_4_9"
+                },
+                {
+                    "count": "22",
+                    "name": "Laxative Treatments|1_17_1_8"
+                },
+                {
+                    "count": "22",
+                    "name": "Oral Rinse & Mouthwash|1_17_13_6"
+                },
+                {
+                    "count": "22",
+                    "name": "Weight Management|1_17_2_14"
+                },
+                {
+                    "count": "21",
+                    "name": "Natural & Organic|1_17_11_7"
+                },
+                {
+                    "count": "20",
+                    "name": "Premium & Salon Inspired|1_17_11_10"
+                },
+                {
+                    "count": "19",
+                    "name": "Nasal & Snoring Relief|1_17_3_11"
+                },
+                {
+                    "count": "17",
+                    "name": "Professional|1_17_11_11"
+                },
+                {
+                    "count": "16",
+                    "name": "Tampons|1_17_8_4"
+                },
+                {
+                    "count": "15",
+                    "name": "Pads|1_17_8_3"
+                },
+                {
+                    "count": "12",
+                    "name": "Cough & Cold|1_17_3_5"
+                },
+                {
+                    "count": "11",
+                    "name": "Dental Floss|1_17_13_2"
+                },
+                {
+                    "count": "11",
+                    "name": "Feminine Care & Medicine|1_17_8_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Dandruff & Therapeutic|1_17_11_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Contraceptives|1_17_7_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Herbal Supplements|1_17_18_6"
+                },
+                {
+                    "count": "7",
+                    "name": "Sleep Aids & Stimulants|1_17_14_8"
+                },
+                {
+                    "count": "6",
+                    "name": "Acid Neutralizers|1_17_1_3"
+                },
+                {
+                    "count": "6",
+                    "name": "Cotton Balls & Swabs|1_17_17_6"
+                },
+                {
+                    "count": "6",
+                    "name": "Denture Care|1_17_13_4"
+                },
+                {
+                    "count": "6",
+                    "name": "Mens Body Spray|1_17_4_13"
+                },
+                {
+                    "count": "5",
+                    "name": "Facial Moisturizers|1_17_17_9"
+                },
+                {
+                    "count": "5",
+                    "name": "Mens Shave Needs|1_17_16_8"
+                },
+                {
+                    "count": "5",
+                    "name": "Pain Relief Pediatric|1_17_14_2"
+                },
+                {
+                    "count": "5",
+                    "name": "Proton Pump Inhibitors|1_17_1_11"
+                },
+                {
+                    "count": "4",
+                    "name": "Gastro Intestinal Relief|1_17_1_6"
+                },
+                {
+                    "count": "4",
+                    "name": "Pregnancy Kits|1_17_7_2"
+                },
+                {
+                    "count": "3",
+                    "name": "Allergy - Pediatric|1_17_3_2"
+                },
+                {
+                    "count": "3",
+                    "name": "Cough & Cold Pediatric|1_17_3_7"
+                },
+                {
+                    "count": "3",
+                    "name": "Diabetes Management|1_17_2_10"
+                },
+                {
+                    "count": "3",
+                    "name": "Eye Care|1_17_6_4"
+                },
+                {
+                    "count": "3",
+                    "name": "Kids & Family|1_17_11_6"
+                },
+                {
+                    "count": "3",
+                    "name": "Minerals|1_17_18_7"
+                },
+                {
+                    "count": "3",
+                    "name": "Performance Styling|1_17_11_9"
+                },
+                {
+                    "count": "3",
+                    "name": "Toothbrush|1_17_13_8"
+                },
+                {
+                    "count": "2",
+                    "name": "Alcohol & Peroxide|1_17_19_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Bath Care & Needs|1_17_17_5"
+                },
+                {
+                    "count": "2",
+                    "name": "Fiber Regimen|1_17_1_2"
+                },
+                {
+                    "count": "2",
+                    "name": "First Aid|1_17_19_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Mens Disposable Razor|1_17_16_4"
+                },
+                {
+                    "count": "2",
+                    "name": "Mens Razors/Cartridges|1_17_16_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Supplements|1_17_18_9"
+                },
+                {
+                    "count": "2",
+                    "name": "Unisex Deodorant|1_17_4_15"
+                },
+                {
+                    "count": "2",
+                    "name": "Womens Razors/Cartridges|1_17_16_6"
+                },
+                {
+                    "count": "2",
+                    "name": "Womens Shave Needs|1_17_16_9"
+                },
+                {
+                    "count": "1",
+                    "name": "After Bath Products|1_17_17_1"
+                },
+                {
+                    "count": "1",
+                    "name": "Anti Diarrhea|1_17_1_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Asthma & Bronchial|1_17_3_3"
+                },
+                {
+                    "count": "1",
+                    "name": "At Home Whitening|1_17_13_3"
+                },
+                {
+                    "count": "1",
+                    "name": "External Analgesics|1_17_14_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Hair Accessories|1_17_11_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Intimacy Enhancement|1_17_7_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Liners|1_17_8_2"
+                },
+                {
+                    "count": "1",
+                    "name": "Medical Supplies|1_17_19_5"
+                },
+                {
+                    "count": "1",
+                    "name": "Odor & Antifungal|1_17_10_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Pain Relief|1_17_13_7"
+                },
+                {
+                    "count": "1",
+                    "name": "Pantyhose & Knee Highs|1_17_15_1"
+                },
+                {
+                    "count": "1",
+                    "name": "Probiotics|1_17_1_13"
+                },
+                {
+                    "count": "1",
+                    "name": "Skin Treatments|1_17_19_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Sun Block|1_17_17_19"
+                },
+                {
+                    "count": "1",
+                    "name": "Thermometers|1_17_3_13"
+                },
+                {
+                    "count": "1",
+                    "name": "Toothbrush Powered|1_17_13_13"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

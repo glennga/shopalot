@@ -1,0 +1,1564 @@
+{
+    "response": {
+        "numFound": 374,
+        "start": 0,
+        "docs": [
+            {
+                "price": 14.39,
+                "basePrice": 14.39,
+                "name": "Toilet Paper White Bathroom Tissue 100g (White 10Rolls)",
+                "shelfName": "Toilet Paper"
+            },
+            {
+                "price": 17.39,
+                "basePrice": 17.39,
+                "name": "Toilet Paper White Bathroom Tissue 100g (White 15Rolls)",
+                "shelfName": "Toilet Paper"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Freezer Bags Gallon 28 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050038",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000382",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 322,
+                "shelfName": "Plastic Bags",
+                "id": "130050038",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Laundry Detergent Liquid HE Turbo Clean Downy April Fresh - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960105958",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700087473",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 4933,
+                "shelfName": "Laundry Detergent",
+                "id": "960105958",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkzLTMtNWJiMzM5ZDUtODA5ZS00N2EwLTgwNzgtYjFhN2I1YTNmMTkx",
+                "agreementId": 119958,
+                "featuredProductId": 1525,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Laundry Detergent Liquid HE Turbo Clean Downy April Fresh - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960105958",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700087473",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 4933,
+                "shelfName": "Laundry Detergent",
+                "id": "960105958",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Detergent Liquid Febreze Freshness Botanical Rain HE Turbo Clean - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960277414",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700098511",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 11468,
+                "shelfName": "Laundry Detergent",
+                "id": "960277414",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkzLTMtNWJiMzM5ZDUtODA5ZS00N2EwLTgwNzgtYjFhN2I1YTNmMTkx",
+                "agreementId": 119970,
+                "featuredProductId": 5351,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "SQ.FT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Glad Plastic Wrap Cling Wrap 200 Sq. Ft. - Each",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050215",
+                "aisleId": "1_18_20_5",
+                "upc": "0001258700020",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.02,
+                "salesRank": 2337,
+                "shelfName": "Plastic Wrap",
+                "id": "130050215",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Laundry Detergent Liquid Coldwater Clean Original Jug - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960106027",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700087420",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 6136,
+                "shelfName": "Laundry Detergent",
+                "id": "960106027",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkzLTMtNWJiMzM5ZDUtODA5ZS00N2EwLTgwNzgtYjFhN2I1YTNmMTkx",
+                "agreementId": 119976,
+                "featuredProductId": 5352,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Storage Bags Gallon 38 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050044",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000320",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 356,
+                "shelfName": "Plastic Bags",
+                "id": "130050044",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Cleaners & Supplies|1_18_8",
+                "name": "Windex Original Glass Cleaner Trigger 23 fl oz",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960234257",
+                "aisleId": "1_18_8_7",
+                "upc": "0001980070195",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 1976,
+                "shelfName": "Glass Cleaners",
+                "id": "960234257",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 19.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide PODS Detergent Pacs Free & Gentle - 72 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960150398",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700089892",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.28,
+                "salesRank": 2800,
+                "shelfName": "Laundry Detergent",
+                "id": "960150398",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Storage Bags Quart 48 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050106",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000310",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1275,
+                "shelfName": "Plastic Bags",
+                "id": "130050106",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkzLTMtNWJiMzM5ZDUtODA5ZS00N2EwLTgwNzgtYjFhN2I1YTNmMTkx",
+                "agreementId": 100574,
+                "featuredProductId": 648
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Laundry Detergent Liquid Coldwater Clean Original Jug - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960106027",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700087420",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 6136,
+                "shelfName": "Laundry Detergent",
+                "id": "960106027",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.59,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Storage Bags Gallon 19 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "330050025",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000350",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.59,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 4066,
+                "shelfName": "Plastic Bags",
+                "id": "330050025",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkzLTMtNWJiMzM5ZDUtODA5ZS00N2EwLTgwNzgtYjFhN2I1YTNmMTkx",
+                "agreementId": 100694,
+                "featuredProductId": 645
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Storage Bags Quart 48 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050106",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000310",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1275,
+                "shelfName": "Plastic Bags",
+                "id": "130050106",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus Detergent Liquid Febreze Freshness Botanical Rain HE Turbo Clean - 92 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960277414",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700098511",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 11468,
+                "shelfName": "Laundry Detergent",
+                "id": "960277414",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 1.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Tableware & Trash Bags|1_18_21",
+                "name": "Signature SELECT Spoons Plastic Everyday Heavy Duty Box - 48 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960110470",
+                "aisleId": "1_18_21_3",
+                "upc": "0002113027663",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.03,
+                "salesRank": 2457,
+                "shelfName": "Cutlery",
+                "id": "960110470",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Signature Select Bleach Regular - 121 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960513485",
+                "aisleId": "1_18_6_5",
+                "upc": "0002113043163",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.03,
+                "salesRank": 99999,
+                "shelfName": "Bleach",
+                "id": "960513485",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "SQ.FT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Reynolds Aluminum Foil Heavy Duty 50 Sq. Ft. - Each",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050445",
+                "aisleId": "1_18_20_2",
+                "upc": "0001090000021",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.08,
+                "salesRank": 2801,
+                "shelfName": "Foil",
+                "id": "130050445",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Freezer Bag Quart 38 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050045",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000381",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 955,
+                "shelfName": "Plastic Bags",
+                "id": "130050045",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Signature SELECT/Home Bags Sandwich Click & Lock Double Zipper - 90 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960515399",
+                "aisleId": "1_18_20_4",
+                "upc": "0002113042853",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.03,
+                "salesRank": 99999,
+                "shelfName": "Plastic Bags",
+                "id": "960515399",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "SQ.FT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Reynolds Parchment Paper Genuine Non-Stick 45 Sq. Ft. - Each",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960083890",
+                "aisleId": "1_18_20_6",
+                "upc": "0001090074331",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.1,
+                "salesRank": 4646,
+                "shelfName": "Freezer & Wax Paper",
+                "id": "960083890",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 10.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Cleaners & Supplies|1_18_8",
+                "name": "Swiffer Dusters Refills Multi Surface - 10 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "173450006",
+                "aisleId": "1_18_8_10",
+                "upc": "0003700041767",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.1,
+                "salesRank": 3219,
+                "shelfName": "Sweepers & Supplies",
+                "id": "173450006",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.59,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Ziploc Storage Bags Gallon 19 ct",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "330050025",
+                "aisleId": "1_18_20_4",
+                "upc": "0002570000350",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.59,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 4066,
+                "shelfName": "Plastic Bags",
+                "id": "330050025",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "EACH ",
+                "sellByWeight": "I",
+                "aisleName": "Cleaners & Supplies|1_18_8",
+                "name": "Swiffer Dusters Dusting Kit Heavy Duty Extendable Handle 1 Handle 3 Dusters - Each",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960057562",
+                "aisleId": "1_18_8_10",
+                "upc": "0003700080900",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 11.99,
+                "salesRank": 22220,
+                "shelfName": "Sweepers & Supplies",
+                "id": "960057562",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Tableware & Trash Bags|1_18_21",
+                "name": "Hefty Trash Bag Tall Drawstring Ultra Strong Citrus Twist - 40 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960191082",
+                "aisleId": "1_18_21_9",
+                "upc": "0001370001651",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 14257,
+                "shelfName": "Trash Bags",
+                "id": "960191082",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $8.99&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 5.79,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Dish Detergents|1_18_3",
+                "name": "Finish Jet Dry Rinse Aid 5x Power Shine & Protect Bottle - 8.45 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "131050140",
+                "aisleId": "1_18_3_2",
+                "upc": "0005170036930",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.69,
+                "salesRank": 2668,
+                "shelfName": "Dishwasher Additives",
+                "id": "131050140",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Tableware & Trash Bags|1_18_21",
+                "name": "Hefty Trash Bag Tall Drawstring Strong - 45 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130070043",
+                "aisleId": "1_18_21_9",
+                "upc": "0001370021755",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 795,
+                "shelfName": "Trash Bags",
+                "id": "130070043",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $8.99&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "BTTRY",
+                "sellByWeight": "I",
+                "aisleName": "Hardware & Home Needs|1_18_7",
+                "name": "Duracell CopperTop AAA Alkaline Batteries - 8 count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "168010371",
+                "aisleId": "1_18_7_5",
+                "upc": "0004133384401",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.12,
+                "salesRank": 3434,
+                "shelfName": "Batteries",
+                "id": "168010371",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $8.99&lt;BR&gt;SAVE up to: $2.5",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Downy Ultra Fabric Conditioner Liquid April Fresh - 51 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "131200162",
+                "aisleId": "1_18_6_4",
+                "upc": "0003700035762",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.14,
+                "salesRank": 2344,
+                "shelfName": "Fabric Softener",
+                "id": "131200162",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "SQ.FT",
+                "sellByWeight": "I",
+                "aisleName": "Plastic, Foil & Storage|1_18_20",
+                "name": "Glad Press n Seal Plastic Sealing Wrap Multipurpose 70 Sq. Ft. - Each",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "130050286",
+                "aisleId": "1_18_20_5",
+                "upc": "0001258770441",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.08,
+                "salesRank": 4722,
+                "shelfName": "Plastic Wrap",
+                "id": "130050286",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Downy Ultra Fabric Conditioner Liquid Ultra & Gentle - 51 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "131200237",
+                "aisleId": "1_18_6_4",
+                "upc": "0003700039686",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.14,
+                "salesRank": 4320,
+                "shelfName": "Fabric Softener",
+                "id": "131200237",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Cleaners & Supplies|1_18_8",
+                "name": "Woolite Pet Stain & Odor Remover + Oxy Fresh Blossoms - 22 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "173200099",
+                "aisleId": "1_18_8_3",
+                "upc": "0001112000407",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 9662,
+                "shelfName": "Carpet & Floor Care",
+                "id": "173200099",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $2.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Cleaners & Supplies|1_18_8",
+                "name": "Scotch-Brite Sponges Scrub Non-Scratch Pack - 3 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "173250383",
+                "aisleId": "1_18_8_10",
+                "upc": "0002120059846",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.16,
+                "salesRank": 5233,
+                "shelfName": "Sweepers & Supplies",
+                "id": "173250383",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 1.49,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Tableware & Trash Bags|1_18_21",
+                "name": "Signature SELECT Forks Plastic Everyday Heavy Duty Box - 48 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960110471",
+                "aisleId": "1_18_21_3",
+                "upc": "0002113027664",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.03,
+                "salesRank": 3663,
+                "shelfName": "Cutlery",
+                "id": "960110471",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Tide Plus PODS Detergent Pacs 4In1 With Downy April Fresh - 15 Count",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "960287279",
+                "aisleId": "1_18_6_12",
+                "upc": "0003700097780",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.53,
+                "salesRank": 32220,
+                "shelfName": "Laundry Detergent",
+                "id": "960287279",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 13.79,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Laundry|1_18_6",
+                "name": "Downy Ultra Fabric Softener Liquid April Fresh - 103 Fl. Oz.",
+                "departmentName": "Paper, Cleaning & Home",
+                "pid": "131200192",
+                "aisleId": "1_18_6_4",
+                "upc": "0003700031220",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1123,
+                "shelfName": "Fabric Softener",
+                "id": "131200192",
+                "featured": false,
+                "pastPurchased": false
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 168,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 133,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 49,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 21,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 3,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "374",
+                    "name": "Paper, Cleaning & Home"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "3",
+                    "name": "Value Corner"
+                },
+                {
+                    "count": "34",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "29",
+                    "name": "Tide"
+                },
+                {
+                    "count": "7",
+                    "name": "Ziploc"
+                },
+                {
+                    "count": "16",
+                    "name": "Downy"
+                },
+                {
+                    "count": "15",
+                    "name": "Hefty"
+                },
+                {
+                    "count": "8",
+                    "name": "Reynolds"
+                },
+                {
+                    "count": "5",
+                    "name": "Swiffer"
+                },
+                {
+                    "count": "4",
+                    "name": "Glad"
+                },
+                {
+                    "count": "23",
+                    "name": "Signature SELECT/Home"
+                },
+                {
+                    "count": "10",
+                    "name": "Scotch-Brite"
+                },
+                {
+                    "count": "6",
+                    "name": "Duracell"
+                },
+                {
+                    "count": "3",
+                    "name": "Woolite"
+                },
+                {
+                    "count": "2",
+                    "name": "Finish"
+                },
+                {
+                    "count": "2",
+                    "name": "Windex"
+                },
+                {
+                    "count": "12",
+                    "name": "Glade"
+                },
+                {
+                    "count": "8",
+                    "name": "Chinet"
+                },
+                {
+                    "count": "8",
+                    "name": "Febreze"
+                },
+                {
+                    "count": "8",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "7",
+                    "name": "Gain"
+                },
+                {
+                    "count": "6",
+                    "name": "ECOS"
+                },
+                {
+                    "count": "6",
+                    "name": "Kingsford"
+                },
+                {
+                    "count": "6",
+                    "name": "Pledge"
+                },
+                {
+                    "count": "5",
+                    "name": "Air Wick"
+                },
+                {
+                    "count": "5",
+                    "name": "Repurpose"
+                },
+                {
+                    "count": "5",
+                    "name": "Seventh Generation"
+                },
+                {
+                    "count": "5",
+                    "name": "Weiman"
+                },
+                {
+                    "count": "4",
+                    "name": "Bona"
+                },
+                {
+                    "count": "4",
+                    "name": "Bounce"
+                },
+                {
+                    "count": "4",
+                    "name": "Dixie"
+                },
+                {
+                    "count": "4",
+                    "name": "Renuzit"
+                },
+                {
+                    "count": "3",
+                    "name": "Energizer"
+                },
+                {
+                    "count": "3",
+                    "name": "Liquid-Plumr"
+                },
+                {
+                    "count": "3",
+                    "name": "Mr. Clean"
+                },
+                {
+                    "count": "3",
+                    "name": "Resolve"
+                },
+                {
+                    "count": "3",
+                    "name": "Scrubbing Bubbles"
+                },
+                {
+                    "count": "3",
+                    "name": "Signature Home"
+                },
+                {
+                    "count": "3",
+                    "name": "Snuggle"
+                },
+                {
+                    "count": "2",
+                    "name": "Drano"
+                },
+                {
+                    "count": "2",
+                    "name": "Duraflame"
+                },
+                {
+                    "count": "2",
+                    "name": "Grab Green"
+                },
+                {
+                    "count": "2",
+                    "name": "NatureZway"
+                },
+                {
+                    "count": "2",
+                    "name": "Niagara"
+                },
+                {
+                    "count": "2",
+                    "name": "OxiClean"
+                },
+                {
+                    "count": "2",
+                    "name": "Pilot"
+                },
+                {
+                    "count": "2",
+                    "name": "S.O.S"
+                },
+                {
+                    "count": "2",
+                    "name": "SOLO"
+                },
+                {
+                    "count": "2",
+                    "name": "Scotch"
+                },
+                {
+                    "count": "2",
+                    "name": "Shout"
+                },
+                {
+                    "count": "2",
+                    "name": "Spray 'n Wash"
+                },
+                {
+                    "count": "1",
+                    "name": "2000 Flushes"
+                },
+                {
+                    "count": "1",
+                    "name": "ARM & HAMMER"
+                },
+                {
+                    "count": "1",
+                    "name": "Affresh"
+                },
+                {
+                    "count": "1",
+                    "name": "Bar Keepers Friend"
+                },
+                {
+                    "count": "1",
+                    "name": "Better Office Products"
+                },
+                {
+                    "count": "1",
+                    "name": "Bicycle"
+                },
+                {
+                    "count": "1",
+                    "name": "Biz"
+                },
+                {
+                    "count": "1",
+                    "name": "Brillo"
+                },
+                {
+                    "count": "1",
+                    "name": "CLR"
+                },
+                {
+                    "count": "1",
+                    "name": "Citrus Magic"
+                },
+                {
+                    "count": "1",
+                    "name": "Clorox"
+                },
+                {
+                    "count": "1",
+                    "name": "Coleman"
+                },
+                {
+                    "count": "1",
+                    "name": "Combat"
+                },
+                {
+                    "count": "1",
+                    "name": "Crayola"
+                },
+                {
+                    "count": "1",
+                    "name": "DampRid"
+                },
+                {
+                    "count": "1",
+                    "name": "Diamond"
+                },
+                {
+                    "count": "1",
+                    "name": "Duck"
+                },
+                {
+                    "count": "1",
+                    "name": "EASY-OFF"
+                },
+                {
+                    "count": "1",
+                    "name": "Ecover"
+                },
+                {
+                    "count": "1",
+                    "name": "Folex"
+                },
+                {
+                    "count": "1",
+                    "name": "GE"
+                },
+                {
+                    "count": "1",
+                    "name": "Good Cook"
+                },
+                {
+                    "count": "1",
+                    "name": "Griffin"
+                },
+                {
+                    "count": "1",
+                    "name": "Kiwi"
+                },
+                {
+                    "count": "1",
+                    "name": "LIME-A-WAY"
+                },
+                {
+                    "count": "1",
+                    "name": "Lemi Shine"
+                },
+                {
+                    "count": "1",
+                    "name": "Liquid Plumr"
+                },
+                {
+                    "count": "1",
+                    "name": "Morton"
+                },
+                {
+                    "count": "1",
+                    "name": "Mr Clean"
+                },
+                {
+                    "count": "1",
+                    "name": "Open Nature/Bright Green"
+                },
+                {
+                    "count": "1",
+                    "name": "Pine-Sol"
+                },
+                {
+                    "count": "1",
+                    "name": "Prime"
+                },
+                {
+                    "count": "1",
+                    "name": "Raid"
+                },
+                {
+                    "count": "1",
+                    "name": "Reduce"
+                },
+                {
+                    "count": "1",
+                    "name": "Sonora Charcoal"
+                },
+                {
+                    "count": "1",
+                    "name": "Spot Shot"
+                },
+                {
+                    "count": "1",
+                    "name": "Suavitel"
+                },
+                {
+                    "count": "1",
+                    "name": "T Fal"
+                },
+                {
+                    "count": "1",
+                    "name": "Todays Home"
+                },
+                {
+                    "count": "1",
+                    "name": "Traeger"
+                },
+                {
+                    "count": "1",
+                    "name": "U Style"
+                },
+                {
+                    "count": "1",
+                    "name": "WD 40"
+                },
+                {
+                    "count": "1",
+                    "name": "all"
+                },
+                {
+                    "count": "1",
+                    "name": "ocelo"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "39",
+                    "name": "Plastic, Foil & Storage|1_18_20"
+                },
+                {
+                    "count": "89",
+                    "name": "Laundry|1_18_6"
+                },
+                {
+                    "count": "80",
+                    "name": "Cleaners & Supplies|1_18_8"
+                },
+                {
+                    "count": "57",
+                    "name": "Tableware & Trash Bags|1_18_21"
+                },
+                {
+                    "count": "41",
+                    "name": "Hardware & Home Needs|1_18_7"
+                },
+                {
+                    "count": "14",
+                    "name": "Dish Detergents|1_18_3"
+                },
+                {
+                    "count": "31",
+                    "name": "Air Fresheners & Candles|1_18_14"
+                },
+                {
+                    "count": "18",
+                    "name": "Fire Logs & BBQ Needs|1_18_11"
+                },
+                {
+                    "count": "5",
+                    "name": "Kitchen Accessories|1_18_17"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "204",
+                    "name": "N"
+                },
+                {
+                    "count": "170",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "18",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "5",
+                    "name": "Gluten Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "374",
+                    "name": "Paper, Cleaning & Home:|1_18"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "27",
+                    "name": "Plastic Bags|1_18_20_4"
+                },
+                {
+                    "count": "49",
+                    "name": "Laundry Detergent|1_18_6_12"
+                },
+                {
+                    "count": "29",
+                    "name": "Sweepers & Supplies|1_18_8_10"
+                },
+                {
+                    "count": "27",
+                    "name": "Fabric Softener|1_18_6_4"
+                },
+                {
+                    "count": "16",
+                    "name": "Trash Bags|1_18_21_9"
+                },
+                {
+                    "count": "9",
+                    "name": "Cutlery|1_18_21_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Plastic Wrap|1_18_20_5"
+                },
+                {
+                    "count": "18",
+                    "name": "Batteries|1_18_7_5"
+                },
+                {
+                    "count": "13",
+                    "name": "Carpet & Floor Care|1_18_8_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Dishwasher Additives|1_18_3_2"
+                },
+                {
+                    "count": "4",
+                    "name": "Foil|1_18_20_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Freezer & Wax Paper|1_18_20_6"
+                },
+                {
+                    "count": "2",
+                    "name": "Glass Cleaners|1_18_8_7"
+                },
+                {
+                    "count": "1",
+                    "name": "Bleach|1_18_6_5"
+                },
+                {
+                    "count": "13",
+                    "name": "Plates & Bowls|1_18_21_6"
+                },
+                {
+                    "count": "12",
+                    "name": "Bathroom & Toilet|1_18_8_2"
+                },
+                {
+                    "count": "12",
+                    "name": "Cups & Glasses|1_18_21_2"
+                },
+                {
+                    "count": "11",
+                    "name": "Office & School Supplies|1_18_7_30"
+                },
+                {
+                    "count": "10",
+                    "name": "Electric|1_18_14_5"
+                },
+                {
+                    "count": "8",
+                    "name": "Charcoal & Smoking Chips|1_18_11_2"
+                },
+                {
+                    "count": "8",
+                    "name": "Fire Logs|1_18_11_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Sprays|1_18_14_2"
+                },
+                {
+                    "count": "7",
+                    "name": "Furniture Care|1_18_8_6"
+                },
+                {
+                    "count": "7",
+                    "name": "Solid & Liquid|1_18_14_1"
+                },
+                {
+                    "count": "7",
+                    "name": "Tableware Essentials|1_18_21_5"
+                },
+                {
+                    "count": "6",
+                    "name": "Candles|1_18_14_3"
+                },
+                {
+                    "count": "6",
+                    "name": "Drain & Septic Care|1_18_8_5"
+                },
+                {
+                    "count": "6",
+                    "name": "Stain Remover & Boosters|1_18_6_3"
+                },
+                {
+                    "count": "5",
+                    "name": "All Purpose Cleaners|1_18_8_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Dish Washing Liquid|1_18_3_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Dishwasher Detergents|1_18_3_3"
+                },
+                {
+                    "count": "5",
+                    "name": "Specialty Surface Care|1_18_8_8"
+                },
+                {
+                    "count": "4",
+                    "name": "Gadgets & Utensils|1_18_17_1"
+                },
+                {
+                    "count": "4",
+                    "name": "Light Bulbs|1_18_7_13"
+                },
+                {
+                    "count": "3",
+                    "name": "Scent & Deodorizer|1_18_6_8"
+                },
+                {
+                    "count": "3",
+                    "name": "Starch & Laundry Needs|1_18_6_6"
+                },
+                {
+                    "count": "2",
+                    "name": "Hardware|1_18_7_29"
+                },
+                {
+                    "count": "2",
+                    "name": "Pest Control|1_18_7_31"
+                },
+                {
+                    "count": "2",
+                    "name": "Shoe Care|1_18_7_40"
+                },
+                {
+                    "count": "2",
+                    "name": "Steam & Cooking Bags|1_18_20_1"
+                },
+                {
+                    "count": "1",
+                    "name": "Automotive|1_18_7_17"
+                },
+                {
+                    "count": "1",
+                    "name": "Flashlights & Electrical|1_18_7_2"
+                },
+                {
+                    "count": "1",
+                    "name": "Lighter Fluid|1_18_11_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Matches & Lighters|1_18_11_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Ovenware|1_18_17_2"
+                },
+                {
+                    "count": "1",
+                    "name": "Rock Salt & Softeners|1_18_8_11"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

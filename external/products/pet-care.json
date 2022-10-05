@@ -1,0 +1,1040 @@
+{
+    "response": {
+        "numFound": 240,
+        "start": 0,
+        "docs": [
+            {
+                "price": 9.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Tidy Cats Cat Litter 24/7 Performance Scoop for Multiple Cats - 20 Lb",
+                "departmentName": "Pet Care",
+                "pid": "132100011",
+                "aisleId": "1_22_2_6",
+                "upc": "0007023011620",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 329,
+                "shelfName": "Litter & Deodorant",
+                "id": "132100011",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $1.4",
+                "promoType": "P"
+            },
+            {
+                "price": 14.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Friskies Cat Food Classic Pate Variety Pack Box - 24-5.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "132060209",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000042034",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 599,
+                "shelfName": "Cat Food - Moist",
+                "id": "132060209",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $14.99&lt;BR&gt;SAVE up to: $5",
+                "promoType": "P"
+            },
+            {
+                "price": 16.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Fancy Feast Cat Food Gourmet Classic Seafood Feast Variety 3 Flavors 8 Each Box - 24-3 Oz",
+                "departmentName": "Pet Care",
+                "pid": "132060216",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000042824",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 1539,
+                "shelfName": "Cat Food - Moist",
+                "id": "132060216",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $16.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 15.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Rachael Ray Nutrish Food for Dogs Real Chicken & Veggies Recipe Bag - 14 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960054831",
+                "aisleId": "1_22_4_2",
+                "upc": "0007119000600",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 21.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.14,
+                "salesRank": 3343,
+                "shelfName": "Dog Food - Dry",
+                "id": "960054831",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $15.99&lt;BR&gt;SAVE up to: $5.4",
+                "promoType": "P"
+            },
+            {
+                "price": 16.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Fancy Feast Gravy Lovers Cat Food Gourmet Poultry & Beef Collection Box - 24-3 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960081803",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000058006",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 1863,
+                "shelfName": "Cat Food - Moist",
+                "id": "960081803",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $16.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 11.49,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "ARM & HAMMER Cat Litter Clumping Advanced Odor Control Double Duty - 20 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960049216",
+                "aisleId": "1_22_2_6",
+                "upc": "0003320002208",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.58,
+                "salesRank": 4960,
+                "shelfName": "Litter & Deodorant",
+                "id": "960049216",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 11.49,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "ARM & HAMMER Super Scoop Cat Litter Clumping Fragrance Free - 20 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960015847",
+                "aisleId": "1_22_2_6",
+                "upc": "0003320002201",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.58,
+                "salesRank": 1258,
+                "shelfName": "Litter & Deodorant",
+                "id": "960015847",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 19.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Friskies Cat Food Poultry Variety Pack Box - 32-5.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960081799",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000045424",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 23.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 1974,
+                "shelfName": "Cat Food - Moist",
+                "id": "960081799",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $19.49&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Tidy Cats Cat Litter Clumping Instant Action - 20 Lb",
+                "departmentName": "Pet Care",
+                "pid": "232100013",
+                "aisleId": "1_22_2_6",
+                "upc": "0007023011720",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 911,
+                "shelfName": "Litter & Deodorant",
+                "id": "232100013",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $1.4",
+                "promoType": "P"
+            },
+            {
+                "price": 15.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Freshpet Select Dog Food Tender Chicken Recipe Wrapper - 6 Lb",
+                "departmentName": "Pet Care",
+                "pid": "132010043",
+                "aisleId": "1_22_4_3",
+                "upc": "0085189300116",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 15.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 2.67,
+                "salesRank": 3557,
+                "shelfName": "Dog Food - Moist",
+                "id": "132010043",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Tidy Cats Cat Litter Clumping For Multiple Cats With Glade Clear Springs Jug - 20 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960105986",
+                "aisleId": "1_22_2_6",
+                "upc": "0007023015345",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 1691,
+                "shelfName": "Litter & Deodorant",
+                "id": "960105986",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $1.4",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Purina Cat Chow Cat Food Adult Indoor - 3.15 LB",
+                "departmentName": "Pet Care",
+                "pid": "960074344",
+                "aisleId": "1_22_2_2",
+                "upc": "0001780015018",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.9,
+                "salesRank": 4457,
+                "shelfName": "Cat Food - Dry",
+                "id": "960074344",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Temptations Classic Treats For Cats Tasty Chicken Flavor - 16 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960112458",
+                "aisleId": "1_22_2_1",
+                "upc": "0002310010755",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.56,
+                "salesRank": 6513,
+                "shelfName": "Cat Snacks",
+                "id": "960112458",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Temptations Classic Treats For Cats Tasty Chicken Flavor - 6.3 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960028369",
+                "aisleId": "1_22_2_1",
+                "upc": "0005849672300",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.63,
+                "salesRank": 4979,
+                "shelfName": "Cat Snacks",
+                "id": "960028369",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 19.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Friskies Cat Food Seafood Variety Pack Box - 32-5.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960081800",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000045435",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 23.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 3940,
+                "shelfName": "Cat Food - Moist",
+                "id": "960081800",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $19.49&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            },
+            {
+                "price": 6.49,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Signature Pet Care Cat Litter Lightweight Clumping Unscented Multiple Cat - 10 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960271209",
+                "aisleId": "1_22_2_6",
+                "upc": "0002113041704",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.65,
+                "salesRank": 8828,
+                "shelfName": "Litter & Deodorant",
+                "id": "960271209",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 8.89,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Freshpet Select Dog Food Fresh From The Kitchen Home Cooked Chicken Recipe Pouch - 1.75 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960142381",
+                "aisleId": "1_22_4_3",
+                "upc": "0062797501110",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.89,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 5.08,
+                "salesRank": 5966,
+                "shelfName": "Dog Food - Moist",
+                "id": "960142381",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 0.75,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Fancy Feast Cat Food Gourmet Classic Tender Beef Feast Can - 3 Oz",
+                "departmentName": "Pet Care",
+                "pid": "132060044",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000042954",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.25,
+                "salesRank": 6839,
+                "shelfName": "Cat Food - Moist",
+                "id": "132060044",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;10 for $7.5&lt;BR&gt;SAVE up to: $2.4 on 10",
+                "promoType": "P"
+            },
+            {
+                "price": 0.65,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Friskies Cat Food Pate Classic Salmon Dinner Can - 5.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "132060107",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000042334",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0.89,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 7823,
+                "shelfName": "Cat Food - Moist",
+                "id": "132060107",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;10 for $6.5&lt;BR&gt;SAVE up to: $2.4 on 10",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Meow Mix Cat Food Dry Original Choice - 3.15 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960068981",
+                "aisleId": "1_22_2_2",
+                "upc": "0082927451375",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.9,
+                "salesRank": 9179,
+                "shelfName": "Cat Food - Dry",
+                "id": "960068981",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 13.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "PEDIGREE Complete Nutrition Dog Food Dry For Adult Grilled Steak & Vegetable - 20.4 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960143748",
+                "aisleId": "1_22_4_2",
+                "upc": "0002310011131",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 16.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 7663,
+                "shelfName": "Dog Food - Dry",
+                "id": "960143748",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $13.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 13.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "PEDIGREE Dog Food Dry For Small Dog Nutrition Roasted Chicken Rice & Vegetable Bag - 15.9 Lb",
+                "departmentName": "Pet Care",
+                "pid": "132020390",
+                "aisleId": "1_22_4_2",
+                "upc": "0002310029161",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 16.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.88,
+                "salesRank": 3318,
+                "shelfName": "Dog Food - Dry",
+                "id": "132020390",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $13.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Cesar Canine Cuisine Filets in Sauce Filet Mignon New York Strip Flavor Tub - 12-3.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "132010369",
+                "aisleId": "1_22_4_3",
+                "upc": "0002310023537",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 16.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.29,
+                "salesRank": 5408,
+                "shelfName": "Dog Food - Moist",
+                "id": "132010369",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $11.99&lt;BR&gt;SAVE up to: $4.2",
+                "promoType": "P"
+            },
+            {
+                "price": 14.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "IAMS Proactive Health Cat Food Dry For Healthy Adult With Chicken - 7 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960163634",
+                "aisleId": "1_22_2_2",
+                "upc": "0001901471257",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 14.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 2.14,
+                "salesRank": 3994,
+                "shelfName": "Cat Food - Dry",
+                "id": "960163634",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 22.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Purina ONE SMARTBLEND Adult Dry Dog Food Premium Chicken & Rice Formula- 16.5 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960074338",
+                "aisleId": "1_22_4_2",
+                "upc": "0001780014937",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 26.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.39,
+                "salesRank": 4517,
+                "shelfName": "Dog Food - Dry",
+                "id": "960074338",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $22.99&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            },
+            {
+                "price": 22.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Cesar Classics Canine Cuisine 4 Assorted Flavors Box - 24-3.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960278544",
+                "aisleId": "1_22_4_3",
+                "upc": "0002310010257",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 28.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 4569,
+                "shelfName": "Dog Food - Moist",
+                "id": "960278544",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $22.99&lt;BR&gt;SAVE up to: $5.3",
+                "promoType": "P"
+            },
+            {
+                "price": 14.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Tidy Cats Cat Litter 24/7 Performance Clumping for Multiple Cats LightWeight Jug - 8.5 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960105987",
+                "aisleId": "1_22_2_6",
+                "upc": "0007023015366",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 15.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.76,
+                "salesRank": 1801,
+                "shelfName": "Litter & Deodorant",
+                "id": "960105987",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $14.99&lt;BR&gt;SAVE up to: $0.4",
+                "promoType": "P"
+            },
+            {
+                "price": 21.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "IAMS Proactive Health Dog Food Mini Chunks Bag - 15 Lb",
+                "departmentName": "Pet Care",
+                "pid": "960084494",
+                "aisleId": "1_22_4_2",
+                "upc": "0001901461090",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 26.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.47,
+                "salesRank": 2991,
+                "shelfName": "Dog Food - Dry",
+                "id": "960084494",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $21.99&lt;BR&gt;SAVE up to: $4.3",
+                "promoType": "P"
+            },
+            {
+                "price": 19.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cat Care|1_22_2",
+                "name": "Friskies Cat Food Savory Shreds Variety Pack Can - 32-5.5 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960112084",
+                "aisleId": "1_22_2_3",
+                "upc": "0005000058496",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 23.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 8544,
+                "shelfName": "Cat Food - Moist",
+                "id": "960112084",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $19.49&lt;BR&gt;SAVE up to: $4",
+                "promoType": "P"
+            },
+            {
+                "price": 12.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Dog Care|1_22_4",
+                "name": "Beggin Strips Dog Snack Bacon Flavor Pouch - 25 Oz",
+                "departmentName": "Pet Care",
+                "pid": "960038466",
+                "aisleId": "1_22_4_1",
+                "upc": "0003810001617",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.52,
+                "salesRank": 5160,
+                "shelfName": "Dog Snacks",
+                "id": "960038466",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $12.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 105,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 54,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 44,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 34,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 3,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "240",
+                    "name": "Pet Care"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "28",
+                    "name": "Friskies"
+                },
+                {
+                    "count": "7",
+                    "name": "Tidy Cats"
+                },
+                {
+                    "count": "47",
+                    "name": "Fancy Feast"
+                },
+                {
+                    "count": "15",
+                    "name": "Pedigree"
+                },
+                {
+                    "count": "13",
+                    "name": "Temptations"
+                },
+                {
+                    "count": "7",
+                    "name": "IAMS"
+                },
+                {
+                    "count": "5",
+                    "name": "ARM & HAMMER"
+                },
+                {
+                    "count": "5",
+                    "name": "Cesar"
+                },
+                {
+                    "count": "5",
+                    "name": "Freshpet"
+                },
+                {
+                    "count": "5",
+                    "name": "Purina"
+                },
+                {
+                    "count": "7",
+                    "name": "Purina One"
+                },
+                {
+                    "count": "7",
+                    "name": "Rachael Ray"
+                },
+                {
+                    "count": "3",
+                    "name": "Signature Pet Care"
+                },
+                {
+                    "count": "1",
+                    "name": "Meow Mix"
+                },
+                {
+                    "count": "12",
+                    "name": "BLUE"
+                },
+                {
+                    "count": "11",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "9",
+                    "name": "Sheba"
+                },
+                {
+                    "count": "7",
+                    "name": "Beneful"
+                },
+                {
+                    "count": "5",
+                    "name": "Beyond"
+                },
+                {
+                    "count": "4",
+                    "name": "Signature Pet Care/Priority"
+                },
+                {
+                    "count": "3",
+                    "name": "Newman's Own"
+                },
+                {
+                    "count": "3",
+                    "name": "Nudges"
+                },
+                {
+                    "count": "3",
+                    "name": "Pup-Peroni"
+                },
+                {
+                    "count": "2",
+                    "name": "Cat's Pride"
+                },
+                {
+                    "count": "2",
+                    "name": "GREENIES"
+                },
+                {
+                    "count": "2",
+                    "name": "Hartz"
+                },
+                {
+                    "count": "2",
+                    "name": "Waggin Train"
+                },
+                {
+                    "count": "2",
+                    "name": "Worlds Best"
+                },
+                {
+                    "count": "1",
+                    "name": "Alpo"
+                },
+                {
+                    "count": "1",
+                    "name": "Beggin'"
+                },
+                {
+                    "count": "1",
+                    "name": "Blue Dog Bakery"
+                },
+                {
+                    "count": "1",
+                    "name": "Busy"
+                },
+                {
+                    "count": "1",
+                    "name": "Butcher Shoppe"
+                },
+                {
+                    "count": "1",
+                    "name": "Cat Chow"
+                },
+                {
+                    "count": "1",
+                    "name": "Delectables"
+                },
+                {
+                    "count": "1",
+                    "name": "Dog Chow"
+                },
+                {
+                    "count": "1",
+                    "name": "Jonny Cat"
+                },
+                {
+                    "count": "1",
+                    "name": "Kitten Chow"
+                },
+                {
+                    "count": "1",
+                    "name": "Milk-Bone"
+                },
+                {
+                    "count": "1",
+                    "name": "Supreme Source"
+                },
+                {
+                    "count": "1",
+                    "name": "Whiskas"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "147",
+                    "name": "Cat Care|1_22_2"
+                },
+                {
+                    "count": "93",
+                    "name": "Dog Care|1_22_4"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "164",
+                    "name": "Y"
+                },
+                {
+                    "count": "76",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "8",
+                    "name": "Gluten Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "240",
+                    "name": "Pet Care:|1_22"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "85",
+                    "name": "Cat Food - Moist|1_22_2_3"
+                },
+                {
+                    "count": "22",
+                    "name": "Litter & Deodorant|1_22_2_6"
+                },
+                {
+                    "count": "37",
+                    "name": "Dog Food - Dry|1_22_4_2"
+                },
+                {
+                    "count": "24",
+                    "name": "Dog Food - Moist|1_22_4_3"
+                },
+                {
+                    "count": "23",
+                    "name": "Cat Food - Dry|1_22_2_2"
+                },
+                {
+                    "count": "17",
+                    "name": "Cat Snacks|1_22_2_1"
+                },
+                {
+                    "count": "30",
+                    "name": "Dog Snacks|1_22_4_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Dog Supplies & Toys|1_22_4_7"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

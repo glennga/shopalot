@@ -1,0 +1,1970 @@
+{
+    "response": {
+        "numFound": 1151,
+        "start": 0,
+        "docs": [
+            {
+                "price": 4.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Simply Orange Juice Pulp Free - 52 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960326343",
+                "aisleId": "1_5_5_12",
+                "upc": "0002500010000",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.09,
+                "salesRank": 2610,
+                "shelfName": "Orange Juice",
+                "id": "960326343",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "COUNT",
+                "aisleName": "Tea",
+                "name": "Celestial Seasonings Herbal Tea Bags Caffeine Free Honey Vanilla Chamomile 20 Count - 1.7 Oz",
+                "departmentName": "Beverages",
+                "pid": "119030309",
+                "aisleId": "1_5_9_5",
+                "upc": "070734053078",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 18306,
+                "shelfName": "Tea Bags",
+                "id": "119030309",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02NzktMy0wYWJmZTBkMi1lNDc1LTRiM2EtYTkwYi00YWM5MjkxZmVhOGM",
+                "agreementId": 122149,
+                "featuredProductId": 924
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack",
+                "departmentName": "Beverages",
+                "pid": "108010224",
+                "aisleId": "1_5_7_1",
+                "upc": "0004900002891",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 30,
+                "shelfName": "Cola",
+                "id": "108010224",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "FL.OZ",
+                "aisleName": "Energy Drinks & Shots",
+                "name": "Red Bull Energy Drink - 4-8.4 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108101244",
+                "aisleId": "1_5_4_1",
+                "upc": "611269108022",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.39,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.18,
+                "salesRank": 1689,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "108101244",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02NzktMy0wYWJmZTBkMi1lNDc1LTRiM2EtYTkwYi00YWM5MjkxZmVhOGM",
+                "agreementId": 107033,
+                "featuredProductId": 3482
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack",
+                "departmentName": "Beverages",
+                "pid": "108010222",
+                "aisleId": "1_5_7_1",
+                "upc": "0004900002890",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 46,
+                "shelfName": "Cola",
+                "id": "108010222",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 19.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "FL.OZ",
+                "aisleName": "Energy Drinks & Shots",
+                "name": "Red Bull Energy Drink - 12-8.4 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108100166",
+                "aisleId": "1_5_4_1",
+                "upc": "611269426720",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 22.99,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 202,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "108100166",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02NzktMy0wYWJmZTBkMi1lNDc1LTRiM2EtYTkwYi00YWM5MjkxZmVhOGM",
+                "agreementId": 107019,
+                "featuredProductId": 3501
+            },
+            {
+                "price": 0.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Signature SELECT Juice Apple - 64 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "120020370",
+                "aisleId": "1_5_5_1",
+                "upc": "0002113031008",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.02,
+                "salesRank": 275,
+                "shelfName": "Apple Juice & Cider",
+                "id": "120020370",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $0.99&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Ocean Spray Juice Cocktail Cranberry - 64 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "120010067",
+                "aisleId": "1_5_5_3",
+                "upc": "0003120020007",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.06,
+                "salesRank": 1240,
+                "shelfName": "Cranberry Juice",
+                "id": "120010067",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.79,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "Signature SELECT Drinking Water Purified - 32-16.9 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960088605",
+                "aisleId": "1_5_10_3",
+                "upc": "0002113024082",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.01,
+                "salesRank": 21,
+                "shelfName": "Still Water",
+                "id": "960088605",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.79&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "FL.OZ",
+                "aisleName": "Energy Drinks & Shots",
+                "name": "Red Bull Energy Drink Sugar Free - 4-8.4 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108100063",
+                "aisleId": "1_5_4_1",
+                "upc": "611269109005",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.39,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.18,
+                "salesRank": 1184,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "108100063",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02NzktMy0wYWJmZTBkMi1lNDc1LTRiM2EtYTkwYi00YWM5MjkxZmVhOGM",
+                "agreementId": 113336,
+                "featuredProductId": 3335
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Tea|1_5_9",
+                "name": "Pure Leaf Unsweetened Iced Tea - 6-16.9 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960489686",
+                "aisleId": "1_5_9_3",
+                "upc": "0001200018172",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.06,
+                "salesRank": 99999,
+                "shelfName": "Iced Tea",
+                "id": "960489686",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 19.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Energy Drinks & Shots|1_5_4",
+                "name": "Red Bull Energy Drink Sugar Free - 12-8.4 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960035907",
+                "aisleId": "1_5_4_1",
+                "upc": "0061126973373",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 22.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 190,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "960035907",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02NzktMy0wYWJmZTBkMi1lNDc1LTRiM2EtYTkwYi00YWM5MjkxZmVhOGM",
+                "agreementId": 113339,
+                "featuredProductId": 3378,
+                "promoDescription": "Vons Club Price: $19.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "Signature SELECT Drinking Water - 24-16.9 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108200133",
+                "aisleId": "1_5_10_3",
+                "upc": "0002113024032",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.01,
+                "salesRank": 16,
+                "shelfName": "Still Water",
+                "id": "108200133",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack",
+                "departmentName": "Beverages",
+                "pid": "108010505",
+                "aisleId": "1_5_7_1",
+                "upc": "0004900004255",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 128,
+                "shelfName": "Cola",
+                "id": "108010505",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.29,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Sports Drinks|1_5_8",
+                "name": "Gatorade G Series Thirst Quencher Orange - 8-20 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108300346",
+                "aisleId": "1_5_8_1",
+                "upc": "0005200020807",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 358,
+                "shelfName": "Sports Drinks",
+                "id": "108300346",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Simply Orange Juice Medium Pulp Calcium & Vitamin D - 52 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960326336",
+                "aisleId": "1_5_5_12",
+                "upc": "0002500004483",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.09,
+                "salesRank": 5619,
+                "shelfName": "Orange Juice",
+                "id": "960326336",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 10.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Coffee|1_5_3",
+                "name": "Starbucks Coffee Ground Dark Roast French Roast Bag - 12 Oz",
+                "departmentName": "Beverages",
+                "pid": "119011085",
+                "aisleId": "1_5_3_1",
+                "upc": "0076211120613",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.92,
+                "salesRank": 487,
+                "shelfName": "Coffee - Ground",
+                "id": "119011085",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "LaCroix Sparkling Water Grapefruit Cans - 12-12 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960024349",
+                "aisleId": "1_5_10_2",
+                "upc": "0001299310201",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 60,
+                "shelfName": "Sparkling & Seltzer",
+                "id": "960024349",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 3.69,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Motts Juice 100% Apple Original - 64 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "120020079",
+                "aisleId": "1_5_5_1",
+                "upc": "0001480000034",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.06,
+                "salesRank": 957,
+                "shelfName": "Apple Juice & Cider",
+                "id": "120020079",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "DASANI Purified Water - 24-16.9 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108200427",
+                "aisleId": "1_5_10_3",
+                "upc": "0004900003165",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.01,
+                "salesRank": 18,
+                "shelfName": "Still Water",
+                "id": "108200427",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Diet Coke Soda Cans - 20-12 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960035197",
+                "aisleId": "1_5_7_1",
+                "upc": "0004900001464",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 20,
+                "shelfName": "Cola",
+                "id": "960035197",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $8.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Coffee|1_5_3",
+                "name": "Peets Coffee Coffee Ground Deep Roast French Roast - 12 Oz",
+                "departmentName": "Beverages",
+                "pid": "119010861",
+                "aisleId": "1_5_3_1",
+                "upc": "0078535783416",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.83,
+                "salesRank": 272,
+                "shelfName": "Coffee - Ground",
+                "id": "119010861",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Simply Orange Juice Pulp Free Calcium & Vitamin D - 2.63 Liter",
+                "departmentName": "Beverages",
+                "pid": "139010013",
+                "aisleId": "1_5_5_12",
+                "upc": "0002500005434",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.08,
+                "salesRank": 151,
+                "shelfName": "Orange Juice",
+                "id": "139010013",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.29,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Sports Drinks|1_5_8",
+                "name": "Gatorade G Series Thirst Quencher Frost Glacier Freeze - 8-20 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108300347",
+                "aisleId": "1_5_8_1",
+                "upc": "0005200020808",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 576,
+                "shelfName": "Sports Drinks",
+                "id": "108300347",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 5.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "Aquafina Purified Drinking Water - 24-16.9 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108200067",
+                "aisleId": "1_5_10_3",
+                "upc": "0001200050404",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 5.49,
+                "salesRank": 15,
+                "shelfName": "Still Water",
+                "id": "108200067",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.49&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Water & Sparkling Water|1_5_10",
+                "name": "LaCroix Sparkling Water Lime Cans - 12-12 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108101500",
+                "aisleId": "1_5_10_2",
+                "upc": "0007336023341",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 69,
+                "shelfName": "Sparkling & Seltzer",
+                "id": "108101500",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Coca-Cola Soda Classic Cans - 20-12 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960035196",
+                "aisleId": "1_5_7_1",
+                "upc": "0004900001463",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.04,
+                "salesRank": 36,
+                "shelfName": "Cola",
+                "id": "960035196",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $8.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Sprite Lemon Lime Soda Soft Drinks, 12 fl oz, 12 Pack",
+                "departmentName": "Beverages",
+                "pid": "108050651",
+                "aisleId": "1_5_7_4",
+                "upc": "0004900002892",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 318,
+                "shelfName": "Lemon Lime & Citrus Soda",
+                "id": "108050651",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Coffee|1_5_3",
+                "name": "Coffeemate Coffee Creamer Original - 35.3 Oz",
+                "departmentName": "Beverages",
+                "pid": "119040012",
+                "aisleId": "1_5_3_4",
+                "upc": "0005000030302",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 507,
+                "shelfName": "Coffee Creamers",
+                "id": "119040012",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Soft Drinks|1_5_7",
+                "name": "Pepsi Diet Soda - 12-12 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "108010304",
+                "aisleId": "1_5_7_1",
+                "upc": "0001200017186",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 203,
+                "shelfName": "Cola",
+                "id": "108010304",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Simply Lemonade Juice All Natural - 2.63 Liter",
+                "departmentName": "Beverages",
+                "pid": "960050093",
+                "aisleId": "1_5_5_10",
+                "upc": "0002500005276",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.05,
+                "salesRank": 307,
+                "shelfName": "Lemonade & Limeade",
+                "id": "960050093",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 16.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Energy Drinks & Shots|1_5_4",
+                "name": "Monster Energy Drink Original - 10-16 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960048297",
+                "aisleId": "1_5_4_1",
+                "upc": "0007084781503",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 18.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 2225,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "960048297",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $16.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 19.99,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Energy Drinks & Shots|1_5_4",
+                "name": "Red Bull Energy Drink Sugar Free - 12-8.4 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960035907",
+                "aisleId": "1_5_4_1",
+                "upc": "0061126973373",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 22.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 190,
+                "shelfName": "Energy Drinks & Shots",
+                "id": "960035907",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $19.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 2.5,
+                "unitOfMeasure": "FL.OZ",
+                "sellByWeight": "I",
+                "aisleName": "Juice & Smoothies|1_5_5",
+                "name": "Simply Lemonade Juice All Natural With Strawberry - 52 Fl. Oz.",
+                "departmentName": "Beverages",
+                "pid": "960326567",
+                "aisleId": "1_5_5_10",
+                "upc": "0002500004086",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.05,
+                "salesRank": 5309,
+                "shelfName": "Lemonade & Limeade",
+                "id": "960326567",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $5&lt;BR&gt;SAVE up to: $0.98 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 12.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Coffee|1_5_3",
+                "name": "Peets Coffee Coffee Ground Deep Roast Major Dickasons Blend - 20 Oz",
+                "departmentName": "Beverages",
+                "pid": "960110741",
+                "aisleId": "1_5_3_1",
+                "upc": "0078535701205",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 14.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.65,
+                "salesRank": 1306,
+                "shelfName": "Coffee - Ground",
+                "id": "960110741",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $12.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 744,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 326,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 58,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 16,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 7,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "1151",
+                    "name": "Beverages"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "32",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "77",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "13",
+                    "name": "Simply"
+                },
+                {
+                    "count": "21",
+                    "name": "Coca-Cola"
+                },
+                {
+                    "count": "54",
+                    "name": "Gatorade"
+                },
+                {
+                    "count": "14",
+                    "name": "Peet's Coffee & Tea"
+                },
+                {
+                    "count": "8",
+                    "name": "Diet Coke"
+                },
+                {
+                    "count": "8",
+                    "name": "LaCroix"
+                },
+                {
+                    "count": "36",
+                    "name": "Starbucks Coffee"
+                },
+                {
+                    "count": "29",
+                    "name": "Ocean Spray"
+                },
+                {
+                    "count": "17",
+                    "name": "Pepsi"
+                },
+                {
+                    "count": "17",
+                    "name": "Pure Leaf"
+                },
+                {
+                    "count": "12",
+                    "name": "Monster"
+                },
+                {
+                    "count": "12",
+                    "name": "Red Bull"
+                },
+                {
+                    "count": "6",
+                    "name": "Motts"
+                },
+                {
+                    "count": "5",
+                    "name": "Coffee mate"
+                },
+                {
+                    "count": "5",
+                    "name": "Sprite"
+                },
+                {
+                    "count": "1",
+                    "name": "Aquafina"
+                },
+                {
+                    "count": "1",
+                    "name": "DASANI"
+                },
+                {
+                    "count": "35",
+                    "name": "Starbucks"
+                },
+                {
+                    "count": "21",
+                    "name": "Canada Dry"
+                },
+                {
+                    "count": "18",
+                    "name": "Don Franciscos"
+                },
+                {
+                    "count": "17",
+                    "name": "Bigelow"
+                },
+                {
+                    "count": "15",
+                    "name": "Snapple"
+                },
+                {
+                    "count": "14",
+                    "name": "AriZona"
+                },
+                {
+                    "count": "14",
+                    "name": "Dr Pepper"
+                },
+                {
+                    "count": "14",
+                    "name": "vitaminwater"
+                },
+                {
+                    "count": "13",
+                    "name": "Lipton"
+                },
+                {
+                    "count": "13",
+                    "name": "Naked"
+                },
+                {
+                    "count": "12",
+                    "name": "Arrowhead"
+                },
+                {
+                    "count": "12",
+                    "name": "Bolthouse Farms"
+                },
+                {
+                    "count": "12",
+                    "name": "Celestial Seasonings"
+                },
+                {
+                    "count": "12",
+                    "name": "Peets Coffee"
+                },
+                {
+                    "count": "12",
+                    "name": "Perrier"
+                },
+                {
+                    "count": "12",
+                    "name": "Rockstar"
+                },
+                {
+                    "count": "11",
+                    "name": "7UP"
+                },
+                {
+                    "count": "11",
+                    "name": "GT's"
+                },
+                {
+                    "count": "11",
+                    "name": "Propel"
+                },
+                {
+                    "count": "11",
+                    "name": "Sparkling ICE"
+                },
+                {
+                    "count": "10",
+                    "name": "Langers"
+                },
+                {
+                    "count": "10",
+                    "name": "V8"
+                },
+                {
+                    "count": "10",
+                    "name": "Yogi"
+                },
+                {
+                    "count": "10",
+                    "name": "bai"
+                },
+                {
+                    "count": "9",
+                    "name": "Gold Peak"
+                },
+                {
+                    "count": "9",
+                    "name": "Green Mountain Coffee"
+                },
+                {
+                    "count": "9",
+                    "name": "Odwalla"
+                },
+                {
+                    "count": "9",
+                    "name": "Tree Top"
+                },
+                {
+                    "count": "8",
+                    "name": "Crystal Light"
+                },
+                {
+                    "count": "8",
+                    "name": "Kevita"
+                },
+                {
+                    "count": "8",
+                    "name": "Schweppes"
+                },
+                {
+                    "count": "8",
+                    "name": "bubly"
+                },
+                {
+                    "count": "7",
+                    "name": "Folgers"
+                },
+                {
+                    "count": "7",
+                    "name": "Kerns"
+                },
+                {
+                    "count": "7",
+                    "name": "Minute Maid"
+                },
+                {
+                    "count": "7",
+                    "name": "Signature SELECT/Refreshe"
+                },
+                {
+                    "count": "7",
+                    "name": "Squirt"
+                },
+                {
+                    "count": "7",
+                    "name": "Swiss Miss"
+                },
+                {
+                    "count": "7",
+                    "name": "Twinings of London"
+                },
+                {
+                    "count": "7",
+                    "name": "Welchs"
+                },
+                {
+                    "count": "6",
+                    "name": "BODYARMOR"
+                },
+                {
+                    "count": "6",
+                    "name": "MiO"
+                },
+                {
+                    "count": "6",
+                    "name": "POWERADE"
+                },
+                {
+                    "count": "6",
+                    "name": "Traditional Medicinals"
+                },
+                {
+                    "count": "5",
+                    "name": "Capri Sun"
+                },
+                {
+                    "count": "5",
+                    "name": "Crystal Geyser"
+                },
+                {
+                    "count": "5",
+                    "name": "Health Ade"
+                },
+                {
+                    "count": "5",
+                    "name": "Kool-Aid"
+                },
+                {
+                    "count": "5",
+                    "name": "LavAzza"
+                },
+                {
+                    "count": "5",
+                    "name": "Martinellis"
+                },
+                {
+                    "count": "5",
+                    "name": "Mountain Dew"
+                },
+                {
+                    "count": "5",
+                    "name": "S. PELLEGRINO"
+                },
+                {
+                    "count": "5",
+                    "name": "Vita Coco"
+                },
+                {
+                    "count": "5",
+                    "name": "smartwater"
+                },
+                {
+                    "count": "4",
+                    "name": "A&W"
+                },
+                {
+                    "count": "4",
+                    "name": "Dole"
+                },
+                {
+                    "count": "4",
+                    "name": "Dunkin Donuts"
+                },
+                {
+                    "count": "4",
+                    "name": "Fanta"
+                },
+                {
+                    "count": "4",
+                    "name": "HERSHEY'S"
+                },
+                {
+                    "count": "4",
+                    "name": "Nestle"
+                },
+                {
+                    "count": "4",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "4",
+                    "name": "Stumptown"
+                },
+                {
+                    "count": "4",
+                    "name": "Suja"
+                },
+                {
+                    "count": "4",
+                    "name": "Sunkist"
+                },
+                {
+                    "count": "4",
+                    "name": "Sunsweet"
+                },
+                {
+                    "count": "4",
+                    "name": "Vernors"
+                },
+                {
+                    "count": "3",
+                    "name": "Bang"
+                },
+                {
+                    "count": "3",
+                    "name": "C2O"
+                },
+                {
+                    "count": "3",
+                    "name": "Clamato"
+                },
+                {
+                    "count": "3",
+                    "name": "FIJI"
+                },
+                {
+                    "count": "3",
+                    "name": "Gevalia"
+                },
+                {
+                    "count": "3",
+                    "name": "Groundwork"
+                },
+                {
+                    "count": "3",
+                    "name": "Hawaiian Punch"
+                },
+                {
+                    "count": "3",
+                    "name": "High Brew"
+                },
+                {
+                    "count": "3",
+                    "name": "Honest Kids"
+                },
+                {
+                    "count": "3",
+                    "name": "POM"
+                },
+                {
+                    "count": "3",
+                    "name": "Peet's"
+                },
+                {
+                    "count": "3",
+                    "name": "Seattles Best"
+                },
+                {
+                    "count": "3",
+                    "name": "Signature SELECT/Kitchens"
+                },
+                {
+                    "count": "3",
+                    "name": "Sparkletts"
+                },
+                {
+                    "count": "3",
+                    "name": "Tejava"
+                },
+                {
+                    "count": "3",
+                    "name": "Twinings"
+                },
+                {
+                    "count": "3",
+                    "name": "Vive Organic"
+                },
+                {
+                    "count": "3",
+                    "name": "Zevia"
+                },
+                {
+                    "count": "2",
+                    "name": "Barqs"
+                },
+                {
+                    "count": "2",
+                    "name": "Bundaberg"
+                },
+                {
+                    "count": "2",
+                    "name": "Cactus Cooler"
+                },
+                {
+                    "count": "2",
+                    "name": "Califia Farms"
+                },
+                {
+                    "count": "2",
+                    "name": "Chock Full o\u001aNuts"
+                },
+                {
+                    "count": "2",
+                    "name": "Core Power"
+                },
+                {
+                    "count": "2",
+                    "name": "Donut Shop"
+                },
+                {
+                    "count": "2",
+                    "name": "Eight O Clock"
+                },
+                {
+                    "count": "2",
+                    "name": "Eternal"
+                },
+                {
+                    "count": "2",
+                    "name": "FRESCA"
+                },
+                {
+                    "count": "2",
+                    "name": "Fairlife"
+                },
+                {
+                    "count": "2",
+                    "name": "Fever-Tree"
+                },
+                {
+                    "count": "2",
+                    "name": "Floridas Natural"
+                },
+                {
+                    "count": "2",
+                    "name": "Good 2 Grow"
+                },
+                {
+                    "count": "2",
+                    "name": "Good Earth"
+                },
+                {
+                    "count": "2",
+                    "name": "Harmless Harvest"
+                },
+                {
+                    "count": "2",
+                    "name": "Honest Tea"
+                },
+                {
+                    "count": "2",
+                    "name": "Kauai Coffee"
+                },
+                {
+                    "count": "2",
+                    "name": "Maxwell House"
+                },
+                {
+                    "count": "2",
+                    "name": "Melitta"
+                },
+                {
+                    "count": "2",
+                    "name": "One"
+                },
+                {
+                    "count": "2",
+                    "name": "RC"
+                },
+                {
+                    "count": "2",
+                    "name": "ROAR"
+                },
+                {
+                    "count": "2",
+                    "name": "Signature SELECT/Farms"
+                },
+                {
+                    "count": "2",
+                    "name": "Spindrift"
+                },
+                {
+                    "count": "2",
+                    "name": "TAZO"
+                },
+                {
+                    "count": "2",
+                    "name": "Teavana"
+                },
+                {
+                    "count": "2",
+                    "name": "Torani"
+                },
+                {
+                    "count": "2",
+                    "name": "Tropicana"
+                },
+                {
+                    "count": "2",
+                    "name": "Voss"
+                },
+                {
+                    "count": "2",
+                    "name": "Wtrmln Wtr"
+                },
+                {
+                    "count": "2",
+                    "name": "Yuban"
+                },
+                {
+                    "count": "1",
+                    "name": "ALKALINE88"
+                },
+                {
+                    "count": "1",
+                    "name": "ALOE gLOE"
+                },
+                {
+                    "count": "1",
+                    "name": "Acqua Panna"
+                },
+                {
+                    "count": "1",
+                    "name": "Bing"
+                },
+                {
+                    "count": "1",
+                    "name": "Brisk"
+                },
+                {
+                    "count": "1",
+                    "name": "Cafe Escapes"
+                },
+                {
+                    "count": "1",
+                    "name": "Cafe La Llave"
+                },
+                {
+                    "count": "1",
+                    "name": "Caffe D'Vita"
+                },
+                {
+                    "count": "1",
+                    "name": "Califia"
+                },
+                {
+                    "count": "1",
+                    "name": "Choice Organic"
+                },
+                {
+                    "count": "1",
+                    "name": "Country Time"
+                },
+                {
+                    "count": "1",
+                    "name": "Diet Rite"
+                },
+                {
+                    "count": "1",
+                    "name": "Droste"
+                },
+                {
+                    "count": "1",
+                    "name": "Evolution Fresh"
+                },
+                {
+                    "count": "1",
+                    "name": "Fever Tree"
+                },
+                {
+                    "count": "1",
+                    "name": "Goslings"
+                },
+                {
+                    "count": "1",
+                    "name": "Henry Weinhard's"
+                },
+                {
+                    "count": "1",
+                    "name": "Hi C"
+                },
+                {
+                    "count": "1",
+                    "name": "Hills Bros."
+                },
+                {
+                    "count": "1",
+                    "name": "Honest Ade"
+                },
+                {
+                    "count": "1",
+                    "name": "Land O'Lakes"
+                },
+                {
+                    "count": "1",
+                    "name": "LifeWtr"
+                },
+                {
+                    "count": "1",
+                    "name": "Martinelli's"
+                },
+                {
+                    "count": "1",
+                    "name": "McCafe"
+                },
+                {
+                    "count": "1",
+                    "name": "Mighty Leaf"
+                },
+                {
+                    "count": "1",
+                    "name": "Mist Twist"
+                },
+                {
+                    "count": "1",
+                    "name": "Nellie & Joe's"
+                },
+                {
+                    "count": "1",
+                    "name": "Nescafe"
+                },
+                {
+                    "count": "1",
+                    "name": "Nestle Pure Life"
+                },
+                {
+                    "count": "1",
+                    "name": "Newmans Own"
+                },
+                {
+                    "count": "1",
+                    "name": "Numi"
+                },
+                {
+                    "count": "1",
+                    "name": "Oregon Chai"
+                },
+                {
+                    "count": "1",
+                    "name": "Ovaltine"
+                },
+                {
+                    "count": "1",
+                    "name": "ReaLemon"
+                },
+                {
+                    "count": "1",
+                    "name": "SANPELLEGRINO"
+                },
+                {
+                    "count": "1",
+                    "name": "Santa Cruz"
+                },
+                {
+                    "count": "1",
+                    "name": "Stok"
+                },
+                {
+                    "count": "1",
+                    "name": "Tadin"
+                },
+                {
+                    "count": "1",
+                    "name": "Tasters Choice"
+                },
+                {
+                    "count": "1",
+                    "name": "Tetley"
+                },
+                {
+                    "count": "1",
+                    "name": "The Coffee Bean & Tea Leaf"
+                },
+                {
+                    "count": "1",
+                    "name": "The Mountain Valley"
+                },
+                {
+                    "count": "1",
+                    "name": "Trimino"
+                },
+                {
+                    "count": "1",
+                    "name": "Tummy Tickler"
+                },
+                {
+                    "count": "1",
+                    "name": "Yachak"
+                },
+                {
+                    "count": "1",
+                    "name": "Yoo-hoo"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "271",
+                    "name": "Juice & Smoothies|1_5_5"
+                },
+                {
+                    "count": "162",
+                    "name": "Soft Drinks|1_5_7"
+                },
+                {
+                    "count": "161",
+                    "name": "Water & Sparkling Water|1_5_10"
+                },
+                {
+                    "count": "234",
+                    "name": "Coffee|1_5_3"
+                },
+                {
+                    "count": "65",
+                    "name": "Sports Drinks|1_5_8"
+                },
+                {
+                    "count": "41",
+                    "name": "Energy Drinks & Shots|1_5_4"
+                },
+                {
+                    "count": "156",
+                    "name": "Tea|1_5_9"
+                },
+                {
+                    "count": "23",
+                    "name": "Cocoa & Hot Chocolate|1_5_1"
+                },
+                {
+                    "count": "23",
+                    "name": "Kombucha|1_5_6"
+                },
+                {
+                    "count": "15",
+                    "name": "Coconut Water|1_5_2"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "869",
+                    "name": "Y"
+                },
+                {
+                    "count": "282",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "650",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "143",
+                    "name": "Low Sodium"
+                },
+                {
+                    "count": "211",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "90",
+                    "name": "Sugar Free"
+                },
+                {
+                    "count": "15",
+                    "name": "Lactose Free"
+                },
+                {
+                    "count": "105",
+                    "name": "Organic"
+                },
+                {
+                    "count": "63",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "17",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "13",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Egg Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Peanut Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "1151",
+                    "name": "Beverages:|1_5"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "52",
+                    "name": "Cola|1_5_7_1"
+                },
+                {
+                    "count": "35",
+                    "name": "Still Water|1_5_10_3"
+                },
+                {
+                    "count": "90",
+                    "name": "Coffee - Ground|1_5_3_1"
+                },
+                {
+                    "count": "22",
+                    "name": "Orange Juice|1_5_5_12"
+                },
+                {
+                    "count": "89",
+                    "name": "Sparkling & Seltzer|1_5_10_2"
+                },
+                {
+                    "count": "65",
+                    "name": "Sports Drinks|1_5_8_1"
+                },
+                {
+                    "count": "41",
+                    "name": "Energy Drinks & Shots|1_5_4_1"
+                },
+                {
+                    "count": "23",
+                    "name": "Apple Juice & Cider|1_5_5_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Lemonade & Limeade|1_5_5_10"
+                },
+                {
+                    "count": "74",
+                    "name": "Iced Tea|1_5_9_3"
+                },
+                {
+                    "count": "47",
+                    "name": "Cranberry Juice|1_5_5_3"
+                },
+                {
+                    "count": "34",
+                    "name": "Lemon Lime & Citrus Soda|1_5_7_4"
+                },
+                {
+                    "count": "6",
+                    "name": "Coffee Creamers|1_5_3_4"
+                },
+                {
+                    "count": "81",
+                    "name": "Tea Bags|1_5_9_5"
+                },
+                {
+                    "count": "66",
+                    "name": "Coffee - Pods|1_5_3_2"
+                },
+                {
+                    "count": "40",
+                    "name": "Smoothies|1_5_5_16"
+                },
+                {
+                    "count": "37",
+                    "name": "Enhanced Water|1_5_10_1"
+                },
+                {
+                    "count": "35",
+                    "name": "Juice Packs|1_5_5_8"
+                },
+                {
+                    "count": "27",
+                    "name": "Iced & Nitro Coffee|1_5_3_7"
+                },
+                {
+                    "count": "23",
+                    "name": "Kombucha|1_5_6_1"
+                },
+                {
+                    "count": "22",
+                    "name": "Coffee - Whole Bean|1_5_3_3"
+                },
+                {
+                    "count": "22",
+                    "name": "Ginger Ale|1_5_7_3"
+                },
+                {
+                    "count": "20",
+                    "name": "Fruit Drink Mix|1_5_5_4"
+                },
+                {
+                    "count": "19",
+                    "name": "Instant Coffee & Mix|1_5_3_8"
+                },
+                {
+                    "count": "18",
+                    "name": "Cocoa & Hot Chocolate|1_5_1_1"
+                },
+                {
+                    "count": "17",
+                    "name": "Vegetable & Tomato Juice|1_5_5_18"
+                },
+                {
+                    "count": "15",
+                    "name": "Coconut Water|1_5_2_1"
+                },
+                {
+                    "count": "14",
+                    "name": "Spicy Cherry Soda|1_5_7_8"
+                },
+                {
+                    "count": "14",
+                    "name": "Tonic & Club Soda|1_5_7_9"
+                },
+                {
+                    "count": "12",
+                    "name": "Berry & Blends|1_5_5_2"
+                },
+                {
+                    "count": "9",
+                    "name": "Grape Juice|1_5_5_6"
+                },
+                {
+                    "count": "8",
+                    "name": "Nectars|1_5_5_11"
+                },
+                {
+                    "count": "8",
+                    "name": "Orange Soda|1_5_7_5"
+                },
+                {
+                    "count": "8",
+                    "name": "Specialty & Natural Soda|1_5_7_7"
+                },
+                {
+                    "count": "7",
+                    "name": "Root Beer & Cream Soda|1_5_7_6"
+                },
+                {
+                    "count": "5",
+                    "name": "Fruit Punch|1_5_5_5"
+                },
+                {
+                    "count": "5",
+                    "name": "Milk Mix|1_5_1_2"
+                },
+                {
+                    "count": "5",
+                    "name": "Pomegranate Juice|1_5_5_14"
+                },
+                {
+                    "count": "5",
+                    "name": "Prune Juice|1_5_5_15"
+                },
+                {
+                    "count": "4",
+                    "name": "Lemon & Lime Juice|1_5_5_9"
+                },
+                {
+                    "count": "4",
+                    "name": "Pineapple Juice|1_5_5_13"
+                },
+                {
+                    "count": "4",
+                    "name": "Sparkling Juice|1_5_5_17"
+                },
+                {
+                    "count": "3",
+                    "name": "Fruit & Berry Soda|1_5_7_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Coffee Filters|1_5_3_5"
+                },
+                {
+                    "count": "2",
+                    "name": "Flavored Syrups|1_5_3_6"
+                },
+                {
+                    "count": "2",
+                    "name": "Grapefruit Juice|1_5_5_7"
+                },
+                {
+                    "count": "1",
+                    "name": "Chai Tea|1_5_9_1"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

@@ -1,0 +1,1366 @@
+{
+    "response": {
+        "numFound": 441,
+        "start": 0,
+        "docs": [
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cheerios Cereal Whole Grain Oats Honey Nut Box - 10.8 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960451506",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012479",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960451506",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 5.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cheerios Cereal Toasted Whole Grain Oat - 18 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111011148",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600027528",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 99,
+                "shelfName": "Cereal",
+                "id": "111011148",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Honey Bunches of Oats Cereal Honey Roasted - 14.5 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960041310",
+                "aisleId": "1_7_2_1",
+                "upc": "0088491201424",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.34,
+                "salesRank": 1911,
+                "shelfName": "Cereal",
+                "id": "960041310",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cheerios Cereal Toasted Whole Grain Oat - 8.9 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111011146",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600027526",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.39,
+                "salesRank": 645,
+                "shelfName": "Cereal",
+                "id": "111011146",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.19,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cheerios Cereal Whole Grain Oats Honey Nut Family Size Box - 19.5 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960452756",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012315",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960452756",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Kelloggs Raisin Bran Breakfast Cereal Original Excellent Source of Fiber Box - 24oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960522472",
+                "aisleId": "1_7_2_1",
+                "upc": "0003800019989",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960522472",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Quaker Oats Whole Grain Quick 1 Minute - 42 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111050071",
+                "aisleId": "1_7_2_4",
+                "upc": "0003000001200",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 706,
+                "shelfName": "Oatmeal & Hot Cereal",
+                "id": "111050071",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.29&lt;BR&gt;SAVE up to: $0.9",
+                "promoType": "P"
+            },
+            {
+                "price": 2.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Frozen Breakfast|1_7_3",
+                "name": "Signature SELECT/Kitchens Hash Brown Patties Lightly Seasoned Shredded 10 Count - 22.5 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "147150052",
+                "aisleId": "1_7_3_5",
+                "upc": "0002113009268",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 668,
+                "shelfName": "Hash Browns",
+                "id": "147150052",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Kelloggs Cereal Frosted Flakes - 13.5 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960481353",
+                "aisleId": "1_7_2_1",
+                "upc": "0003800019904",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.33,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960481353",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Mini Wheats Cereal Frosted Original Value Size - 24 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111010813",
+                "aisleId": "1_7_2_1",
+                "upc": "0003800031834",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 894,
+                "shelfName": "Cereal",
+                "id": "111010813",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Frozen Breakfast|1_7_3",
+                "name": "Jimmy Dean Sausage Egg & Cheese Croissant Sandwiches 8 Count",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960041783",
+                "aisleId": "1_7_3_3",
+                "upc": "0007790050308",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 10.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.28,
+                "salesRank": 167,
+                "shelfName": "Breakfast Sandwiches",
+                "id": "960041783",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 3.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Quaker Oatmeal Instant Maple & Brown Sugar - 10-1.51 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111050056",
+                "aisleId": "1_7_2_4",
+                "upc": "0003000001190",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 271,
+                "shelfName": "Oatmeal & Hot Cereal",
+                "id": "111050056",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.69&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast Bars & Bites|1_7_1",
+                "name": "Nature Valley Granola Bars Crunchy Oats n Honey - 6-1.49 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111200054",
+                "aisleId": "1_7_1_3",
+                "upc": "0001600026460",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.39,
+                "salesRank": 372,
+                "shelfName": "Granola Bars",
+                "id": "111200054",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 5.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Frozen Breakfast|1_7_3",
+                "name": "Applegate Natural Chicken & Maple Breakfast Sausage Frozen - 7oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960088918",
+                "aisleId": "1_7_3_4",
+                "upc": "0002531700696",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.78,
+                "salesRank": 2718,
+                "shelfName": "Breakfast Sausage",
+                "id": "960088918",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cheerios Cereal Whole Grain Oats Honey Nut Large Size Box - 15.4 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960451507",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012506",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.34,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960451507",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Lucky Charms Cereal Frosted Toasted Oat With Marshmallows Magical Unicorn Box - 10.5 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960451505",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012399",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.33,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960451505",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 6.19,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Lucky Charms Cereal Frosted Toasted Oat With Marshmallows Magical Unicorn Family Size - 19.3 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960451511",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012683",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960451511",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Frozen Breakfast|1_7_3",
+                "name": "Simply Potatoes Shredded Hash Browns - 20 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "138900012",
+                "aisleId": "1_7_3_5",
+                "upc": "0002016922233",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 1405,
+                "shelfName": "Hash Browns",
+                "id": "138900012",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Quaker Oatmeal Instant Flavor Variety - 10-1.51 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960079489",
+                "aisleId": "1_7_2_4",
+                "upc": "0003000031684",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 2036,
+                "shelfName": "Oatmeal & Hot Cereal",
+                "id": "960079489",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.69&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 4.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast Bars & Bites|1_7_1",
+                "name": "Quaker Chewy Granola Bars Chocolate Chip Value Pack - 18-0.84 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960062546",
+                "aisleId": "1_7_1_3",
+                "upc": "0003000045017",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 1460,
+                "shelfName": "Granola Bars",
+                "id": "960062546",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.79&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast Bars & Bites|1_7_1",
+                "name": "Nature Valley Granola Bars Crunchy Variety Pack - 12-1.49 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960018941",
+                "aisleId": "1_7_1_3",
+                "upc": "0001600029860",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.39,
+                "salesRank": 1397,
+                "shelfName": "Granola Bars",
+                "id": "960018941",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Frozen Breakfast|1_7_3",
+                "name": "Eggo Waffles Buttermilk 10 Count - 12.3 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "145010086",
+                "aisleId": "1_7_3_9",
+                "upc": "0003800040290",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.33,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 1260,
+                "shelfName": "Waffles",
+                "id": "145010086",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.79&lt;BR&gt;SAVE up to: $0.54",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cinnamon Toast Crunch Cereal Family Size Box - 19.3 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960451504",
+                "aisleId": "1_7_2_1",
+                "upc": "0001600012253",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.26,
+                "salesRank": 99999,
+                "shelfName": "Cereal",
+                "id": "960451504",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast Bars & Bites|1_7_1",
+                "name": "Nature Valley Granola Bars Sweet & Salty Nut Peanut - 6-1.2 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111200546",
+                "aisleId": "1_7_1_3",
+                "upc": "0001600027707",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.47,
+                "salesRank": 1758,
+                "shelfName": "Granola Bars",
+                "id": "111200546",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 7.39,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Pancake & Waffle Mix|1_7_5",
+                "name": "Krusteaz Pancake Mix Resealable Family Size - 5 Lb",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960031979",
+                "aisleId": "1_7_5_1",
+                "upc": "0004144900175",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.39,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1.48,
+                "salesRank": 4573,
+                "shelfName": "Pancake & Waffle Mix",
+                "id": "960031979",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast Bars & Bites|1_7_1",
+                "name": "Nature Valley Granola Bars Crunchy Oats n Honey Value Pack - 12-1.49 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960023871",
+                "aisleId": "1_7_1_3",
+                "upc": "0001600043101",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.39,
+                "salesRank": 993,
+                "shelfName": "Granola Bars",
+                "id": "960023871",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Quaker Simply Granola Oats Honey & Almonds - 28 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111010179",
+                "aisleId": "1_7_2_3",
+                "upc": "0003000006700",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 1100,
+                "shelfName": "Granola & Muesli",
+                "id": "111010179",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $1.3",
+                "promoType": "P"
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Kelloggs Corn Flakes Cereal - 18 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111010115",
+                "aisleId": "1_7_2_1",
+                "upc": "0003800000120",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.29,
+                "salesRank": 1964,
+                "shelfName": "Cereal",
+                "id": "111010115",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 5.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Kelloggs Frosted Flakes - 24 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "960315666",
+                "aisleId": "1_7_2_1",
+                "upc": "0003800018177",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 3518,
+                "shelfName": "Cereal",
+                "id": "960315666",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.29&lt;BR&gt;SAVE up to: $1.4",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cereal|1_7_2",
+                "name": "Cream Of Wheat Cereal Hot 2 1/2 Minute Cook Time - 28 Oz",
+                "departmentName": "Breakfast & Cereal",
+                "pid": "111050076",
+                "aisleId": "1_7_2_4",
+                "upc": "0001313000612",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.18,
+                "salesRank": 2557,
+                "shelfName": "Oatmeal & Hot Cereal",
+                "id": "111050076",
+                "featured": false,
+                "pastPurchased": false
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 319,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 116,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 5,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 1,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 0,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "441",
+                    "name": "Breakfast & Cereal"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "9",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "12",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "44",
+                    "name": "Quaker"
+                },
+                {
+                    "count": "10",
+                    "name": "Cheerios"
+                },
+                {
+                    "count": "35",
+                    "name": "Nature Valley"
+                },
+                {
+                    "count": "5",
+                    "name": "Frosted Flakes"
+                },
+                {
+                    "count": "5",
+                    "name": "Lucky Charms"
+                },
+                {
+                    "count": "23",
+                    "name": "Jimmy Dean"
+                },
+                {
+                    "count": "17",
+                    "name": "Signature SELECT/Kitchens"
+                },
+                {
+                    "count": "16",
+                    "name": "Eggo"
+                },
+                {
+                    "count": "5",
+                    "name": "Cream of Wheat"
+                },
+                {
+                    "count": "5",
+                    "name": "Honey Bunches of Oats"
+                },
+                {
+                    "count": "5",
+                    "name": "KRUSTEAZ"
+                },
+                {
+                    "count": "3",
+                    "name": "Raisin Bran"
+                },
+                {
+                    "count": "2",
+                    "name": "Cinnamon Toast Crunch"
+                },
+                {
+                    "count": "2",
+                    "name": "Corn Flakes"
+                },
+                {
+                    "count": "2",
+                    "name": "Frosted Mini-Wheats"
+                },
+                {
+                    "count": "1",
+                    "name": "Applegate Farms"
+                },
+                {
+                    "count": "1",
+                    "name": "Simply Potatoes"
+                },
+                {
+                    "count": "16",
+                    "name": "Kashi"
+                },
+                {
+                    "count": "14",
+                    "name": "Special K"
+                },
+                {
+                    "count": "9",
+                    "name": "KIND"
+                },
+                {
+                    "count": "8",
+                    "name": "Bob's Red Mill"
+                },
+                {
+                    "count": "8",
+                    "name": "Bobs Red Mill"
+                },
+                {
+                    "count": "8",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "8",
+                    "name": "belVita"
+                },
+                {
+                    "count": "7",
+                    "name": "Nutri-Grain"
+                },
+                {
+                    "count": "6",
+                    "name": "Cascadian Farm"
+                },
+                {
+                    "count": "6",
+                    "name": "Fiber One"
+                },
+                {
+                    "count": "5",
+                    "name": "CLIF"
+                },
+                {
+                    "count": "4",
+                    "name": "Banquet"
+                },
+                {
+                    "count": "4",
+                    "name": "Bear Naked"
+                },
+                {
+                    "count": "4",
+                    "name": "Cap'n Crunch"
+                },
+                {
+                    "count": "4",
+                    "name": "Chex"
+                },
+                {
+                    "count": "4",
+                    "name": "Evol"
+                },
+                {
+                    "count": "4",
+                    "name": "Kodiak Cakes"
+                },
+                {
+                    "count": "4",
+                    "name": "Life"
+                },
+                {
+                    "count": "4",
+                    "name": "Malt-O-Meal"
+                },
+                {
+                    "count": "4",
+                    "name": "Nature's Path"
+                },
+                {
+                    "count": "3",
+                    "name": "Annie's"
+                },
+                {
+                    "count": "3",
+                    "name": "Arrowhead Mills"
+                },
+                {
+                    "count": "3",
+                    "name": "Carnation"
+                },
+                {
+                    "count": "3",
+                    "name": "El Monterey"
+                },
+                {
+                    "count": "3",
+                    "name": "General Mills"
+                },
+                {
+                    "count": "3",
+                    "name": "Grape-Nuts"
+                },
+                {
+                    "count": "3",
+                    "name": "ORE-IDA"
+                },
+                {
+                    "count": "3",
+                    "name": "Protein One"
+                },
+                {
+                    "count": "3",
+                    "name": "Shredded Wheat"
+                },
+                {
+                    "count": "3",
+                    "name": "Stonewall Kitchen"
+                },
+                {
+                    "count": "2",
+                    "name": "Apple Jacks"
+                },
+                {
+                    "count": "2",
+                    "name": "Aunt Jemima"
+                },
+                {
+                    "count": "2",
+                    "name": "Bobos"
+                },
+                {
+                    "count": "2",
+                    "name": "Cocoa Puffs"
+                },
+                {
+                    "count": "2",
+                    "name": "Cooked Perfect"
+                },
+                {
+                    "count": "2",
+                    "name": "Corn Pops"
+                },
+                {
+                    "count": "2",
+                    "name": "Fruity Pebbles"
+                },
+                {
+                    "count": "2",
+                    "name": "Golden Grahams"
+                },
+                {
+                    "count": "2",
+                    "name": "Good Food Made Simple"
+                },
+                {
+                    "count": "2",
+                    "name": "Great Grains"
+                },
+                {
+                    "count": "2",
+                    "name": "Honey Bunches"
+                },
+                {
+                    "count": "2",
+                    "name": "Jones Dairy Farm"
+                },
+                {
+                    "count": "2",
+                    "name": "Kelloggs"
+                },
+                {
+                    "count": "2",
+                    "name": "Kix"
+                },
+                {
+                    "count": "2",
+                    "name": "Natures Bakery"
+                },
+                {
+                    "count": "2",
+                    "name": "Paleo Hero"
+                },
+                {
+                    "count": "2",
+                    "name": "Rice Krispies Treats"
+                },
+                {
+                    "count": "2",
+                    "name": "Umpqua Oats"
+                },
+                {
+                    "count": "1",
+                    "name": "Albers"
+                },
+                {
+                    "count": "1",
+                    "name": "All-Bran"
+                },
+                {
+                    "count": "1",
+                    "name": "Andersons"
+                },
+                {
+                    "count": "1",
+                    "name": "Annies"
+                },
+                {
+                    "count": "1",
+                    "name": "Bantam Bagels"
+                },
+                {
+                    "count": "1",
+                    "name": "Better Oats"
+                },
+                {
+                    "count": "1",
+                    "name": "Cocoa Krispies"
+                },
+                {
+                    "count": "1",
+                    "name": "Cream of Rice"
+                },
+                {
+                    "count": "1",
+                    "name": "Food For Life"
+                },
+                {
+                    "count": "1",
+                    "name": "Froot Loops"
+                },
+                {
+                    "count": "1",
+                    "name": "Frosted Cheerios"
+                },
+                {
+                    "count": "1",
+                    "name": "Frosted Mini Wheats"
+                },
+                {
+                    "count": "1",
+                    "name": "Golden Crisp"
+                },
+                {
+                    "count": "1",
+                    "name": "Hot Pockets"
+                },
+                {
+                    "count": "1",
+                    "name": "Kellogg's"
+                },
+                {
+                    "count": "1",
+                    "name": "Kretschmer"
+                },
+                {
+                    "count": "1",
+                    "name": "Log Cabin"
+                },
+                {
+                    "count": "1",
+                    "name": "Louisiana Fish Fry Products"
+                },
+                {
+                    "count": "1",
+                    "name": "Malt O Meal"
+                },
+                {
+                    "count": "1",
+                    "name": "Mini Wheats"
+                },
+                {
+                    "count": "1",
+                    "name": "Mrs Butterworths"
+                },
+                {
+                    "count": "1",
+                    "name": "PEBBLES"
+                },
+                {
+                    "count": "1",
+                    "name": "Peanut Butter & Cococa Pebbles"
+                },
+                {
+                    "count": "1",
+                    "name": "Pillsbury"
+                },
+                {
+                    "count": "1",
+                    "name": "Pop-Tarts"
+                },
+                {
+                    "count": "1",
+                    "name": "Real Medleys"
+                },
+                {
+                    "count": "1",
+                    "name": "Rice Krispies"
+                },
+                {
+                    "count": "1",
+                    "name": "Simple Mills"
+                },
+                {
+                    "count": "1",
+                    "name": "Smart Start"
+                },
+                {
+                    "count": "1",
+                    "name": "Sweet Home Farm"
+                },
+                {
+                    "count": "1",
+                    "name": "Trix"
+                },
+                {
+                    "count": "1",
+                    "name": "Vans"
+                },
+                {
+                    "count": "1",
+                    "name": "Wheaties"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "212",
+                    "name": "Cereal|1_7_2"
+                },
+                {
+                    "count": "120",
+                    "name": "Breakfast Bars & Bites|1_7_1"
+                },
+                {
+                    "count": "80",
+                    "name": "Frozen Breakfast|1_7_3"
+                },
+                {
+                    "count": "14",
+                    "name": "Pancake & Waffle Mix|1_7_5"
+                },
+                {
+                    "count": "10",
+                    "name": "Syrup|1_7_6"
+                },
+                {
+                    "count": "3",
+                    "name": "Instant Breakfast Drink|1_7_4"
+                },
+                {
+                    "count": "2",
+                    "name": "Toaster Pastries|1_7_7"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "260",
+                    "name": "Y"
+                },
+                {
+                    "count": "181",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "252",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "49",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "11",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "32",
+                    "name": "Organic"
+                },
+                {
+                    "count": "14",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "7",
+                    "name": "Low Sodium"
+                },
+                {
+                    "count": "3",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Sugar Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Egg Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "441",
+                    "name": "Breakfast & Cereal:|1_7"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "114",
+                    "name": "Cereal|1_7_2_1"
+                },
+                {
+                    "count": "80",
+                    "name": "Granola Bars|1_7_1_3"
+                },
+                {
+                    "count": "55",
+                    "name": "Oatmeal & Hot Cereal|1_7_2_4"
+                },
+                {
+                    "count": "3",
+                    "name": "Hash Browns|1_7_3_5"
+                },
+                {
+                    "count": "25",
+                    "name": "Granola & Muesli|1_7_2_3"
+                },
+                {
+                    "count": "23",
+                    "name": "Waffles|1_7_3_9"
+                },
+                {
+                    "count": "17",
+                    "name": "Breakfast Sandwiches|1_7_3_3"
+                },
+                {
+                    "count": "14",
+                    "name": "Pancake & Waffle Mix|1_7_5_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Breakfast Sausage|1_7_3_4"
+                },
+                {
+                    "count": "27",
+                    "name": "Cereal Bars & Bites|1_7_1_1"
+                },
+                {
+                    "count": "18",
+                    "name": "Cereal - Natural/Organic|1_7_2_2"
+                },
+                {
+                    "count": "15",
+                    "name": "Breakfast Entrees|1_7_3_2"
+                },
+                {
+                    "count": "13",
+                    "name": "Fruit & Grain Bars|1_7_1_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Syrups|1_7_6_1"
+                },
+                {
+                    "count": "8",
+                    "name": "Breakfast Burritos|1_7_3_1"
+                },
+                {
+                    "count": "4",
+                    "name": "Pancakes & French Toast|1_7_3_7"
+                },
+                {
+                    "count": "3",
+                    "name": "Instant Breakfast Drink|1_7_4_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Toaster Pastries|1_7_7_1"
+                },
+                {
+                    "count": "1",
+                    "name": "Muffins & Bagels|1_7_3_6"
+                },
+                {
+                    "count": "1",
+                    "name": "Pastries|1_7_3_8"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

@@ -1,0 +1,1594 @@
+{
+    "response": {
+        "numFound": 446,
+        "start": 0,
+        "docs": [
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Progresso Traditional Soup Chicken Noodle - 19 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300053",
+                "aisleId": "1_9_8_1",
+                "upc": "0004119601088",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 944,
+                "shelfName": "Canned Soups",
+                "id": "125300053",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 3.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Stocks, Broth & Bouillon|1_9_9",
+                "name": "Swanson Broth Chicken - 32 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125250024",
+                "aisleId": "1_9_9_2",
+                "upc": "0005100012114",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 1342,
+                "shelfName": "Broth & Stocks",
+                "id": "125250024",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjgyLTMtYWJmOWNjMGQtYjliMS00ZmZkLWFlNGEtZDA5ODFhNDFiZmI5",
+                "agreementId": 43107,
+                "featuredProductId": 2927
+            },
+            {
+                "price": 1.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Condensed Soup Cream of Mushroom - 10.5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010057",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100001261",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 977,
+                "shelfName": "Condensed Soups",
+                "id": "125010057",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Chunky Soup Classic Chicken Noodle - 18.6 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300074",
+                "aisleId": "1_9_8_1",
+                "upc": "0005100003885",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 2255,
+                "shelfName": "Canned Soups",
+                "id": "125300074",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjgyLTMtYWJmOWNjMGQtYjliMS00ZmZkLWFlNGEtZDA5ODFhNDFiZmI5",
+                "agreementId": 42953,
+                "featuredProductId": 1825,
+                "promoDescription": "Vons Club Price: $2.89&lt;BR&gt;SAVE up to: $0.6",
+                "promoType": "P"
+            },
+            {
+                "price": 1.5,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Beans|1_9_1",
+                "name": "Rosarita Beans Refried Traditional Can - 16 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "127100885",
+                "aisleId": "1_9_1_12",
+                "upc": "0004430010632",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.09,
+                "salesRank": 1223,
+                "shelfName": "Refried Beans",
+                "id": "127100885",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $3&lt;BR&gt;SAVE up to: $0.98 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 1.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Tomato - 10.75 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010137",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100000011",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 1475,
+                "shelfName": "Condensed Soups",
+                "id": "125010137",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjgyLTMtYWJmOWNjMGQtYjliMS00ZmZkLWFlNGEtZDA5ODFhNDFiZmI5",
+                "agreementId": 122218,
+                "featuredProductId": 3172,
+                "promoDescription": "Vons Club Price: $1.29&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Stocks, Broth & Bouillon|1_9_9",
+                "name": "O Organics Organic Broth Chicken Low Sodium Brick - 32 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "960032041",
+                "aisleId": "1_9_9_2",
+                "upc": "0007989340671",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.09,
+                "salesRank": 2535,
+                "shelfName": "Broth & Stocks",
+                "id": "960032041",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Progresso Rich & Hearty Soup Chicken & Homestyle Noodles - 19 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300142",
+                "aisleId": "1_9_8_1",
+                "upc": "0004119691401",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 2260,
+                "shelfName": "Canned Soups",
+                "id": "125300142",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 1.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Cream Of Chicken - 10.5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010054",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100001031",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 1377,
+                "shelfName": "Condensed Soups",
+                "id": "125010054",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 1.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Chicken Noodle - 10.75 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010454",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100001251",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 648,
+                "shelfName": "Condensed Soups",
+                "id": "125010454",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjgyLTMtYWJmOWNjMGQtYjliMS00ZmZkLWFlNGEtZDA5ODFhNDFiZmI5",
+                "agreementId": 113208,
+                "featuredProductId": 2561,
+                "promoDescription": "Vons Club Price: $1.29&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Chunky Healthy Request Soup Chicken Noodle - 18.6 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300123",
+                "aisleId": "1_9_8_1",
+                "upc": "0005100016775",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 2523,
+                "shelfName": "Canned Soups",
+                "id": "125300123",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.89&lt;BR&gt;SAVE up to: $0.6",
+                "promoType": "P"
+            },
+            {
+                "price": 1.39,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Seafood & Fish|1_9_5",
+                "name": "StarKist Tuna Chunk Light in Water - 5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "960017239",
+                "aisleId": "1_9_5_9",
+                "upc": "0008000000673",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.28,
+                "salesRank": 4061,
+                "shelfName": "Tuna",
+                "id": "960017239",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.39&lt;BR&gt;SAVE up to: $0.4",
+                "promoType": "P"
+            },
+            {
+                "price": 1.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Chicken Noodle - 10.75 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010454",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100001251",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 648,
+                "shelfName": "Condensed Soups",
+                "id": "125010454",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.29&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Progresso Traditional Soup Chicken & Wild Rice - 19 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300043",
+                "aisleId": "1_9_8_1",
+                "upc": "0004119691036",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 3294,
+                "shelfName": "Canned Soups",
+                "id": "125300043",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 1.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Tomato - 10.75 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010137",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100000011",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 1475,
+                "shelfName": "Condensed Soups",
+                "id": "125010137",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.29&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Fruit|1_9_2",
+                "name": "Dole Pineapple Slices in 100% Pineapple Juice - 20 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "122400009",
+                "aisleId": "1_9_2_16",
+                "upc": "0003890000143",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.14,
+                "salesRank": 6571,
+                "shelfName": "Pineapple",
+                "id": "122400009",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Stocks, Broth & Bouillon|1_9_9",
+                "name": "O Organics Organic Broth Chicken - 32 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125250043",
+                "aisleId": "1_9_9_2",
+                "upc": "0007989340660",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.09,
+                "salesRank": 1248,
+                "shelfName": "Broth & Stocks",
+                "id": "125250043",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 2.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Seafood & Fish|1_9_5",
+                "name": "StarKist Tuna Albacore Solid White in Water - 5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "960017254",
+                "aisleId": "1_9_5_9",
+                "upc": "0008000000672",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.46,
+                "salesRank": 3364,
+                "shelfName": "Tuna",
+                "id": "960017254",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.29&lt;BR&gt;SAVE up to: $0.4",
+                "promoType": "P"
+            },
+            {
+                "price": 2.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Chunky Soup Classic Chicken Noodle - 18.6 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300074",
+                "aisleId": "1_9_8_1",
+                "upc": "0005100003885",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.16,
+                "salesRank": 2255,
+                "shelfName": "Canned Soups",
+                "id": "125300074",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.89&lt;BR&gt;SAVE up to: $0.6",
+                "promoType": "P"
+            },
+            {
+                "price": 1.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Soup Condensed Chicken Noodle Homestyle - 10.5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125010031",
+                "aisleId": "1_9_8_2",
+                "upc": "0005100002457",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 4663,
+                "shelfName": "Condensed Soups",
+                "id": "125010031",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 1.5,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Tomatoes|1_9_6",
+                "name": "RO-TEL Diced Tomatoes & Green Chilies - 10 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "121300082",
+                "aisleId": "1_9_6_2",
+                "upc": "0006414428243",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 2589,
+                "shelfName": "Diced Tomatoes",
+                "id": "121300082",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $3&lt;BR&gt;SAVE up to: $0.98 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 1.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Lipton Recipe Secrets Recipe Soup & Dip Mix Onion 2 Count - 2 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "325050005",
+                "aisleId": "1_9_8_6",
+                "upc": "0004100000362",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1,
+                "salesRank": 2026,
+                "shelfName": "Soup Mix & Meals",
+                "id": "325050005",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Meat|1_9_4",
+                "name": "SPAM Classic - 12 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "123050013",
+                "aisleId": "1_9_4_4",
+                "upc": "0003760013872",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.31,
+                "salesRank": 1469,
+                "shelfName": "Luncheon Meat",
+                "id": "123050013",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.69&lt;BR&gt;SAVE up to: $0.6",
+                "promoType": "P"
+            },
+            {
+                "price": 3.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Stocks, Broth & Bouillon|1_9_9",
+                "name": "Swanson Broth Chicken - 32 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125250024",
+                "aisleId": "1_9_9_2",
+                "upc": "0005100012114",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.12,
+                "salesRank": 1342,
+                "shelfName": "Broth & Stocks",
+                "id": "125250024",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Seafood & Fish|1_9_5",
+                "name": "Bumble Bee Tuna Albacore Solid White in Water - 5 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "960019121",
+                "aisleId": "1_9_5_9",
+                "upc": "0008660000005",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.54,
+                "salesRank": 1140,
+                "shelfName": "Tuna",
+                "id": "960019121",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.69&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 2.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Campbells Chunky Soup Chowder Clam New England - 18.8 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "125300088",
+                "aisleId": "1_9_8_1",
+                "upc": "0005100000524",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 3241,
+                "shelfName": "Canned Soups",
+                "id": "125300088",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.89&lt;BR&gt;SAVE up to: $0.6",
+                "promoType": "P"
+            },
+            {
+                "price": 0.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Tomatoes|1_9_6",
+                "name": "Signature SELECT Tomato Paste - 6 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "121350018",
+                "aisleId": "1_9_6_5",
+                "upc": "0002113049100",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 3923,
+                "shelfName": "Tomato Paste",
+                "id": "121350018",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $0.79&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 1.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Vegetables|1_9_7",
+                "name": "Green Giant Corn Whole Kernel Sweet - 15.25 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "121150011",
+                "aisleId": "1_9_7_6",
+                "upc": "0002000010473",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.59,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.1,
+                "salesRank": 18797,
+                "shelfName": "Corn & Baby Corn",
+                "id": "121150011",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.49&lt;BR&gt;SAVE up to: $0.1",
+                "promoType": "P"
+            },
+            {
+                "price": 1.25,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Soups & Ramen|1_9_8",
+                "name": "Nongshim Spicy Chicken Flavored Noodle Bowl Soup - 3.03 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "127050505",
+                "aisleId": "1_9_8_3",
+                "upc": "0003114626257",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.41,
+                "salesRank": 10953,
+                "shelfName": "Instant Ramen & Noodles",
+                "id": "127050505",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;4 for $5&lt;BR&gt;SAVE up to: $0.96 on 4",
+                "promoType": "P"
+            },
+            {
+                "price": 1.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Vegetables|1_9_7",
+                "name": "Ortega Green Chiles Diced Fire Roasted Mild Can - 4 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "127102762",
+                "aisleId": "1_9_7_17",
+                "upc": "0003900001021",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.45,
+                "salesRank": 11142,
+                "shelfName": "Peppers & Green Chiles",
+                "id": "127102762",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 1.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Fruit|1_9_2",
+                "name": "Signature SELECT Pear Slices Bartlett in 100% Pear Juice - 15 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "122200026",
+                "aisleId": "1_9_2_15",
+                "upc": "0002113032618",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.1,
+                "salesRank": 3044,
+                "shelfName": "Pears",
+                "id": "122200026",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.49&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 1.66,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Vegetables|1_9_7",
+                "name": "Del Monte Fresh Cut Peas Sweet with Natural Sea Salt - 15 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "121150014",
+                "aisleId": "1_9_7_16",
+                "upc": "0002400016308",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 1.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.11,
+                "salesRank": 3205,
+                "shelfName": "Peas",
+                "id": "121150014",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;3 for $4.98&lt;BR&gt;SAVE up to: $0.99 on 3",
+                "promoType": "P"
+            },
+            {
+                "price": 0.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Tomatoes|1_9_6",
+                "name": "Signature SELECT Tomato Sauce - 15 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "121350006",
+                "aisleId": "1_9_6_6",
+                "upc": "0002113049201",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.06,
+                "salesRank": 5298,
+                "shelfName": "Tomato Sauce & Puree",
+                "id": "121350006",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $0.89&lt;BR&gt;SAVE up to: $0.1",
+                "promoType": "P"
+            },
+            {
+                "price": 2.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Canned Fruit|1_9_2",
+                "name": "Dole Pineapple Chunks in 100% Pineapple Juice - 20 Oz",
+                "departmentName": "Canned Goods & Soups",
+                "pid": "122400010",
+                "aisleId": "1_9_2_16",
+                "upc": "0003890000473",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 2.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.14,
+                "salesRank": 1268,
+                "shelfName": "Pineapple",
+                "id": "122400010",
+                "featured": false,
+                "pastPurchased": false
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 415,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 30,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 1,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 0,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 0,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 0,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "446",
+                    "name": "Canned Goods & Soups"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "17",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "46",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "18",
+                    "name": "Campbells"
+                },
+                {
+                    "count": "17",
+                    "name": "Progresso"
+                },
+                {
+                    "count": "20",
+                    "name": "StarKist"
+                },
+                {
+                    "count": "11",
+                    "name": "Dole"
+                },
+                {
+                    "count": "24",
+                    "name": "Del Monte"
+                },
+                {
+                    "count": "19",
+                    "name": "Bumble Bee"
+                },
+                {
+                    "count": "12",
+                    "name": "Rosarita"
+                },
+                {
+                    "count": "10",
+                    "name": "Green Giant"
+                },
+                {
+                    "count": "5",
+                    "name": "Ortega"
+                },
+                {
+                    "count": "4",
+                    "name": "Ro-Tel"
+                },
+                {
+                    "count": "4",
+                    "name": "Swanson"
+                },
+                {
+                    "count": "3",
+                    "name": "Nongshim"
+                },
+                {
+                    "count": "2",
+                    "name": "Lipton"
+                },
+                {
+                    "count": "2",
+                    "name": "Spam"
+                },
+                {
+                    "count": "16",
+                    "name": "BUSH'S BEST"
+                },
+                {
+                    "count": "14",
+                    "name": "Signature SELECT/Kitchens"
+                },
+                {
+                    "count": "13",
+                    "name": "Hunts"
+                },
+                {
+                    "count": "12",
+                    "name": "Chicken of the Sea"
+                },
+                {
+                    "count": "12",
+                    "name": "S&W"
+                },
+                {
+                    "count": "8",
+                    "name": "Hormel"
+                },
+                {
+                    "count": "8",
+                    "name": "Wild Planet"
+                },
+                {
+                    "count": "7",
+                    "name": "Better Than Bouillon"
+                },
+                {
+                    "count": "7",
+                    "name": "Dr. McDougalls"
+                },
+                {
+                    "count": "7",
+                    "name": "Pacific"
+                },
+                {
+                    "count": "6",
+                    "name": "Amys"
+                },
+                {
+                    "count": "6",
+                    "name": "Contadina"
+                },
+                {
+                    "count": "5",
+                    "name": "Sun Vista"
+                },
+                {
+                    "count": "4",
+                    "name": "Bar Harbor"
+                },
+                {
+                    "count": "4",
+                    "name": "Genova"
+                },
+                {
+                    "count": "4",
+                    "name": "Motts"
+                },
+                {
+                    "count": "4",
+                    "name": "Muir Glen"
+                },
+                {
+                    "count": "3",
+                    "name": "Bear Creek"
+                },
+                {
+                    "count": "3",
+                    "name": "Dennisons"
+                },
+                {
+                    "count": "3",
+                    "name": "Imagine"
+                },
+                {
+                    "count": "3",
+                    "name": "Kitchen Basics"
+                },
+                {
+                    "count": "3",
+                    "name": "Nissin"
+                },
+                {
+                    "count": "3",
+                    "name": "Princella"
+                },
+                {
+                    "count": "3",
+                    "name": "Royal"
+                },
+                {
+                    "count": "3",
+                    "name": "San Marzano"
+                },
+                {
+                    "count": "3",
+                    "name": "Tree Top"
+                },
+                {
+                    "count": "3",
+                    "name": "Van Camps"
+                },
+                {
+                    "count": "2",
+                    "name": "Andersens"
+                },
+                {
+                    "count": "2",
+                    "name": "Annie Chun's"
+                },
+                {
+                    "count": "2",
+                    "name": "Beach Cliff"
+                },
+                {
+                    "count": "2",
+                    "name": "Carmelina e San Marzano"
+                },
+                {
+                    "count": "2",
+                    "name": "Demings"
+                },
+                {
+                    "count": "2",
+                    "name": "Dynasty"
+                },
+                {
+                    "count": "2",
+                    "name": "Frenchs"
+                },
+                {
+                    "count": "2",
+                    "name": "Health Valley"
+                },
+                {
+                    "count": "2",
+                    "name": "Herb ox"
+                },
+                {
+                    "count": "2",
+                    "name": "King Oscar"
+                },
+                {
+                    "count": "2",
+                    "name": "Knorr"
+                },
+                {
+                    "count": "2",
+                    "name": "Mezzetta"
+                },
+                {
+                    "count": "2",
+                    "name": "Mutti"
+                },
+                {
+                    "count": "2",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "2",
+                    "name": "Stagg"
+                },
+                {
+                    "count": "2",
+                    "name": "Underwood"
+                },
+                {
+                    "count": "2",
+                    "name": "Wel-Pac"
+                },
+                {
+                    "count": "2",
+                    "name": "Wolfgang Puck"
+                },
+                {
+                    "count": "1",
+                    "name": "Bellino"
+                },
+                {
+                    "count": "1",
+                    "name": "Brunswick"
+                },
+                {
+                    "count": "1",
+                    "name": "CENTO"
+                },
+                {
+                    "count": "1",
+                    "name": "Chef Boyardee"
+                },
+                {
+                    "count": "1",
+                    "name": "Dinty Moore"
+                },
+                {
+                    "count": "1",
+                    "name": "Geisha"
+                },
+                {
+                    "count": "1",
+                    "name": "Glory Foods"
+                },
+                {
+                    "count": "1",
+                    "name": "Hatch"
+                },
+                {
+                    "count": "1",
+                    "name": "LA VICTORIA"
+                },
+                {
+                    "count": "1",
+                    "name": "Libbys"
+                },
+                {
+                    "count": "1",
+                    "name": "Maruchan"
+                },
+                {
+                    "count": "1",
+                    "name": "Ocean Spray"
+                },
+                {
+                    "count": "1",
+                    "name": "Paesana"
+                },
+                {
+                    "count": "1",
+                    "name": "Reese"
+                },
+                {
+                    "count": "1",
+                    "name": "Romanoff"
+                },
+                {
+                    "count": "1",
+                    "name": "Sapporo Ichiban"
+                },
+                {
+                    "count": "1",
+                    "name": "Saverne"
+                },
+                {
+                    "count": "1",
+                    "name": "SunVista"
+                },
+                {
+                    "count": "1",
+                    "name": "Veg-All"
+                },
+                {
+                    "count": "1",
+                    "name": "Zoup"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "85",
+                    "name": "Soups & Ramen|1_9_8"
+                },
+                {
+                    "count": "76",
+                    "name": "Canned Seafood & Fish|1_9_5"
+                },
+                {
+                    "count": "62",
+                    "name": "Canned Vegetables|1_9_7"
+                },
+                {
+                    "count": "60",
+                    "name": "Canned Tomatoes|1_9_6"
+                },
+                {
+                    "count": "46",
+                    "name": "Canned Fruit|1_9_2"
+                },
+                {
+                    "count": "33",
+                    "name": "Stocks, Broth & Bouillon|1_9_9"
+                },
+                {
+                    "count": "50",
+                    "name": "Canned Beans|1_9_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Canned Meat|1_9_4"
+                },
+                {
+                    "count": "25",
+                    "name": "Canned Meals|1_9_3"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "302",
+                    "name": "Y"
+                },
+                {
+                    "count": "144",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "199",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "54",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "87",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "27",
+                    "name": "Organic"
+                },
+                {
+                    "count": "4",
+                    "name": "Low Sodium"
+                },
+                {
+                    "count": "6",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "2",
+                    "name": "Dairy Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "446",
+                    "name": "Canned Goods & Soups:|1_9"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "43",
+                    "name": "Canned Soups|1_9_8_1"
+                },
+                {
+                    "count": "11",
+                    "name": "Condensed Soups|1_9_8_2"
+                },
+                {
+                    "count": "45",
+                    "name": "Tuna|1_9_5_9"
+                },
+                {
+                    "count": "23",
+                    "name": "Broth & Stocks|1_9_9_2"
+                },
+                {
+                    "count": "11",
+                    "name": "Pineapple|1_9_2_16"
+                },
+                {
+                    "count": "20",
+                    "name": "Diced Tomatoes|1_9_6_2"
+                },
+                {
+                    "count": "13",
+                    "name": "Soup Mix & Meals|1_9_8_6"
+                },
+                {
+                    "count": "13",
+                    "name": "Tomato Sauce & Puree|1_9_6_6"
+                },
+                {
+                    "count": "12",
+                    "name": "Refried Beans|1_9_1_12"
+                },
+                {
+                    "count": "11",
+                    "name": "Corn & Baby Corn|1_9_7_6"
+                },
+                {
+                    "count": "8",
+                    "name": "Peas|1_9_7_16"
+                },
+                {
+                    "count": "8",
+                    "name": "Peppers & Green Chiles|1_9_7_17"
+                },
+                {
+                    "count": "8",
+                    "name": "Tomato Paste|1_9_6_5"
+                },
+                {
+                    "count": "7",
+                    "name": "Instant Ramen & Noodles|1_9_8_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Pears|1_9_2_15"
+                },
+                {
+                    "count": "2",
+                    "name": "Luncheon Meat|1_9_4_4"
+                },
+                {
+                    "count": "13",
+                    "name": "Chili|1_9_3_1"
+                },
+                {
+                    "count": "13",
+                    "name": "Sliced & Whole Tomatoes|1_9_6_3"
+                },
+                {
+                    "count": "12",
+                    "name": "Applesauce|1_9_2_2"
+                },
+                {
+                    "count": "12",
+                    "name": "Sardines|1_9_5_7"
+                },
+                {
+                    "count": "11",
+                    "name": "Baked Beans|1_9_1_1"
+                },
+                {
+                    "count": "10",
+                    "name": "Bouillon & Base|1_9_9_1"
+                },
+                {
+                    "count": "10",
+                    "name": "Salmon|1_9_5_6"
+                },
+                {
+                    "count": "8",
+                    "name": "Ramen & Noodles|1_9_8_5"
+                },
+                {
+                    "count": "7",
+                    "name": "Mushrooms|1_9_7_14"
+                },
+                {
+                    "count": "7",
+                    "name": "Pasta|1_9_3_3"
+                },
+                {
+                    "count": "7",
+                    "name": "Pinto Beans|1_9_1_9"
+                },
+                {
+                    "count": "6",
+                    "name": "Crushed Tomatoes|1_9_6_1"
+                },
+                {
+                    "count": "6",
+                    "name": "Fruit Cocktail|1_9_2_8"
+                },
+                {
+                    "count": "5",
+                    "name": "Artichokes|1_9_7_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Black Beans|1_9_1_2"
+                },
+                {
+                    "count": "5",
+                    "name": "Green Beans|1_9_7_8"
+                },
+                {
+                    "count": "4",
+                    "name": "Chicken & Turkey|1_9_4_2"
+                },
+                {
+                    "count": "4",
+                    "name": "Clams & Clam Juice|1_9_5_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Mandarin Oranges|1_9_2_11"
+                },
+                {
+                    "count": "4",
+                    "name": "Mixed Vegetables|1_9_7_13"
+                },
+                {
+                    "count": "3",
+                    "name": "Cannellini Beans|1_9_1_3"
+                },
+                {
+                    "count": "3",
+                    "name": "Cranberries|1_9_2_6"
+                },
+                {
+                    "count": "3",
+                    "name": "Instant Soup & Meals|1_9_8_4"
+                },
+                {
+                    "count": "3",
+                    "name": "Kidney Beans|1_9_1_6"
+                },
+                {
+                    "count": "3",
+                    "name": "Maraschino Cherries|1_9_2_12"
+                },
+                {
+                    "count": "3",
+                    "name": "Pork & Beans|1_9_1_10"
+                },
+                {
+                    "count": "3",
+                    "name": "Sweet Potatoes & Yams|1_9_7_21"
+                },
+                {
+                    "count": "2",
+                    "name": "Anchovies|1_9_5_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Beef|1_9_4_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Beets|1_9_7_4"
+                },
+                {
+                    "count": "2",
+                    "name": "Chili Beans|1_9_1_4"
+                },
+                {
+                    "count": "2",
+                    "name": "Garbanzo Beans|1_9_1_5"
+                },
+                {
+                    "count": "2",
+                    "name": "Hash|1_9_3_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Navy & White Beans|1_9_1_8"
+                },
+                {
+                    "count": "2",
+                    "name": "Peaches|1_9_2_14"
+                },
+                {
+                    "count": "2",
+                    "name": "Sauerkraut|1_9_7_19"
+                },
+                {
+                    "count": "2",
+                    "name": "Sloppy Joe|1_9_3_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Asparagus|1_9_7_2"
+                },
+                {
+                    "count": "1",
+                    "name": "Bamboo Shoots|1_9_7_3"
+                },
+                {
+                    "count": "1",
+                    "name": "Crab|1_9_5_4"
+                },
+                {
+                    "count": "1",
+                    "name": "Greens & Collard Greens|1_9_7_9"
+                },
+                {
+                    "count": "1",
+                    "name": "Heart Of Palm|1_9_7_10"
+                },
+                {
+                    "count": "1",
+                    "name": "Mixed Fruit|1_9_2_13"
+                },
+                {
+                    "count": "1",
+                    "name": "Oysters|1_9_5_5"
+                },
+                {
+                    "count": "1",
+                    "name": "Pate & Spreads|1_9_4_5"
+                },
+                {
+                    "count": "1",
+                    "name": "Potatoes|1_9_7_18"
+                },
+                {
+                    "count": "1",
+                    "name": "Shrimp|1_9_5_8"
+                },
+                {
+                    "count": "1",
+                    "name": "Spinach|1_9_7_20"
+                },
+                {
+                    "count": "1",
+                    "name": "Stew|1_9_3_5"
+                },
+                {
+                    "count": "1",
+                    "name": "Water Chestnuts|1_9_7_22"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

@@ -1,0 +1,1428 @@
+{
+    "response": {
+        "numFound": 600,
+        "start": 0,
+        "docs": [
+            {
+                "price": 10.47,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "Ground Beef 80% Lean 20% Fat Value Pack - 3.50 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188100109",
+                "aisleId": "1_19_1_5",
+                "upc": "0020164800000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0003.500"
+                ],
+                "pricePer": 2.99,
+                "salesRank": 40,
+                "shelfName": "Ground Beef",
+                "id": "188100109",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99 lb&lt;BR&gt;SAVE up to: $1 lb",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "OUNCE",
+                "aisleName": "Prepared & Frozen Meat",
+                "name": "Tyson Anytizers Popcorn Chicken - 24 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960018492",
+                "aisleId": "1_19_6_2",
+                "upc": "023700014153",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.38,
+                "salesRank": 7049,
+                "shelfName": "Chicken & Turkey",
+                "id": "960018492",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkyLTMtOTUyZWJlZDctZmIyOC00ODUzLTlmODMtMDI3OThmYWVkMDg5",
+                "agreementId": 97958,
+                "featuredProductId": 4495
+            },
+            {
+                "price": 17.97,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "USDA Choice Beef Boneless Chuck Roast - 3 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960109081",
+                "aisleId": "1_19_1_4",
+                "upc": "0020195600000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 17.97,
+                "averageWeight": [
+                    "0003.000"
+                ],
+                "pricePer": 5.99,
+                "salesRank": 101,
+                "shelfName": "Beef Whole Cuts & Roasts",
+                "id": "960109081",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "OUNCE",
+                "aisleName": "Prepared & Frozen Meat",
+                "name": "Tyson Anytizers Buffalo Boneless Chicken Bites - 24 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960018488",
+                "aisleId": "1_19_6_2",
+                "upc": "023700014054",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.38,
+                "salesRank": 25819,
+                "shelfName": "Chicken & Turkey",
+                "id": "960018488",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkyLTMtOTUyZWJlZDctZmIyOC00ODUzLTlmODMtMDI3OThmYWVkMDg5",
+                "agreementId": 97974,
+                "featuredProductId": 4496
+            },
+            {
+                "price": 13.47,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Signature Farms Boneless Skinless Chicken Breasts Value Pack - 3 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960031028",
+                "aisleId": "1_19_2_1",
+                "upc": "0020786500000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 13.47,
+                "averageWeight": [
+                    "0003.000"
+                ],
+                "pricePer": 4.49,
+                "salesRank": 17,
+                "shelfName": "Chicken",
+                "id": "960031028",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "I",
+                "sellByWeight": "OUNCE",
+                "aisleName": "Salami & Lunch Meats",
+                "name": "Hormel Pepperoni Turkey - 5 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188580242",
+                "aisleId": "1_19_7_6",
+                "upc": "037600188081",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.9,
+                "salesRank": 1818,
+                "shelfName": "Salami & Pepperoni",
+                "id": "188580242",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkyLTMtOTUyZWJlZDctZmIyOC00ODUzLTlmODMtMDI3OThmYWVkMDg5",
+                "agreementId": 88608,
+                "featuredProductId": 4332
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Beef|1_19_1",
+                "name": "Open Nature 100% Natural Grass Fed Angus Ground Beef 85% Lean 15% Fat - 16 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960085526",
+                "aisleId": "1_19_1_5",
+                "upc": "0064708612400",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 6.99,
+                "salesRank": 126,
+                "shelfName": "Ground Beef",
+                "id": "960085526",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Jennie-O Ground Turkey 93% Lean 7% Fat - 16 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960138390",
+                "aisleId": "1_19_2_3",
+                "upc": "0004222230200",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.37,
+                "salesRank": 34,
+                "shelfName": "Turkey",
+                "id": "960138390",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 7.98,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Boneless Skinless Hand Trimmed Chicken Breast - 2.00 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960129763",
+                "aisleId": "1_19_2_1",
+                "upc": "0020089700000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0002.000"
+                ],
+                "pricePer": 3.99,
+                "salesRank": 218,
+                "shelfName": "Chicken",
+                "id": "960129763",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99 lb&lt;BR&gt;SAVE up to: $0.5 lb",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Jimmy Dean Fully Cooked Original Pork Sausage Links 12 Count - 9.6 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188590764",
+                "aisleId": "1_19_8_2",
+                "upc": "0007790019206",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.52,
+                "salesRank": 1032,
+                "shelfName": "Breakfast Sausage",
+                "id": "188590764",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkyLTMtOTUyZWJlZDctZmIyOC00ODUzLTlmODMtMDI3OThmYWVkMDg5",
+                "agreementId": 96788,
+                "featuredProductId": 3822,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Oscar Mayer Center Cut Bacon Original - 12 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188560019",
+                "aisleId": "1_19_8_1",
+                "upc": "0004470002268",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.58,
+                "salesRank": 217,
+                "shelfName": "Bacon",
+                "id": "188560019",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "OUNCE",
+                "aisleName": "Sausage,Hot Dogs & Bacon",
+                "name": "Jimmy Dean Fully Cooked Turkey Sausage Links 12 Count - 9.6 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188590037",
+                "aisleId": "1_19_8_2",
+                "upc": "077900192579",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 0.52,
+                "salesRank": 1903,
+                "shelfName": "Breakfast Sausage",
+                "id": "188590037",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjEuMTEwLTQtNjkyLTMtOTUyZWJlZDctZmIyOC00ODUzLTlmODMtMDI3OThmYWVkMDg5",
+                "agreementId": 96810,
+                "featuredProductId": 3820
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "POUND",
+                "sellByWeight": "I",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Signature Farms Frozen Boneless Skinless Chicken Breasts - 40 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960152369",
+                "aisleId": "1_19_2_1",
+                "upc": "0002113021052",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 3.6,
+                "salesRank": 75,
+                "shelfName": "Chicken",
+                "id": "960152369",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 13.47,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Signature Farms Boneless Skinless Chicken Thighs Value Pack - 3 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960031030",
+                "aisleId": "1_19_2_1",
+                "upc": "0020786700000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 13.47,
+                "averageWeight": [
+                    "0003.000"
+                ],
+                "pricePer": 4.49,
+                "salesRank": 53,
+                "shelfName": "Chicken",
+                "id": "960031030",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.36,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "Ground Beef 80% Lean 20% Fat - 1.25 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188100054",
+                "aisleId": "1_19_1_5",
+                "upc": "0020169200000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0001.250"
+                ],
+                "pricePer": 3.49,
+                "salesRank": 42,
+                "shelfName": "Ground Beef",
+                "id": "188100054",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49 lb&lt;BR&gt;SAVE up to: $1.5 lb",
+                "promoType": "P"
+            },
+            {
+                "price": 19.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "USDA Choice Beef Filet Mignon Steak Tenderloin - 1 Lb.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188020017",
+                "aisleId": "1_19_1_2",
+                "upc": "0020223400000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 19.99,
+                "averageWeight": [
+                    "0001.000"
+                ],
+                "pricePer": 19.99,
+                "salesRank": 57,
+                "shelfName": "Beef Steaks",
+                "id": "188020017",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Hormel Black Label Bacon Original - 16 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188560113",
+                "aisleId": "1_19_8_1",
+                "upc": "0003760035160",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.37,
+                "salesRank": 230,
+                "shelfName": "Bacon",
+                "id": "188560113",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $3",
+                "promoType": "P"
+            },
+            {
+                "price": 13.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Fish & Shellfish|1_19_3",
+                "name": "waterfront BISTRO Salmon Fillets Wild Alaskin Pink Boneless & Skin On - 32 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960035112",
+                "aisleId": "1_19_3_1",
+                "upc": "0002113012280",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 13.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.44,
+                "salesRank": 650,
+                "shelfName": "Fish",
+                "id": "960035112",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "Ground Beef Sirloin 90% Lean 10% Fat - 1.00 Lb.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188100025",
+                "aisleId": "1_19_1_5",
+                "upc": "0020166200000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0001.000"
+                ],
+                "pricePer": 5.99,
+                "salesRank": 211,
+                "shelfName": "Ground Beef",
+                "id": "188100025",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Prepared & Frozen Meat|1_19_6",
+                "name": "SeaPak Shrimp Butterfly Jumbo - 9 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "186930121",
+                "aisleId": "1_19_6_4",
+                "upc": "0004132210900",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 1,
+                "salesRank": 2978,
+                "shelfName": "Seafood",
+                "id": "186930121",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Aidells Smoked Chicken Sausage Links Chicken & Apple 4 Count - 12 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188550102",
+                "aisleId": "1_19_8_3",
+                "upc": "0076401420805",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 310,
+                "shelfName": "Dinner Sausage",
+                "id": "188550102",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Salami & Lunch Meats|1_19_7",
+                "name": "Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Family Size - 16 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960041860",
+                "aisleId": "1_19_7_1",
+                "upc": "0004470003128",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 299,
+                "shelfName": "Lunch Meat",
+                "id": "960041860",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.92,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Boneless Skinless Chicken Breast Value Pack - 3.50 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960166912",
+                "aisleId": "1_19_2_1",
+                "upc": "0020059200000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 2.99,
+                "averageWeight": [
+                    "0003.500"
+                ],
+                "pricePer": 1.69,
+                "salesRank": 6378,
+                "shelfName": "Chicken",
+                "id": "960166912",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $1.69 lb&lt;BR&gt;SAVE up to: $1.3 lb",
+                "promoType": "P"
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Prepared & Frozen Meat|1_19_6",
+                "name": "Tyson Fully Cooked Breaded Chicken Nuggets - 32 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960092076",
+                "aisleId": "1_19_6_2",
+                "upc": "0002370002847",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.25,
+                "salesRank": 782,
+                "shelfName": "Chicken & Turkey",
+                "id": "960092076",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 59.94,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "USDA Choice Beef Ribeye Roast Bone In - 6 Lbs. (approx. weight)",
+                "departmentName": "Meat & Seafood",
+                "pid": "960109430",
+                "aisleId": "1_19_1_4",
+                "upc": "0020206300000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 59.94,
+                "averageWeight": [
+                    "0006.000"
+                ],
+                "pricePer": 9.99,
+                "salesRank": 763,
+                "shelfName": "Beef Whole Cuts & Roasts",
+                "id": "960109430",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 6.97,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Foster Farms Fresh & Natural Whole Chicken - 3.5 Lbs.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188300237",
+                "aisleId": "1_19_2_1",
+                "upc": "0026080500000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 6.97,
+                "averageWeight": [
+                    "0003.500"
+                ],
+                "pricePer": 1.99,
+                "salesRank": 1215,
+                "shelfName": "Chicken",
+                "id": "188300237",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 34.97,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "USDA Choice Beef Top Loin New York Strip Steak Bone In Value Pack - 3.5 Lbs. (approx. weight)",
+                "departmentName": "Meat & Seafood",
+                "pid": "960109101",
+                "aisleId": "1_19_1_2",
+                "upc": "0020214000000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 34.97,
+                "averageWeight": [
+                    "0003.500"
+                ],
+                "pricePer": 9.99,
+                "salesRank": 286,
+                "shelfName": "Beef Steaks",
+                "id": "960109101",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 22.72,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Beef|1_19_1",
+                "name": "Signature Farms Beef Corned Beef Brisket Flat Cut - 3.50 LB",
+                "departmentName": "Meat & Seafood",
+                "pid": "188530007",
+                "aisleId": "1_19_1_6",
+                "upc": "0020650300000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 22.72,
+                "averageWeight": [
+                    "0003.500"
+                ],
+                "pricePer": 6.49,
+                "salesRank": 1570,
+                "shelfName": "Smoked & Cured Beef",
+                "id": "188530007",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "P",
+                "aisleName": "Fish & Shellfish|1_19_3",
+                "name": "Seafood Counter Fish Salmon Fresh Atlantic Salmon Fillet Color Added - 1.00 LB",
+                "departmentName": "Meat & Seafood",
+                "pid": "186190041",
+                "aisleId": "1_19_3_1",
+                "upc": "0023363000000",
+                "restrictedValue": "0",
+                "displayType": "2",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0001.000"
+                ],
+                "pricePer": 9.99,
+                "salesRank": 165,
+                "shelfName": "Fish",
+                "id": "186190041",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 9.99,
+                "unitOfMeasure": "LB   ",
+                "sellByWeight": "I",
+                "aisleName": "Chicken & Turkey|1_19_2",
+                "name": "Open Nature Frozen Boneless Skinless Chicken Breasts - 36 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "960080673",
+                "aisleId": "1_19_2_1",
+                "upc": "0007989371056",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.44,
+                "salesRank": 449,
+                "shelfName": "Chicken",
+                "id": "960080673",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $9.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Prepared & Frozen Meat|1_19_6",
+                "name": "Tyson Grilled & Ready Fully Cooked Grilled Chicken Breast Strips - 22 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960113677",
+                "aisleId": "1_19_6_2",
+                "upc": "0002370001625",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.41,
+                "salesRank": 885,
+                "shelfName": "Chicken & Turkey",
+                "id": "960113677",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.79,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Salami & Lunch Meats|1_19_7",
+                "name": "Hillshire Farm Ultra Thin Oven Roasted Turkey Breast - 9 Oz.",
+                "departmentName": "Meat & Seafood",
+                "pid": "188580342",
+                "aisleId": "1_19_7_1",
+                "upc": "0004450097650",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.53,
+                "salesRank": 823,
+                "shelfName": "Lunch Meat",
+                "id": "188580342",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.79&lt;BR&gt;SAVE up to: $0.2",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Nathans Famous Skinless Beef Franks - 14 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960063781",
+                "aisleId": "1_19_8_4",
+                "upc": "0088831391499",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 7.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.5,
+                "salesRank": 1948,
+                "shelfName": "Hot Dogs & Franks",
+                "id": "960063781",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sausage,Hot Dogs & Bacon|1_19_8",
+                "name": "Jimmy Dean Fully Cooked Original Pork Sausage Links 12 Count - 9.6 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "188590764",
+                "aisleId": "1_19_8_2",
+                "upc": "0007790019206",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.52,
+                "salesRank": 1032,
+                "shelfName": "Breakfast Sausage",
+                "id": "188590764",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 8.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Prepared & Frozen Meat|1_19_6",
+                "name": "Tyson Fully Cooked Crispy Chicken Strips - 25 Oz",
+                "departmentName": "Meat & Seafood",
+                "pid": "960081622",
+                "aisleId": "1_19_6_2",
+                "upc": "0002370001410",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.36,
+                "salesRank": 917,
+                "shelfName": "Chicken & Turkey",
+                "id": "960081622",
+                "featured": false,
+                "pastPurchased": false
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 202,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 271,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 70,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 30,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 24,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 3,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "600",
+                    "name": "Meat & Seafood"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "1",
+                    "name": "O Organics"
+                },
+                {
+                    "count": "22",
+                    "name": "waterfront BISTRO"
+                },
+                {
+                    "count": "49",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "14",
+                    "name": "Tyson"
+                },
+                {
+                    "count": "50",
+                    "name": "Oscar Mayer"
+                },
+                {
+                    "count": "21",
+                    "name": "Pavilions"
+                },
+                {
+                    "count": "4",
+                    "name": "Vons"
+                },
+                {
+                    "count": "27",
+                    "name": "Hillshire Farm"
+                },
+                {
+                    "count": "24",
+                    "name": "Foster Farms"
+                },
+                {
+                    "count": "20",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "18",
+                    "name": "Hormel"
+                },
+                {
+                    "count": "11",
+                    "name": "Jennie-O"
+                },
+                {
+                    "count": "11",
+                    "name": "Jimmy Dean"
+                },
+                {
+                    "count": "5",
+                    "name": "Butchers Cut"
+                },
+                {
+                    "count": "5",
+                    "name": "Signature Farms"
+                },
+                {
+                    "count": "4",
+                    "name": "Aidells"
+                },
+                {
+                    "count": "2",
+                    "name": "SeaPak"
+                },
+                {
+                    "count": "1",
+                    "name": "Nathan's Famous"
+                },
+                {
+                    "count": "1",
+                    "name": "USDA Choice"
+                },
+                {
+                    "count": "16",
+                    "name": "Meat Counter"
+                },
+                {
+                    "count": "15",
+                    "name": "Johnsonville"
+                },
+                {
+                    "count": "10",
+                    "name": "Farmer John"
+                },
+                {
+                    "count": "9",
+                    "name": "Ball Park"
+                },
+                {
+                    "count": "9",
+                    "name": "Buddig"
+                },
+                {
+                    "count": "9",
+                    "name": "Hebrew National"
+                },
+                {
+                    "count": "8",
+                    "name": "Gallo Salame"
+                },
+                {
+                    "count": "7",
+                    "name": "Land O'Frost"
+                },
+                {
+                    "count": "7",
+                    "name": "Perdue"
+                },
+                {
+                    "count": "5",
+                    "name": "Lunchables"
+                },
+                {
+                    "count": "4",
+                    "name": "Crazy Cuizine"
+                },
+                {
+                    "count": "4",
+                    "name": "Gortons"
+                },
+                {
+                    "count": "4",
+                    "name": "Lascco"
+                },
+                {
+                    "count": "4",
+                    "name": "Sea Pak Shrimp Company"
+                },
+                {
+                    "count": "4",
+                    "name": "Smithfield"
+                },
+                {
+                    "count": "4",
+                    "name": "Trans Ocean"
+                },
+                {
+                    "count": "4",
+                    "name": "Yummy"
+                },
+                {
+                    "count": "3",
+                    "name": "Applegate"
+                },
+                {
+                    "count": "3",
+                    "name": "Barber Foods"
+                },
+                {
+                    "count": "3",
+                    "name": "Bubba"
+                },
+                {
+                    "count": "3",
+                    "name": "Carando"
+                },
+                {
+                    "count": "3",
+                    "name": "FarmLand"
+                },
+                {
+                    "count": "3",
+                    "name": "Nathans"
+                },
+                {
+                    "count": "2",
+                    "name": "American BBQ"
+                },
+                {
+                    "count": "2",
+                    "name": "Bar S"
+                },
+                {
+                    "count": "2",
+                    "name": "Cacique"
+                },
+                {
+                    "count": "2",
+                    "name": "Cooked Perfect"
+                },
+                {
+                    "count": "2",
+                    "name": "Danola"
+                },
+                {
+                    "count": "2",
+                    "name": "Del Real"
+                },
+                {
+                    "count": "2",
+                    "name": "Jennie O"
+                },
+                {
+                    "count": "2",
+                    "name": "Jones Dairy Farm"
+                },
+                {
+                    "count": "2",
+                    "name": "Northern Chef"
+                },
+                {
+                    "count": "2",
+                    "name": "Orca Bay"
+                },
+                {
+                    "count": "2",
+                    "name": "Reynaldos"
+                },
+                {
+                    "count": "2",
+                    "name": "Santa Monica Seafood"
+                },
+                {
+                    "count": "2",
+                    "name": "Sea Cuisine"
+                },
+                {
+                    "count": "2",
+                    "name": "Skylark"
+                },
+                {
+                    "count": "1",
+                    "name": "Applegate Farms"
+                },
+                {
+                    "count": "1",
+                    "name": "Bar-S"
+                },
+                {
+                    "count": "1",
+                    "name": "Bill Baileys"
+                },
+                {
+                    "count": "1",
+                    "name": "Cook's"
+                },
+                {
+                    "count": "1",
+                    "name": "Dockside Classics"
+                },
+                {
+                    "count": "1",
+                    "name": "Ducktrap"
+                },
+                {
+                    "count": "1",
+                    "name": "Echo Falls"
+                },
+                {
+                    "count": "1",
+                    "name": "Fiorucci"
+                },
+                {
+                    "count": "1",
+                    "name": "Gallo"
+                },
+                {
+                    "count": "1",
+                    "name": "Godshalls"
+                },
+                {
+                    "count": "1",
+                    "name": "Jack Daniel's"
+                },
+                {
+                    "count": "1",
+                    "name": "Morans"
+                },
+                {
+                    "count": "1",
+                    "name": "Old Wisconsin"
+                },
+                {
+                    "count": "1",
+                    "name": "Rocky"
+                },
+                {
+                    "count": "1",
+                    "name": "Spence & Co."
+                },
+                {
+                    "count": "1",
+                    "name": "Trident"
+                },
+                {
+                    "count": "1",
+                    "name": "Van de Kamps"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "97",
+                    "name": "Beef|1_19_1"
+                },
+                {
+                    "count": "61",
+                    "name": "Chicken & Turkey|1_19_2"
+                },
+                {
+                    "count": "123",
+                    "name": "Sausage,Hot Dogs & Bacon|1_19_8"
+                },
+                {
+                    "count": "103",
+                    "name": "Prepared & Frozen Meat|1_19_6"
+                },
+                {
+                    "count": "117",
+                    "name": "Salami & Lunch Meats|1_19_7"
+                },
+                {
+                    "count": "62",
+                    "name": "Fish & Shellfish|1_19_3"
+                },
+                {
+                    "count": "32",
+                    "name": "Pork|1_19_5"
+                },
+                {
+                    "count": "5",
+                    "name": "Lamb|1_19_4"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "327",
+                    "name": "N"
+                },
+                {
+                    "count": "273",
+                    "name": "Y"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "158",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "22",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "10",
+                    "name": "Organic"
+                },
+                {
+                    "count": "5",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Low Sodium"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "600",
+                    "name": "Meat & Seafood:|1_19"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "37",
+                    "name": "Chicken|1_19_2_1"
+                },
+                {
+                    "count": "19",
+                    "name": "Ground Beef|1_19_1_5"
+                },
+                {
+                    "count": "48",
+                    "name": "Chicken & Turkey|1_19_6_2"
+                },
+                {
+                    "count": "84",
+                    "name": "Lunch Meat|1_19_7_1"
+                },
+                {
+                    "count": "44",
+                    "name": "Beef Steaks|1_19_1_2"
+                },
+                {
+                    "count": "42",
+                    "name": "Bacon|1_19_8_1"
+                },
+                {
+                    "count": "19",
+                    "name": "Fish|1_19_3_1"
+                },
+                {
+                    "count": "14",
+                    "name": "Beef Whole Cuts & Roasts|1_19_1_4"
+                },
+                {
+                    "count": "29",
+                    "name": "Hot Dogs & Franks|1_19_8_4"
+                },
+                {
+                    "count": "28",
+                    "name": "Seafood|1_19_6_4"
+                },
+                {
+                    "count": "27",
+                    "name": "Dinner Sausage|1_19_8_3"
+                },
+                {
+                    "count": "25",
+                    "name": "Breakfast Sausage|1_19_8_2"
+                },
+                {
+                    "count": "21",
+                    "name": "Turkey|1_19_2_3"
+                },
+                {
+                    "count": "2",
+                    "name": "Smoked & Cured Beef|1_19_1_6"
+                },
+                {
+                    "count": "24",
+                    "name": "Salami & Pepperoni|1_19_7_6"
+                },
+                {
+                    "count": "23",
+                    "name": "Beef|1_19_6_1"
+                },
+                {
+                    "count": "19",
+                    "name": "Shrimp & Prawns|1_19_3_4"
+                },
+                {
+                    "count": "10",
+                    "name": "Lobster & Crab|1_19_3_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Pork Chops & Steaks|1_19_5_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Pork Roasts & Tenderloin|1_19_5_5"
+                },
+                {
+                    "count": "10",
+                    "name": "Smoked & Cured Fish|1_19_3_5"
+                },
+                {
+                    "count": "9",
+                    "name": "Lunch Packs|1_19_7_5"
+                },
+                {
+                    "count": "6",
+                    "name": "Beef Strips & Cubes|1_19_1_3"
+                },
+                {
+                    "count": "6",
+                    "name": "Pork Ribs|1_19_5_4"
+                },
+                {
+                    "count": "5",
+                    "name": "Beef Ribs|1_19_1_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Lamb|1_19_4_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Variety Meats|1_19_1_7"
+                },
+                {
+                    "count": "4",
+                    "name": "Oyster, Clams & Scallops|1_19_3_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Pork|1_19_6_3"
+                },
+                {
+                    "count": "3",
+                    "name": "Ham|1_19_5_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Game Hens & Fowl|1_19_2_2"
+                },
+                {
+                    "count": "2",
+                    "name": "Pork Ground or Strips|1_19_5_3"
+                },
+                {
+                    "count": "2",
+                    "name": "Veal|1_19_1_8"
+                },
+                {
+                    "count": "1",
+                    "name": "Pork Variety Meat & Lard|1_19_5_6"
+                },
+                {
+                    "count": "1",
+                    "name": "Turkey - Whole|1_19_2_4"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

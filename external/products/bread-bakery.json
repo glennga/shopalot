@@ -1,0 +1,1302 @@
+{
+    "response": {
+        "numFound": 367,
+        "start": 0,
+        "docs": [
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Breakfast & Donuts|1_2_4",
+                "name": "Thomas Nooks & Crannies English Muffins Original Plain 6 Count - 13 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100807",
+                "aisleId": "1_2_4_4",
+                "upc": "0004812110208",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 68,
+                "shelfName": "English Muffins",
+                "id": "196100807",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "EACH ",
+                "aisleName": "Baguettes & French Bread",
+                "name": "La Brea Bakery Bread Loaf Whole Grain - 18 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960073711",
+                "aisleId": "1_2_2_1",
+                "upc": "781421004186",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 5.99,
+                "salesRank": 12470,
+                "shelfName": "Baguettes & French Bread",
+                "id": "960073711",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02ODAtMy0yZDJjNDc2OS01MWRmLTQyZTAtOTNkMS0yZGFhZDNhNDc2ZjM",
+                "agreementId": 122328,
+                "featuredProductId": 5392
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Oroweat Bread Whole Grains 100% Whole Wheat - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050883",
+                "aisleId": "1_2_10_1",
+                "upc": "0007313000132",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 59,
+                "shelfName": "Sandwich Bread",
+                "id": "196050883",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "EACH ",
+                "sellByWeight": "I",
+                "aisleName": "Baguettes & French Bread|1_2_2",
+                "name": "Fresh Baked La Brea Take & Bake French Baguette 2 Count - 12 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960073756",
+                "aisleId": "1_2_2_1",
+                "upc": "0078142117010",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 3.99,
+                "salesRank": 6683,
+                "shelfName": "Baguettes & French Bread",
+                "id": "960073756",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02ODAtMy0yZDJjNDc2OS01MWRmLTQyZTAtOTNkMS0yZGFhZDNhNDc2ZjM",
+                "agreementId": 122330,
+                "featuredProductId": 5393
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Thomas Bagels Plain Pre Sliced 6 Count - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100818",
+                "aisleId": "1_2_1_1",
+                "upc": "0004812127707",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 148,
+                "shelfName": "Bagels",
+                "id": "196100818",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "I",
+                "sellByWeight": "EACH ",
+                "aisleName": "Buns & Rolls",
+                "name": "Fresh Baked La Brea Take & Bake French Dinner Bread Rolls 6 Count - 12 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960098240",
+                "aisleId": "1_2_5_1",
+                "upc": "781421170119",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 3.99,
+                "salesRank": 11848,
+                "shelfName": "Dinner Rolls",
+                "id": "960098240",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02ODAtMy0yZDJjNDc2OS01MWRmLTQyZTAtOTNkMS0yZGFhZDNhNDc2ZjM",
+                "agreementId": 122332,
+                "featuredProductId": 5394
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Oroweat Bread Country Buttermilk - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050881",
+                "aisleId": "1_2_10_1",
+                "upc": "0007313000125",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 216,
+                "shelfName": "Sandwich Bread",
+                "id": "196050881",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Natures Own Bread Honey - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960002359",
+                "aisleId": "1_2_10_1",
+                "upc": "0007225003706",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 936,
+                "shelfName": "Sandwich Bread",
+                "id": "960002359",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Oroweat Bread Whole Grains Oatnut - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050896",
+                "aisleId": "1_2_10_1",
+                "upc": "0007313002855",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 379,
+                "shelfName": "Sandwich Bread",
+                "id": "196050896",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "I",
+                "sellByWeight": "EACH ",
+                "aisleName": "Baguettes & French Bread",
+                "name": "La Brea Bakery Baguette French - 12.5 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960098239",
+                "aisleId": "1_2_2_1",
+                "upc": "781421006104",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 0,
+                "averageWeight": [
+                    " 0000.000"
+                ],
+                "pricePer": 3.49,
+                "salesRank": 31268,
+                "shelfName": "Baguettes & French Bread",
+                "id": "960098239",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02ODAtMy0yZDJjNDc2OS01MWRmLTQyZTAtOTNkMS0yZGFhZDNhNDc2ZjM",
+                "agreementId": 122334,
+                "featuredProductId": 5395
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Buns & Rolls|1_2_5",
+                "name": "Ball Park Hot Dog Buns White Pre Sliced 8 Count - 13 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050123",
+                "aisleId": "1_2_5_3",
+                "upc": "0005040075116",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 219,
+                "shelfName": "Hot Dog Buns",
+                "id": "196050123",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1.2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies & Bakery Snacks|1_2_7",
+                "name": "Entenmanns Minis Pound Cake 6 Count - 9.25 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960049469",
+                "aisleId": "1_2_7_1",
+                "upc": "0007203001968",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.36,
+                "salesRank": 14038,
+                "shelfName": "Bakery Snacks",
+                "id": "960049469",
+                "featured": true,
+                "pastPurchased": false,
+                "pageImpressionId": "MTAuMjEwLjIuNjQtNC02ODAtMy0yZDJjNDc2OS01MWRmLTQyZTAtOTNkMS0yZGFhZDNhNDc2ZjM",
+                "agreementId": 76597,
+                "featuredProductId": 3864,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.5,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Wonder Bread Classic White Round Top - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960094483",
+                "aisleId": "1_2_10_1",
+                "upc": "0007225001137",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 767,
+                "shelfName": "Sandwich Bread",
+                "id": "960094483",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $5&lt;BR&gt;SAVE up to: $1.38 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Signature SELECT Bread Sourdough - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "296050875",
+                "aisleId": "1_2_10_1",
+                "upc": "0002113018343",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1867,
+                "shelfName": "Sandwich Bread",
+                "id": "296050875",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Alfaros Bread Artesano Style - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960155325",
+                "aisleId": "1_2_10_1",
+                "upc": "0076394622502",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 447,
+                "shelfName": "Sandwich Bread",
+                "id": "960155325",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1.3",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Natures Own 100% Whole Wheat Bread - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960002360",
+                "aisleId": "1_2_10_1",
+                "upc": "0007225003712",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 695,
+                "shelfName": "Sandwich Bread",
+                "id": "960002360",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Buns & Rolls|1_2_5",
+                "name": "Ball Park Burger Buns Classic White 8 Count - 14 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960051883",
+                "aisleId": "1_2_5_2",
+                "upc": "0005040073942",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.37,
+                "salesRank": 1142,
+                "shelfName": "Hamburger Buns",
+                "id": "960051883",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1.2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Buns & Rolls|1_2_5",
+                "name": "Kings Hawaiian Original Sweet Rolls - 12 Oz.",
+                "departmentName": "Bread & Bakery",
+                "pid": "196010254",
+                "aisleId": "1_2_5_4",
+                "upc": "0007343500004",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.33,
+                "salesRank": 529,
+                "shelfName": "Sandwich Rolls",
+                "id": "196010254",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.89,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Daves Killer Bread Organic Light Whole Grain - 20.5 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960050655",
+                "aisleId": "1_2_10_1",
+                "upc": "0001376402713",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.89,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.29,
+                "salesRank": 504,
+                "shelfName": "Sandwich Bread",
+                "id": "960050655",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.19,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Sara Lee Bread Whole Grain White - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050472",
+                "aisleId": "1_2_10_1",
+                "upc": "0007294570544",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.19,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 1035,
+                "shelfName": "Sandwich Bread",
+                "id": "196050472",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Thomas Bagels Everything Pre Sliced 6 Count - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100829",
+                "aisleId": "1_2_1_1",
+                "upc": "0004812125319",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 353,
+                "shelfName": "Bagels",
+                "id": "196100829",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Thomas Bagels Cinnamon Raisin Pre Sliced 6 Count - 20 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100819",
+                "aisleId": "1_2_1_1",
+                "upc": "0004812129208",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 897,
+                "shelfName": "Bagels",
+                "id": "196100819",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Baguettes & French Bread|1_2_2",
+                "name": "San Luis Sourdough Bread Deli - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196011107",
+                "aisleId": "1_2_2_1",
+                "upc": "0001853724148",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.17,
+                "salesRank": 1394,
+                "shelfName": "Baguettes & French Bread",
+                "id": "196011107",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Sara Lee Bagels Deluxe Pre-Sliced Plain - 6-22 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100194",
+                "aisleId": "1_2_1_1",
+                "upc": "0007294535066",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.25,
+                "salesRank": 314,
+                "shelfName": "Bagels",
+                "id": "196100194",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Thomas Bagels Mini Plain Pre Sliced 10 Count - 15 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196100353",
+                "aisleId": "1_2_1_1",
+                "upc": "0004812121657",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.89,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 554,
+                "shelfName": "Bagels",
+                "id": "196100353",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $1.9",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Signature SELECT Bread 100% Whole Wheat - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "296051132",
+                "aisleId": "1_2_10_1",
+                "upc": "0002113018341",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 878,
+                "shelfName": "Sandwich Bread",
+                "id": "296051132",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 4.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "San Luis Sourdough Bread Round - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196011495",
+                "aisleId": "1_2_10_1",
+                "upc": "0001853724157",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.2,
+                "salesRank": 1004,
+                "shelfName": "Sandwich Bread",
+                "id": "196011495",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Oroweat Bread Whole Grains 12 Grain - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050879",
+                "aisleId": "1_2_10_1",
+                "upc": "0007313000026",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.15,
+                "salesRank": 968,
+                "shelfName": "Sandwich Bread",
+                "id": "196050879",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.49&lt;BR&gt;SAVE up to: $1.5",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "EACH ",
+                "sellByWeight": "I",
+                "aisleName": "Baguettes & French Bread|1_2_2",
+                "name": "Fresh Baked La Brea Take & Bake French Baguette 2 Count - 12 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960073756",
+                "aisleId": "1_2_2_1",
+                "upc": "0078142117010",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 3.99,
+                "salesRank": 6683,
+                "shelfName": "Baguettes & French Bread",
+                "id": "960073756",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Oroweat Bread Country Potato - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196050889",
+                "aisleId": "1_2_10_1",
+                "upc": "0007313000732",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.21,
+                "salesRank": 381,
+                "shelfName": "Sandwich Bread",
+                "id": "196050889",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Signature SELECT Bread Nut & Grain - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "196052875",
+                "aisleId": "1_2_10_1",
+                "upc": "0002113018383",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1811,
+                "shelfName": "Sandwich Bread",
+                "id": "196052875",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.3",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "EACH ",
+                "sellByWeight": "I",
+                "aisleName": "Buns & Rolls|1_2_5",
+                "name": "Fresh Baked Brioche Burger Buns - 4 Count",
+                "departmentName": "Bread & Bakery",
+                "pid": "960163908",
+                "aisleId": "1_2_5_2",
+                "upc": "0081166902024",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 4.99,
+                "salesRank": 14584,
+                "shelfName": "Hamburger Buns",
+                "id": "960163908",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "EACH ",
+                "sellByWeight": "I",
+                "aisleName": "Bagels & Muffins|1_2_1",
+                "name": "Fresh Baked Blueberry Muffins - 4 Count",
+                "departmentName": "Bread & Bakery",
+                "pid": "195150072",
+                "aisleId": "1_2_1_2",
+                "upc": "0022120000000",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 5.99,
+                "salesRank": 315,
+                "shelfName": "Muffins & Scones",
+                "id": "195150072",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 6.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Sandwich Breads|1_2_10",
+                "name": "Daves Killer Bread Organic White Bread Done Right - 24 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960138380",
+                "aisleId": "1_2_10_1",
+                "upc": "0001376402722",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 2246,
+                "shelfName": "Sandwich Bread",
+                "id": "960138380",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies & Bakery Snacks|1_2_7",
+                "name": "Entenmanns Minis Pound Cake 6 Count - 9.25 Oz",
+                "departmentName": "Bread & Bakery",
+                "pid": "960049469",
+                "aisleId": "1_2_7_1",
+                "upc": "0007203001968",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.36,
+                "salesRank": 14038,
+                "shelfName": "Bakery Snacks",
+                "id": "960049469",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": [
+                {
+                    "count": 0,
+                    "start": "*",
+                    "end": "-0.01"
+                },
+                {
+                    "count": 257,
+                    "start": "0",
+                    "end": "4.99"
+                },
+                {
+                    "count": 79,
+                    "start": "5",
+                    "end": "9.99"
+                },
+                {
+                    "count": 14,
+                    "start": "10",
+                    "end": "14.99"
+                },
+                {
+                    "count": 16,
+                    "start": "15",
+                    "end": "24.99"
+                },
+                {
+                    "count": 0,
+                    "start": "25",
+                    "end": "49.99"
+                },
+                {
+                    "count": 1,
+                    "start": "50",
+                    "end": "99.99"
+                },
+                {
+                    "count": 0,
+                    "start": "100",
+                    "end": "499.99"
+                },
+                {
+                    "count": 0,
+                    "start": "500",
+                    "end": "*"
+                }
+            ]
+        },
+        "facet_fields": {
+            "sizes": [],
+            "colors": [],
+            "departmentName": [
+                {
+                    "count": "367",
+                    "name": "Bread & Bakery"
+                }
+            ],
+            "brand": [
+                {
+                    "count": "2",
+                    "name": "Value Corner"
+                },
+                {
+                    "count": "76",
+                    "name": "Signature SELECT"
+                },
+                {
+                    "count": "35",
+                    "name": "Oroweat"
+                },
+                {
+                    "count": "15",
+                    "name": "Thomas'"
+                },
+                {
+                    "count": "15",
+                    "name": "Daves Killer Bread"
+                },
+                {
+                    "count": "13",
+                    "name": "Sara Lee"
+                },
+                {
+                    "count": "6",
+                    "name": "Ball Park"
+                },
+                {
+                    "count": "5",
+                    "name": "Natures Own"
+                },
+                {
+                    "count": "3",
+                    "name": "San Luis Sourdough"
+                },
+                {
+                    "count": "10",
+                    "name": "Entenmann's"
+                },
+                {
+                    "count": "8",
+                    "name": "La Brea Bakery"
+                },
+                {
+                    "count": "5",
+                    "name": "Kings Hawaiian"
+                },
+                {
+                    "count": "4",
+                    "name": "Wonder"
+                },
+                {
+                    "count": "3",
+                    "name": "Alfaro's"
+                },
+                {
+                    "count": "2",
+                    "name": "St. Pierre"
+                },
+                {
+                    "count": "26",
+                    "name": "Pavilions"
+                },
+                {
+                    "count": "5",
+                    "name": "Flatout"
+                },
+                {
+                    "count": "5",
+                    "name": "Hostess"
+                },
+                {
+                    "count": "4",
+                    "name": "Alessi"
+                },
+                {
+                    "count": "4",
+                    "name": "CSM Bakery"
+                },
+                {
+                    "count": "4",
+                    "name": "Francisco International"
+                },
+                {
+                    "count": "4",
+                    "name": "Natures Harvest"
+                },
+                {
+                    "count": "4",
+                    "name": "Open Nature"
+                },
+                {
+                    "count": "4",
+                    "name": "Schar"
+                },
+                {
+                    "count": "2",
+                    "name": "Bamtam Bagels"
+                },
+                {
+                    "count": "2",
+                    "name": "Home Pride"
+                },
+                {
+                    "count": "2",
+                    "name": "Jewel"
+                },
+                {
+                    "count": "2",
+                    "name": "Miltons"
+                },
+                {
+                    "count": "2",
+                    "name": "Nature's Harvest"
+                },
+                {
+                    "count": "2",
+                    "name": "Papas"
+                },
+                {
+                    "count": "1",
+                    "name": "Bimbo"
+                },
+                {
+                    "count": "1",
+                    "name": "Cafe Valley"
+                },
+                {
+                    "count": "1",
+                    "name": "California Goldminer Sourdough"
+                },
+                {
+                    "count": "1",
+                    "name": "Cinnabon"
+                },
+                {
+                    "count": "1",
+                    "name": "Cobblestone Bread Co."
+                },
+                {
+                    "count": "1",
+                    "name": "Goldminer"
+                },
+                {
+                    "count": "1",
+                    "name": "Jewel Osco"
+                },
+                {
+                    "count": "1",
+                    "name": "Jon Donaire"
+                },
+                {
+                    "count": "1",
+                    "name": "Just Desserts"
+                },
+                {
+                    "count": "1",
+                    "name": "Laromme"
+                },
+                {
+                    "count": "1",
+                    "name": "Mrs Thinsters"
+                },
+                {
+                    "count": "1",
+                    "name": "Richs"
+                },
+                {
+                    "count": "1",
+                    "name": "Safeway"
+                },
+                {
+                    "count": "1",
+                    "name": "St Pierre"
+                },
+                {
+                    "count": "1",
+                    "name": "Stonefire"
+                },
+                {
+                    "count": "1",
+                    "name": "Sugar Bowl Bakery"
+                },
+                {
+                    "count": "1",
+                    "name": "Sun-Maid"
+                },
+                {
+                    "count": "1",
+                    "name": "Svenhard's Swedish Bakery"
+                },
+                {
+                    "count": "1",
+                    "name": "The Cheesecake Factory"
+                },
+                {
+                    "count": "1",
+                    "name": "Two Bite"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "84",
+                    "name": "Sandwich Breads|1_2_10"
+                },
+                {
+                    "count": "49",
+                    "name": "Bagels & Muffins|1_2_1"
+                },
+                {
+                    "count": "46",
+                    "name": "Buns & Rolls|1_2_5"
+                },
+                {
+                    "count": "31",
+                    "name": "Baguettes & French Bread|1_2_2"
+                },
+                {
+                    "count": "39",
+                    "name": "Breakfast & Donuts|1_2_4"
+                },
+                {
+                    "count": "35",
+                    "name": "Cookies & Bakery Snacks|1_2_7"
+                },
+                {
+                    "count": "42",
+                    "name": "Cakes & Cupcakes|1_2_6"
+                },
+                {
+                    "count": "22",
+                    "name": "Desserts & Cheesecakes|1_2_8"
+                },
+                {
+                    "count": "19",
+                    "name": "Pitas & Flatbreads|1_2_9"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "146",
+                    "name": "Y"
+                },
+                {
+                    "count": "221",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "118",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "23",
+                    "name": "Organic"
+                },
+                {
+                    "count": "4",
+                    "name": "Lactose Free"
+                },
+                {
+                    "count": "3",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "2",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Peanut Free"
+                }
+            ],
+            "color_groups": [],
+            "departmentname_id": [
+                {
+                    "count": "367",
+                    "name": "Bread & Bakery:|1_2"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "84",
+                    "name": "Sandwich Bread|1_2_10_1"
+                },
+                {
+                    "count": "32",
+                    "name": "Bagels|1_2_1_1"
+                },
+                {
+                    "count": "31",
+                    "name": "Baguettes & French Bread|1_2_2_1"
+                },
+                {
+                    "count": "17",
+                    "name": "Hamburger Buns|1_2_5_2"
+                },
+                {
+                    "count": "20",
+                    "name": "English Muffins|1_2_4_4"
+                },
+                {
+                    "count": "17",
+                    "name": "Muffins & Scones|1_2_1_2"
+                },
+                {
+                    "count": "15",
+                    "name": "Bakery Snacks|1_2_7_1"
+                },
+                {
+                    "count": "12",
+                    "name": "Hot Dog Buns|1_2_5_3"
+                },
+                {
+                    "count": "9",
+                    "name": "Sandwich Rolls|1_2_5_4"
+                },
+                {
+                    "count": "29",
+                    "name": "Cakes|1_2_6_1"
+                },
+                {
+                    "count": "20",
+                    "name": "Cookies & Brownies|1_2_7_2"
+                },
+                {
+                    "count": "14",
+                    "name": "Flatbread & Pita Bread|1_2_9_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Pastries & Croissants|1_2_4_5"
+                },
+                {
+                    "count": "10",
+                    "name": "Pies, Tarts & Cobblers|1_2_8_3"
+                },
+                {
+                    "count": "9",
+                    "name": "Cheesecake & Cream Cakes|1_2_8_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Ice Cream Cakes|1_2_6_3"
+                },
+                {
+                    "count": "8",
+                    "name": "Dinner Rolls|1_2_5_1"
+                },
+                {
+                    "count": "6",
+                    "name": "Breakfast Loaves|1_2_4_1"
+                },
+                {
+                    "count": "5",
+                    "name": "Breadsticks|1_2_9_1"
+                },
+                {
+                    "count": "4",
+                    "name": "Cupcakes|1_2_6_2"
+                },
+                {
+                    "count": "3",
+                    "name": "Cream Desserts|1_2_8_2"
+                },
+                {
+                    "count": "3",
+                    "name": "Donuts|1_2_4_3"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}

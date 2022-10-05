@@ -1,0 +1,1239 @@
+{
+    "response": {
+        "numFound": 778,
+        "start": 0,
+        "docs": [
+            {
+                "price": 3.69,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "PREMIUM Crackers Saltine Original - 1 Lb",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "102020282",
+                "aisleId": "1_24_3_5",
+                "upc": "0004400000057",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 237,
+                "shelfName": "Saltines",
+                "id": "102020282",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Ruffles Potato Chips Original Party Size - 13.5 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960049780",
+                "aisleId": "1_24_1_8",
+                "upc": "0002840003400",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.33,
+                "salesRank": 384,
+                "shelfName": "Potato Chips & Crisps",
+                "id": "960049780",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Doritos Tortilla Chips Nacho Cheese Party Size - 15 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960266973",
+                "aisleId": "1_24_1_10",
+                "upc": "0002840064306",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.3,
+                "salesRank": 371,
+                "shelfName": "Tortilla Chips",
+                "id": "960266973",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 3.33,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "RITZ Crackers Fresh Stacks Original - 8 Count",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960087288",
+                "aisleId": "1_24_3_2",
+                "upc": "0004400003113",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.28,
+                "salesRank": 473,
+                "shelfName": "Classic Crackers",
+                "id": "960087288",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;3 for $9.99&lt;BR&gt;SAVE up to: $1.98 on 3",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "COUNT",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Frito-Lay Snacks Variety Classic Mix - 18 Count",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960486527",
+                "aisleId": "1_24_1_11",
+                "upc": "0002840020546",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 8.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.39,
+                "salesRank": 99999,
+                "shelfName": "Variety & Multipacks",
+                "id": "960486527",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $6.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Fritos Corn Chips The Original - 9.25 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960156578",
+                "aisleId": "1_24_1_2",
+                "upc": "0002840058929",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 959,
+                "shelfName": "Corn Chips",
+                "id": "960156578",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $1.98 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Tostitos Tortilla Chips Restaurant Style Original - 13 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "109050174",
+                "aisleId": "1_24_1_10",
+                "upc": "0002840006399",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 349,
+                "shelfName": "Tortilla Chips",
+                "id": "109050174",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $2.58 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "Cheez-It Crackers Baked Snack - 12.4 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960115416",
+                "aisleId": "1_24_3_1",
+                "upc": "0002410010685",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 158,
+                "shelfName": "Cheese Crackers",
+                "id": "960115416",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99&lt;BR&gt;SAVE up to: $0.5",
+                "promoType": "P"
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "Wheat Thins Snacks Original Family Size! - 16 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "102020175",
+                "aisleId": "1_24_3_8",
+                "upc": "0004400000225",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.27,
+                "salesRank": 474,
+                "shelfName": "Wheat Crackers",
+                "id": "102020175",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 3.33,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "RITZ Crackers - 13.7 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960087287",
+                "aisleId": "1_24_3_2",
+                "upc": "0004400003111",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 374,
+                "shelfName": "Classic Crackers",
+                "id": "960087287",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;3 for $9.99&lt;BR&gt;SAVE up to: $1.98 on 3",
+                "promoType": "P"
+            },
+            {
+                "price": 11.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Nuts, Seeds & Trail Mix|1_24_8",
+                "name": "Signature SELECT Trail Mix Mountain Mix - 32 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960070142",
+                "aisleId": "1_24_8_3",
+                "upc": "0002113029301",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 11.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.38,
+                "salesRank": 260,
+                "shelfName": "Trail Mix",
+                "id": "960070142",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Oreo Chocolate Sandwich Cookies Double Stuff Family Size - 20 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960083566",
+                "aisleId": "1_24_2_4",
+                "upc": "0004400003325",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 2386,
+                "shelfName": "Sandwich Cookies",
+                "id": "960083566",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $1.2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Oreo Chocolate Sandwich Cookies Family Size - 19.1 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960083567",
+                "aisleId": "1_24_2_5",
+                "upc": "0004400003327",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 3564,
+                "shelfName": "Variety & Multipacks",
+                "id": "960083567",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $1.2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.49,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "TOSTITOS Tortilla Chips Restaurant Style Original Party Size - 18 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960019065",
+                "aisleId": "1_24_1_10",
+                "upc": "0002840008313",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.25,
+                "salesRank": 2159,
+                "shelfName": "Tortilla Chips",
+                "id": "960019065",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.49&lt;BR&gt;SAVE up to: $0.8",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Honey Maid Grahams Honey - 14.4 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "102013703",
+                "aisleId": "1_24_2_3",
+                "upc": "0004400000463",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.28,
+                "salesRank": 481,
+                "shelfName": "Graham Crackers",
+                "id": "102013703",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $3.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 4.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Nilla Wafers - 8-11 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960056624",
+                "aisleId": "1_24_2_2",
+                "upc": "0004400002734",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.45,
+                "salesRank": 1426,
+                "shelfName": "Cookies",
+                "id": "960056624",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Lays Potato Chips Classic - 8 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960123883",
+                "aisleId": "1_24_1_8",
+                "upc": "0002840019914",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.79,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.38,
+                "salesRank": 1419,
+                "shelfName": "Potato Chips & Crisps",
+                "id": "960123883",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $1.58 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Chips Ahoy! Cookies Chocolate Chip Original Family Size - 18.2 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960083568",
+                "aisleId": "1_24_2_5",
+                "upc": "0004400003338",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.49,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.24,
+                "salesRank": 6394,
+                "shelfName": "Variety & Multipacks",
+                "id": "960083568",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $1.2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.33,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "OREO Double Stuff Cookies Sandwich Chocolate - 15.35 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960055908",
+                "aisleId": "1_24_2_4",
+                "upc": "0004400002854",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.22,
+                "salesRank": 1143,
+                "shelfName": "Sandwich Cookies",
+                "id": "960055908",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;3 for $9.99&lt;BR&gt;SAVE up to: $1.98 on 3",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "NABISCO Cookies Variety - 12 Count",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960166974",
+                "aisleId": "1_24_2_5",
+                "upc": "0004400004738",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.26,
+                "salesRank": 4189,
+                "shelfName": "Variety & Multipacks",
+                "id": "960166974",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $5.99&lt;BR&gt;SAVE up to: $1",
+                "promoType": "P"
+            },
+            {
+                "price": 5.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Honey Maid Grahams Honey Family Size - 25.6 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960228554",
+                "aisleId": "1_24_2_3",
+                "upc": "0004400004717",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 5.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.23,
+                "salesRank": 1045,
+                "shelfName": "Graham Crackers",
+                "id": "960228554",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 7.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "NABISCO Cookies and Crackers Variety Pack Classic Mix - 20 Count",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960127148",
+                "aisleId": "1_24_2_5",
+                "upc": "0004400004100",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 9.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.4,
+                "salesRank": 1951,
+                "shelfName": "Variety & Multipacks",
+                "id": "960127148",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $7.99&lt;BR&gt;SAVE up to: $2",
+                "promoType": "P"
+            },
+            {
+                "price": 4.29,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "Triscuit Crackers Original Family Size - 12.5 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960293061",
+                "aisleId": "1_24_3_8",
+                "upc": "0004400005169",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 4.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.34,
+                "salesRank": 1803,
+                "shelfName": "Wheat Crackers",
+                "id": "960293061",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $4.29&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            },
+            {
+                "price": 6.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "RITZ Crackers Sandwiches Peanut Butter Family Size Box - 16-1.38 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960106214",
+                "aisleId": "1_24_3_7",
+                "upc": "0004400003828",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 6.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.32,
+                "salesRank": 1958,
+                "shelfName": "Variety & Multipacks",
+                "id": "960106214",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Pretzels|1_24_10",
+                "name": "ROLD GOLD Pretzels Tiny Twists Original - 16 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "109250260",
+                "aisleId": "1_24_10_1",
+                "upc": "0002840004768",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 786,
+                "shelfName": "Pretzels",
+                "id": "109250260",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $0.58 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Crackers|1_24_3",
+                "name": "Miltons Crackers Baked Gluten Free Crispy Sea Salt - 4.5 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960127207",
+                "aisleId": "1_24_3_3",
+                "upc": "0060654180302",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.89,
+                "salesRank": 4342,
+                "shelfName": "Deli & Water Crackers",
+                "id": "960127207",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Cookies|1_24_2",
+                "name": "Chips Ahoy! Cookies Chocolate Chip Original - 13 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "960071578",
+                "aisleId": "1_24_2_2",
+                "upc": "0004400003219",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.31,
+                "salesRank": 609,
+                "shelfName": "Cookies",
+                "id": "960071578",
+                "featured": false,
+                "pastPurchased": false
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Chips|1_24_1",
+                "name": "Kettle Potato Chips Sea Salt & Vinegar - 8.5 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "109010869",
+                "aisleId": "1_24_1_8",
+                "upc": "0008411410814",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.99,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.35,
+                "salesRank": 1657,
+                "shelfName": "Potato Chips & Crisps",
+                "id": "109010869",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $1.98 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 3,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Pretzels|1_24_10",
+                "name": "ROLD GOLD Pretzels Sticks Original - 16 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "109250261",
+                "aisleId": "1_24_10_1",
+                "upc": "0002840004770",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.29,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.19,
+                "salesRank": 810,
+                "shelfName": "Pretzels",
+                "id": "109250261",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: &lt;BR&gt;2 for $6&lt;BR&gt;SAVE up to: $0.58 on 2",
+                "promoType": "P"
+            },
+            {
+                "price": 2.99,
+                "unitOfMeasure": "OUNCE",
+                "sellByWeight": "I",
+                "aisleName": "Fruit Cups & Applesauce|1_24_4",
+                "name": "Motts Applesauce Apple Unsweetened Cups - 6-3.9 Oz",
+                "departmentName": "Cookies, Snacks & Candy",
+                "pid": "122100010",
+                "aisleId": "1_24_4_1",
+                "upc": "0001480000007",
+                "restrictedValue": "0",
+                "displayType": "0",
+                "basePrice": 3.69,
+                "averageWeight": [
+                    "0000.000"
+                ],
+                "pricePer": 0.13,
+                "salesRank": 1012,
+                "shelfName": "Applesauce",
+                "id": "122100010",
+                "featured": false,
+                "pastPurchased": false,
+                "promoDescription": "Vons Club Price: $2.99&lt;BR&gt;SAVE up to: $0.7",
+                "promoType": "P"
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_ranges": {
+            "price": null
+        },
+        "facet_fields": {
+            "departmentName": [
+                {
+                    "count": "778",
+                    "name": "Cookies, Snacks & Candy"
+                }
+            ],
+            "aisleName": [
+                {
+                    "count": "133",
+                    "name": "Cookies|1_24_2"
+                },
+                {
+                    "count": "153",
+                    "name": "Crackers|1_24_3"
+                },
+                {
+                    "count": "100",
+                    "name": "Chips|1_24_1"
+                },
+                {
+                    "count": "14",
+                    "name": "Pretzels|1_24_10"
+                },
+                {
+                    "count": "65",
+                    "name": "Nuts, Seeds & Trail Mix|1_24_8"
+                },
+                {
+                    "count": "53",
+                    "name": "Fruit Cups & Applesauce|1_24_4"
+                },
+                {
+                    "count": "64",
+                    "name": "Salsa & Dips|1_24_11"
+                },
+                {
+                    "count": "54",
+                    "name": "Chocolate|1_24_16"
+                },
+                {
+                    "count": "42",
+                    "name": "Popcorn & Grain Cakes|1_24_9"
+                },
+                {
+                    "count": "28",
+                    "name": "Jerky & Meat Snacks|1_24_7"
+                },
+                {
+                    "count": "25",
+                    "name": "Fruit Snacks|1_24_5"
+                },
+                {
+                    "count": "20",
+                    "name": "Candy|1_24_14"
+                },
+                {
+                    "count": "14",
+                    "name": "Gelatin & Pudding|1_24_6"
+                },
+                {
+                    "count": "10",
+                    "name": "Gum|1_24_17"
+                },
+                {
+                    "count": "3",
+                    "name": "Mints|1_24_18"
+                }
+            ],
+            "offerType": [
+                {
+                    "count": "523",
+                    "name": "Y"
+                },
+                {
+                    "count": "255",
+                    "name": "N"
+                }
+            ],
+            "nutrition": [
+                {
+                    "count": "449",
+                    "name": "Kosher"
+                },
+                {
+                    "count": "184",
+                    "name": "Gluten Free"
+                },
+                {
+                    "count": "37",
+                    "name": "Fat Free"
+                },
+                {
+                    "count": "27",
+                    "name": "Peanut Free"
+                },
+                {
+                    "count": "39",
+                    "name": "Organic"
+                },
+                {
+                    "count": "19",
+                    "name": "Sugar Free"
+                },
+                {
+                    "count": "14",
+                    "name": "Vegan"
+                },
+                {
+                    "count": "12",
+                    "name": "Low Sodium"
+                },
+                {
+                    "count": "10",
+                    "name": "Dairy Free"
+                },
+                {
+                    "count": "3",
+                    "name": "Egg Free"
+                },
+                {
+                    "count": "1",
+                    "name": "Lactose Free"
+                }
+            ],
+            "departmentname_id": [
+                {
+                    "count": "778",
+                    "name": "Cookies, Snacks & Candy:|1_24"
+                }
+            ],
+            "shelfName": [
+                {
+                    "count": "61",
+                    "name": "Variety & Multipacks"
+                },
+                {
+                    "count": "37",
+                    "name": "Potato Chips & Crisps"
+                },
+                {
+                    "count": "26",
+                    "name": "Tortilla Chips"
+                },
+                {
+                    "count": "81",
+                    "name": "Cookies"
+                },
+                {
+                    "count": "25",
+                    "name": "Wheat Crackers"
+                },
+                {
+                    "count": "24",
+                    "name": "Classic Crackers"
+                },
+                {
+                    "count": "14",
+                    "name": "Pretzels"
+                },
+                {
+                    "count": "10",
+                    "name": "Graham Crackers"
+                },
+                {
+                    "count": "10",
+                    "name": "Sandwich Cookies"
+                },
+                {
+                    "count": "32",
+                    "name": "Applesauce"
+                },
+                {
+                    "count": "31",
+                    "name": "Cheese Crackers"
+                },
+                {
+                    "count": "28",
+                    "name": "Deli & Water Crackers"
+                },
+                {
+                    "count": "10",
+                    "name": "Saltines"
+                },
+                {
+                    "count": "5",
+                    "name": "Corn Chips"
+                },
+                {
+                    "count": "3",
+                    "name": "Trail Mix"
+                },
+                {
+                    "count": "54",
+                    "name": "Chocolate"
+                },
+                {
+                    "count": "53",
+                    "name": "Nuts"
+                },
+                {
+                    "count": "49",
+                    "name": "Salsa"
+                },
+                {
+                    "count": "28",
+                    "name": "Jerky"
+                },
+                {
+                    "count": "25",
+                    "name": "Fruit Snacks"
+                },
+                {
+                    "count": "21",
+                    "name": "Fruit Cups & Pouches"
+                },
+                {
+                    "count": "20",
+                    "name": "Candy"
+                },
+                {
+                    "count": "17",
+                    "name": "Microwave Popcorn"
+                },
+                {
+                    "count": "14",
+                    "name": "Grain Cakes"
+                },
+                {
+                    "count": "12",
+                    "name": "Pita & Bagel Chips"
+                },
+                {
+                    "count": "11",
+                    "name": "Pudding"
+                },
+                {
+                    "count": "10",
+                    "name": "Cheese & Queso Dip"
+                },
+                {
+                    "count": "10",
+                    "name": "Gum"
+                },
+                {
+                    "count": "9",
+                    "name": "Cheese & Puffed Snacks"
+                },
+                {
+                    "count": "9",
+                    "name": "Seeds"
+                },
+                {
+                    "count": "8",
+                    "name": "Popcorn"
+                },
+                {
+                    "count": "4",
+                    "name": "Sandwich Crackers"
+                },
+                {
+                    "count": "3",
+                    "name": "Biscotti"
+                },
+                {
+                    "count": "3",
+                    "name": "Gelatin"
+                },
+                {
+                    "count": "3",
+                    "name": "Mints"
+                },
+                {
+                    "count": "3",
+                    "name": "Multi-Grain Chips"
+                },
+                {
+                    "count": "3",
+                    "name": "Popcorn Kernels"
+                },
+                {
+                    "count": "3",
+                    "name": "Ranch & Onion Dip"
+                },
+                {
+                    "count": "3",
+                    "name": "Rice Crackers"
+                },
+                {
+                    "count": "2",
+                    "name": "Bean Dip"
+                },
+                {
+                    "count": "2",
+                    "name": "Snack Mixes"
+                },
+                {
+                    "count": "1",
+                    "name": "Pork Rinds"
+                },
+                {
+                    "count": "1",
+                    "name": "Wafer Cookies"
+                }
+            ],
+            "shelfName_id": [
+                {
+                    "count": "28",
+                    "name": "Variety & Multipacks|1_24_2_5"
+                },
+                {
+                    "count": "37",
+                    "name": "Potato Chips & Crisps|1_24_1_8"
+                },
+                {
+                    "count": "26",
+                    "name": "Tortilla Chips|1_24_1_10"
+                },
+                {
+                    "count": "81",
+                    "name": "Cookies|1_24_2_2"
+                },
+                {
+                    "count": "25",
+                    "name": "Wheat Crackers|1_24_3_8"
+                },
+                {
+                    "count": "24",
+                    "name": "Classic Crackers|1_24_3_2"
+                },
+                {
+                    "count": "14",
+                    "name": "Pretzels|1_24_10_1"
+                },
+                {
+                    "count": "10",
+                    "name": "Graham Crackers|1_24_2_3"
+                },
+                {
+                    "count": "10",
+                    "name": "Sandwich Cookies|1_24_2_4"
+                },
+                {
+                    "count": "32",
+                    "name": "Applesauce|1_24_4_1"
+                },
+                {
+                    "count": "31",
+                    "name": "Cheese Crackers|1_24_3_1"
+                },
+                {
+                    "count": "28",
+                    "name": "Deli & Water Crackers|1_24_3_3"
+                },
+                {
+                    "count": "28",
+                    "name": "Variety & Multipacks|1_24_3_7"
+                },
+                {
+                    "count": "10",
+                    "name": "Saltines|1_24_3_5"
+                },
+                {
+                    "count": "5",
+                    "name": "Corn Chips|1_24_1_2"
+                },
+                {
+                    "count": "5",
+                    "name": "Variety & Multipacks|1_24_1_11"
+                },
+                {
+                    "count": "3",
+                    "name": "Trail Mix|1_24_8_3"
+                },
+                {
+                    "count": "54",
+                    "name": "Chocolate|1_24_16_1"
+                },
+                {
+                    "count": "53",
+                    "name": "Nuts|1_24_8_1"
+                },
+                {
+                    "count": "49",
+                    "name": "Salsa|1_24_11_4"
+                },
+                {
+                    "count": "28",
+                    "name": "Jerky|1_24_7_1"
+                },
+                {
+                    "count": "25",
+                    "name": "Fruit Snacks|1_24_5_1"
+                },
+                {
+                    "count": "21",
+                    "name": "Fruit Cups & Pouches|1_24_4_2"
+                },
+                {
+                    "count": "20",
+                    "name": "Candy|1_24_14_1"
+                },
+                {
+                    "count": "17",
+                    "name": "Microwave Popcorn|1_24_9_2"
+                },
+                {
+                    "count": "14",
+                    "name": "Grain Cakes|1_24_9_1"
+                },
+                {
+                    "count": "12",
+                    "name": "Pita & Bagel Chips|1_24_1_6"
+                },
+                {
+                    "count": "11",
+                    "name": "Pudding|1_24_6_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Cheese & Queso Dip|1_24_11_2"
+                },
+                {
+                    "count": "10",
+                    "name": "Gum|1_24_17_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Cheese & Puffed Snacks|1_24_1_1"
+                },
+                {
+                    "count": "9",
+                    "name": "Seeds|1_24_8_2"
+                },
+                {
+                    "count": "8",
+                    "name": "Popcorn|1_24_9_3"
+                },
+                {
+                    "count": "4",
+                    "name": "Sandwich Crackers|1_24_3_6"
+                },
+                {
+                    "count": "3",
+                    "name": "Biscotti|1_24_2_1"
+                },
+                {
+                    "count": "3",
+                    "name": "Gelatin|1_24_6_1"
+                },
+                {
+                    "count": "3",
+                    "name": "Mints|1_24_18_1"
+                },
+                {
+                    "count": "3",
+                    "name": "Multi-Grain Chips|1_24_1_4"
+                },
+                {
+                    "count": "3",
+                    "name": "Popcorn Kernels|1_24_9_4"
+                },
+                {
+                    "count": "3",
+                    "name": "Ranch & Onion Dip|1_24_11_3"
+                },
+                {
+                    "count": "3",
+                    "name": "Rice Crackers|1_24_3_4"
+                },
+                {
+                    "count": "2",
+                    "name": "Bean Dip|1_24_11_1"
+                },
+                {
+                    "count": "2",
+                    "name": "Snack Mixes|1_24_1_9"
+                },
+                {
+                    "count": "1",
+                    "name": "Pork Rinds|1_24_1_7"
+                },
+                {
+                    "count": "1",
+                    "name": "Wafer Cookies|1_24_2_6"
+                }
+            ]
+        },
+        "facet_queries": {}
+    },
+    "category_map": {}
+}
