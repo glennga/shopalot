@@ -4,13 +4,14 @@ import json
 import os
 import random
 import time
+import decimal
 
 import faker
 
 from datagen import utility
 
 # Define the fields that will appear in a Orders document.
-REQUIRED_FIELDS = ['order_id', 'user_id', 'store_id', 'time_placed', 'items']
+REQUIRED_FIELDS = ['order_id', 'user_id', 'store_id', 'time_placed', 'items', 'total_price']
 NULLABLE_FIELDS = ['time_fulfilled', 'pickup_time']
 MISSABLE_FIELDS = ['time_fulfilled', 'pickup_time']
 ALL_FIELDS = [f for f in set(REQUIRED_FIELDS + NULLABLE_FIELDS + MISSABLE_FIELDS) if '.' not in f]
@@ -39,10 +40,14 @@ VALUED_DISTRIBUTIONS = {
         func=lambda: {**{
             'item_id': utility.get_unique_id('order.item', id_length=5),
             'qty': random.randint(1, 10)
+            # Note: prices have a null distribution defined in the utility function below.
         }, **utility.product_to_order_item(random.choice(p))},
         success_prob=lambda: random.random() > 0.8,
         minimum_times=1
-    )
+    ),
+
+    # The total price associated with an order. This is a derived attribute, and is also handled in the post-processing.
+    'total_price': lambda u, s, p: 1
 }
 
 # Define the missing and null distributions for each field. These must match the fields above. You can use the "."
@@ -100,12 +105,20 @@ def generate_orders(order_count, users_file, stocked_file, products_file, output
             output_fp.write('\n')
 
 
-def generate_orders_growth(input_file, date_range, growth_intervals, total_count, fake_data_generator, output_file):
+def enhance_orders(input_file, date_range, growth_intervals, total_count, fake_data_generator, output_file):
+    # We define the following to compute the total price attribute (we keep SQL's SUM NULL semantics here).
+    def find_total_price(items):
+        total_price = decimal.Decimal(0)
+        for item in items:
+            if item['price'] is not None:
+                total_price += decimal.Decimal(item['price'] * item['qty'])
+        return float(total_price.quantize(decimal.Decimal('0.01'), decimal.ROUND_HALF_UP))
+
     # Determine the size of our time intervals.
     growth_delta = datetime.timedelta(days=(date_range[1] - date_range[0]).days / growth_intervals)
     time_increments = []
     work_start = date_range[0]
-    for i in range(growth_intervals):
+    for _ in range(growth_intervals):
         work_end = work_start + growth_delta
         time_increments.append({'start': work_start, 'end': work_end})
         work_start = work_end
@@ -145,6 +158,7 @@ def generate_orders_growth(input_file, date_range, growth_intervals, total_count
             for d in sorted(generated_datetimes, key=lambda a: a['time_placed']):
                 line = input_fp.readline()
                 order_json = json.loads(line)
+                order_json['total_price'] = find_total_price(order_json['items'])
                 order_json['time_placed'] = d['time_placed'].isoformat() + '.000Z'
                 if 'pickup_time' in order_json:
                     order_json['pickup_time'] = d['pickup_time'].isoformat() + '.000Z'
@@ -170,6 +184,7 @@ def generate_orders_growth(input_file, date_range, growth_intervals, total_count
         for d in sorted(generated_datetimes, key=lambda a: a['time_placed']):
             line = input_fp.readline()
             order_json = json.loads(line)
+            order_json['total_price'] = find_total_price(order_json['items'])
             order_json['time_placed'] = d['time_placed'].isoformat() + '.000Z'
             if 'pickup_time' in order_json:
                 order_json['pickup_time'] = d['pickup_time'].isoformat() + '.000Z'
@@ -205,6 +220,6 @@ if __name__ == '__main__':
 
     # Add growth to our orders.
     argument_order_interval = [arguments.order_start_date, arguments.order_end_date]
-    generate_orders_growth(arguments.output_file + '.tmp', argument_order_interval, arguments.growth_intervals,
-                           arguments.order_count, faker.Faker(), arguments.output_file)
+    enhance_orders(arguments.output_file + '.tmp', argument_order_interval, arguments.growth_intervals,
+                   arguments.order_count, faker.Faker(), arguments.output_file)
     os.remove(arguments.output_file + '.tmp')
