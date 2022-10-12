@@ -13,16 +13,6 @@ MISSABLE_FIELDS = ['address.zip_code', 'categories']
 ALL_FIELDS = [f for f in set(REQUIRED_FIELDS + NULLABLE_FIELDS + MISSABLE_FIELDS) if '.' not in f]
 
 # Define the **valued** distribution for each field. These must match the fields above.
-global_hours = []
-def generate_hours(f, u):
-    hours_list = []
-    for day in ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']:
-        if random.choices([True, False], weights=[0.8, 0.2], k=1)[0]:
-            hours_list.append({'day': day,
-                  'open': random.choice(['8AM', '10AM', '12PM']),
-                  'close': random.choice(['4PM', '8PM', '10PM'])})
-    return hours_list
-
 VALUED_DISTRIBUTIONS = {
     # Each value in this dictionary is a function with the Faker data generator as the first argument (f) and a
     # random zip code row as the second argument (z).
@@ -51,7 +41,7 @@ VALUED_DISTRIBUTIONS = {
         is_distinct=True
     ),
 
-    'hours': lambda f, u: generate_hours(f, u)
+    'hours': lambda f, u: utility.generate_hours()
 }
 
 # Define the missing and null distributions for each field. These must match the fields above. You can use the "."

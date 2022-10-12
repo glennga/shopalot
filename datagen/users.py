@@ -12,7 +12,6 @@ MISSABLE_FIELDS = ['email', 'phones', 'kids']
 ALL_FIELDS = [f for f in set(REQUIRED_FIELDS + NULLABLE_FIELDS + MISSABLE_FIELDS) if '.' not in f]
 
 # Define the **valued** distribution for each field. These must match the fields above.
-PET_KINDS = ['cat', 'dog', 'fish', 'bird']
 VALUED_DISTRIBUTIONS = {
     # Each value in this dictionary is a function with the Faker data generator as the first argument (f) and the
     # current user record as the second argument (u).
@@ -24,7 +23,7 @@ VALUED_DISTRIBUTIONS = {
     # lists has a binomial distribution with success probability = 0.01.
     'phones': lambda f, u: utility.repeat_and_collect(
         func=lambda: {'kind': random.choice(utility.PHONE_TYPES), 'number': f.phone_number()},
-        success_prob=lambda: random.random() > 0.8
+        minimum_times=random.randint(0, 3)
     ),
 
     # A name is a composed of a first and last name.
@@ -34,12 +33,16 @@ VALUED_DISTRIBUTIONS = {
     'email': lambda f, u: utility.user_name_to_user_email(u['name']['first'], u['name']['last']),
 
     'kids': lambda f, u: utility.repeat_and_collect(
-        func=lambda: { 'name': f.first_name(),
-                       'age': random.randint(0, 18),
-                       'pets': utility.repeat_and_collect(
-                           func=lambda: {'name': f.first_name(), 'kind': random.choice(PET_KINDS)},
-                           minimum_times=random.randint(0, 2)
-                       )},
+        func=lambda: {'name': f.first_name(),
+                      'age': random.randint(0, 18),
+                      'pets': utility.repeat_and_collect(
+                          func=lambda: {'name': random.choice(['Milo', 'Otis', 'Willow', 'Angel', 'Coco', 'Gyopi',
+                                                               'Flounder', 'Daisy', 'Spot', 'Buddy', 'Hobbes', 'Fido',
+                                                               'Killer', 'Snoopy', 'Woodstock', 'Garfield', 'Odie',
+                                                               'Nermal', 'Nemo', 'Dory']),
+                                        'kind': random.choice(['cat', 'dog', 'fish', 'bird'])},
+                          minimum_times=random.randint(0, 2)
+                      )},
         minimum_times=random.randint(0, 4)
     )
 }

@@ -231,3 +231,13 @@ def get_unique_id(domain_key, id_length=5):
 
     # Return this unique ID back to the user.
     return candidate_id
+
+
+def generate_hours():
+    hours_list = []
+    for day in ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']:
+        if random.choices([True, False], weights=[0.8, 0.2], k=1)[0]:
+            hours_list.append({'day': day,
+                               'opens': random.choice(['8AM', '10AM', '12PM']),
+                               'closes': random.choice(['4PM', '8PM', '10PM'])})
+    return hours_list
